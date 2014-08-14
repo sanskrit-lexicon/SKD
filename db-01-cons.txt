@@ -1,8 +1,7 @@
-1 match for "db[^aAiIuURleohry]" in buffer: skd.txt
+1 match for "db[^aAiIuUfFxXeEoOry]" in buffer: skd.txt
 db followed by a consonant other than 'r' or 'y'  
-('h' is also excluded, since 'bh' in HK is aspirated 'b')
 There is just 1 such.
 The following line is also shown.  
 
-397520:<HI>vyAdhaH, puM, (vidhyati mRgAdIn | vyadha + “syAdbbya-
-397521 <>dheti |” 3 | 1 | 141 | iti NaH |) mRga-
+397520:<HI>vyADaH, puM, (viDyati mfgAdIn . vyaDa + “syAdbbya-
+397521 <>Deti .” 3 . 1 . 141 . iti RaH .) mfga-
