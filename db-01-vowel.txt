@@ -1,4 +1,4 @@
-5735 matches for "db[aAiIuUReo]" in buffer: skd.txt  (slp1)
+5906 matches for "db[aAiIuUfFxXeEoO]" in buffer: skd.txt (slp1)
    1830:<>gfhItvA dakziRenEva saMpuwaM kArayedbuDaH ..
    5698:<>samAsaH .) sakaYcukAH maDye yadbaDnanti tat . ka-
    6371:<>BivyAhftArTavAdena tadbADAyogAt kintu tasyEva
@@ -341,6 +341,7 @@
  114430:<>“candrakAlAnalaM cakraM vyomAkAraM liKedbuDaH .
  114445:<HI>candrakUwaH, puM, (candrAKyaH kUwaH parvvataH . yadbA, candraH
  114554:<>kIdfk sarastadbiprendra ! bfhallohitasaMjYakam ..
+ 114658:<>yAnyAM yayAterdbO puttrO yadusturvvasuSca . Sarmmi-
  114725:<>rdbeBAryye kuntI mAdrI ca . mfgIBUtasya muneHSApA-
  114809:<>SAla + Rvul . wApi ataM itvam . yadbA, candra-
  114867:<>SfRu pOzya ! yaTA BAvI puttrastava kulodbahaH .
@@ -365,6 +366,7 @@
  116614:<>tatrAdyaH kfzRapratipadAdipOrRamAsyantaH . dbitIyaH
  116646:<>“tiTipiRqAMScaredbudDvA Sukle SiKyaRqasaMmitAn .
  116716:<>sTalajaM jalajaYceti cAmaraM dbiviDaM viduH .
+ 116801:<HI>cAmuRqA, strI, (mahAsaMgrAme caRqamuRqAKyO dbO
  116874:<>aR .) gUQ2apuruzaH . caraH . tadbivaraRam . yaduktaM
  116929:<>“BftErbARijyacAraYca puttrEH seveta ca dbijAn ..”
  117143:<>+ ac Ro vA . yadbA cAlayati AcCAdayatyane-
@@ -372,6 +374,7 @@
  117441:<>azwAdaSANgulaM dErGyaM vistAro dbAdaSANgulaH .
  117525:<>“citrasaMjYamIritaM samAnikApadadbayantu .”
  117614:<>(parvvato'yaM prayAgakzetrasTaBaradbAjASramAt sArdDa-
+ 117646:<>“brahmapAdAMSataH SUdramasISO dbO baBUvatuH .
  117694:<>aGadbizi kawAkzoktirvijalpo viduzAM mataH ..
  117729:<>sakfdadanaviDUtadbandvaDarmmA vinazwAH .
  117741:<>dustyajadvandbaBAve'smin prAptirnArhetyanudDatam .
@@ -391,6 +394,7 @@
  119292:<>cetakIM yAvadbiDfttya haste tizWati mAnavaH ..
  119467:<>BaktimArgasTitiH kasmAttadbadasva jagadguro ! ..
  119566:<>yaH SyAmaM daDadASu varRakamamuM SyAmo yuge dbApare
+ 119648:<>pracArayitumicCan nityAnandAdbEtAcAryyA-
  119743:<>satsaNgayukto dbijadevaBakto
  119882:<HI>corapuzpI, strI, (coro ganDadravyaviSezastadbat suganDi
  119908:<>kaPoRirjAnu ca taddbayamasyate kzipyate atra
@@ -429,6 +433,7 @@
  122136:<>AryyAparArdDatulye daladbaye prAhurupagItim .
  122141:<>AryyASakaladbitaye viparIte punarihodgItiH .
  122171:<>atra dbitIyacaraRAntalaGorgurutvam ..
+ 122180:<>mudamAtanute'tra paktrimaM tadbEtAlIyaM PalaM hareH ..
  122322:<>snigDaM GanaM svAdu kaPAdbiSudDaM
  122418:<HI>CarddikA, strI, (Carddi + svArTe kan . striyAM wAp . yadbA,
  122470:<HI>CaviH, strI, (Cyati sUkzmaM karoti yadbA
@@ -447,6 +452,7 @@
  123612:<>punarjAyate iti . ut + BU + ac . yadbA,
  123784:<>vAgdevI kamalA nityA dbiDA mAtrA prakI-
  123857:<>kftvA dbAdaSaDAtmAnaM kASIpuryyAM vyavasTitaH ..”)
+ 123880:<>gama + “varttamAne pfzadbfhanmahajjagacCatfvacca .”
  123891:<>(sA ca dbAdaSAkzarA vfttiH . yaTA, Cando-
  124055:<>tato devAH prAhuragniM BItA udbignamAnasAH ..
  124056:<>agne ! etadbijAnIhi kimetat karmma cAdButam .
@@ -878,6 +884,7 @@
  140055:<>“lavaRArRavapAnena tarzotkarzamivodbahan . [Page2-601-a+ 52]
  140088:<>vidANkurvvantu mahatastalaM vidbizadamBasaH ..”
  140241:<>udBavo'sya . yadbA, tavarAjAt udBavatIti .
+ 140280:<>tataH . “tadbfhatoH karapatyoH iti suwdalopO .
  140293:<>tAq2aNkaH . iti dbirUpakozawIkAyAM BarataH ..
  140399:<>mAtApitarO . ityamaraH .. dbivacanAnto'yam ..
  140515:<>5 . 2 . 103 . iti aR . yadbA, tapaH SIla-
@@ -907,6 +914,7 @@
  141702:<>binDudbayaM guruScEva Bavedyatra sa darpaRaH .. 17 ..
  141709:<>tAle syAnmallikAmode ladbayaM Kacatuzwayam .. 23 ..
  141712:<>drutadvandvaM BavettAle kuhakkAKye laGudbayam .. 26 ..
+ 141718:<>caturdrutA laGU dbO tu druto go vanamAlini .. 32 ..
  141720:<>BagaRaH pluto lagO bindudbayaM gO naH plutastaTA .
  141721:<>laGuH pluto drutaScEko laGudbayamaTApi ca ..
  141724:<>go drutO nO plutadbandbaM candravimbe prakIrttitam .. 36 ..
@@ -956,6 +964,7 @@
  143509:<>lalAwadakziRe brahmA vasedbAme maheSvaraH .
  143529:<>daRqAkAradbireKaM yattilakaM mUlakoRakam .
  143634:<>tadbastizu ca pAne ca nasye karRAkzipUraRe .
+ 143726:<>cUrRayettu triDA kftvA dbO BAgO ScyotayettataH ..
  143755:<>kftaM tretA dbAparaYca tizyaYca kuruvardDana ! ..”)
  143818:<>“pIWe dikkaravAsinyA dbirUpA ramate SivA .
  144054:<>“saMvatsaraM dbimAsonaM punastIrTaM vrajedyadi .
@@ -1034,6 +1043,7 @@
  147980:<>yastu gAyati suSroRi ! kOmudyAYcEva dbAdaSIm .
  147995:<>triMSadvarzasahasrARi triMSadbarzaSatAni ca .
  148042:<>“tvaM ha tyadindra codIH saKA vftraM yadbajrin
+ 148203:<>kaPavAtanASitvaYca . tadbfhatPalaguRAH . mUtra-
  148238:<>“dbitriByAM tayasyAyajvA .” 5 . 2 . 43 .
  148426:<>zazWyAhvAM trAyamARAYca dadyAdbIsarpaSAntaye ..”
  148723:<>laGupittAgnikfdbalyaM kaPavAtavizApaham ..”
@@ -1051,6 +1061,7 @@
  149229:<>madirAGUrRanayanAM raktadantacCadadbayAm .
  149284:<>sadASivaM hasantantu pretavadbiniDAya vE .
  149293:<>Adyantu vAgBavaM rUpaM dbitIyaM kAmarAjakam ..
+ 149338:<>ekaBAgaM harItakyA dbO BAgO ca viBItakam .
  149375:<>sTAne triPalAkalponAma dbitIyo'DyAyaH ..)
  149428:<>“gAyattrIM triH sakfdbApi japedbyAhfti-
  149469:<HI>triyugaH, puM, (trIRi yugAni satyatretAdbApara-
@@ -1061,7 +1072,9 @@
  149590:<>vyAlacOramfgAdiByo rakzAM kuryyAdbiSezataH .
  149628:<>vyApnotIti . vi + kramaM + ac . yadbA, trizu
  149927:<>dbiDABAvamAtre akaM-CedanamAtre sakaM-sew .)
+ 149928:<>dbO dantyavargapraTamAdI . ka Na, trowayate . ya,
  149939:<>dbiDABAvamAtre akaM-CedanamAtre sakaM-sew .)
+ 149940:<>dbO dantyavargapraTamAdI . ka Na, trowayate . ya,
  149978:<HI>tretA, strI, (trIn BedAn eti prApnotIti . yadbA,
  149993:<>dbizawlakzaparimitaM zaRRavatisahasrakam .
  150009:<HI>tretAyugaM, klI, (tretEva yugam .) dbitIyayugam .
@@ -1147,6 +1160,7 @@
  154675:<>rAhordbAdaSavarzARi BfgorapyekaviMSatiH ..” * ..
  154685:<>“udbignacittapariKeditavittanASa-
  154700:<>kzipraM BavedbuDadaSAsu hitArTasidDiH .. 4 ..
+ 154708:<>yAvadbfhaspatidaSA puruzo hi tAvat .. 6 ..
  154745:<>kuryyAdbiBUtivaravAhanamAtapatra-
  154775:<>kuryyAdbinASaniDanaYcadaSA kujasya ..
  154781:<>mahAjanakfto dbezaH kujasyAntargate SanO ..
@@ -1157,6 +1171,7 @@
  154913:<>tyaktaH syAdbAnDavEH sarvvErBArgavAntargate ravO ..
  154945:<>dbApare yoginI cEva kalO nAkzatrikI daSA ..”
  155037:<>azwame dbApare vizRurazwAviMSe parASarAt .
+ 155041:<>devakyAM vasudevena dbEpAyanapuraHsaraH .
  155188:<>“trAhi naH SaraRApannAMstrElokyadahanAdbizAt ..”)
  155306:<>viDivat snAnadAnAByAM kurvvan yadbiDipUjanam .
  155338:<>piRqapuzpaH 3 dAq2imbaH 4 parvvaruk 5 svAdbamlaH 6
@@ -1168,9 +1183,12 @@
  155593:<>iti hArIte dbitIyasTAne praTame'DyAye ..)
  155626:<>upozyAByarccayedbidbAn maDunA tilakfzRakEH ..
  155634:<>dbAdaSyAmarccayedbizRumupozyAGapraRASinIm .
+ 155639:<>santatikAmaH satataM pUjayedbE purandaram .
+ 155642:<>karmmaRAM sidDikAmantu pUjayedbE vinAyakam ..
  155686:<>tadbivaraRaM yaTA, --
  155703:<>kftaGnAya ca yaddattaM sarvvadA brahmavidbize .
  155716:<>dbimUrdDA 1 SambaraH 2 arizwaH 3 hayagrIvaH 4
+ 155760:<>yAvadvatsasya dbO pAdO muKaM yonyAM pradfSyate .
  155766:<>dbijAya yadaBIzwantu dattvA svargamavApnuyAt .
  155776:<>brahmadAnasamaM puRyaM prApnoti dbiguRonnatim .
  155778:<>na SrotavyaM dvijenEva tadaDo nayati dbijam ..
@@ -1207,7 +1225,10 @@
  157154:<>tmakam . brahmamAne divyadbisahasrayugAtmakam .
  157169:<>dive 11 dyavidyavi 12 . iti dbAdaSAharnAmAni .
  157193:<>mAzwamEkAdaSadbAdaSarASayaH . iti jyotizam ..
+ 157234:<>dilIpanAmAnO dbO nfpO jAtO ekaH aMSumataH
  157244:<>“anamitrasya DarmmAtmA vidbAn duliduho'Bavat .
+ 157387:<>“sAndrAnandapurandarAdidivizadbfndEramandAdarA-
+ 157456:<>sa yAti kAlasUtraYca yAvadbE brahmaRo vayaH ..”
  157486:<>gaRanayA dbipaYcASadaDikaSatayutasahasraM BedA
  157535:<>cakzuryasya . yadbA, divyaM cakzurjYAnanetraM yasmAt .
  157551:<>upayAcitakaM divyadohadaM tadbidurbuDAH ..
@@ -1227,6 +1248,7 @@
  158345:<>sarvvaMsahA vasumatI sahate na tvidaM dbayam .
  158380:<>prasannArTantu taM dadyAdupacArAdbahiHkftam .
  158436:<>yasya kasyApi mAsasya Suklapakze ca dbAdaSI .
+ 158438:<>dIpaM dattvAparADAdbE taranti manujA Buvi .
  158455:<>“sarvvaMsahA vasumatI sahate na tvidaM dbayam .
  158612:<>mahAniSi dbitIyaM syAt pUrbbedyurvyAptyanAptayoH
  158614:<>kAlyarccanaM syAt ityarTaH . praTamaM pArvvaRaM dbitIyaM
@@ -1240,6 +1262,7 @@
  159530:<>krOYcadbIpADipaterdyutimataH puttrARAmanyatamaH .
  159531:<>krOYcadbIpasya deSaBedaSca yaTA, brahmARqe 36
  159534:<>tezAYca nAmaBirdeSAH krOYcadbIpASrayAH smftAH ..”
+ 159542:<>tena tasya mahadbEraM balinaH strIkftaM purA ..”)
  159657:<>tadbati, tri ..
  159664:<>“devadbijapitFn dbezwA ratnadUzayitA ca yaH .
  159728:<>durgaBUmO yajeddurgAM dikpAlAMScEva dbArataH .
@@ -1286,6 +1309,7 @@
  162299:<>yadbA, devezu indriyezu dIpaH prakASakaH .) loca-
  162358:<>nandi + RiniH .) indradbArapAlaH . iti hema-
  162454:<>“admo dbijAn devayajIn nihanmaH ..”
+ 162500:<>saha vijahAra . asyAH puttrO dbO yadusturvvasuSca .
  162638:<>SIlaM vrataM yasya . yadbA, devasyeva vrataM sTira-
  162698:<>tadbivaraRaM mahABArate . 3 . 223 aDyAyamAraBya
  162702:<>pAlayedbIryyamASritya sa jYeyaH puruzo mayA ..”)
@@ -1318,6 +1342,7 @@
  164309:<>iti hemacandraH . 4 . 4 .. dbivacanAnto'yam ..
  164348:<>dbiDudinAptagatAvamavarjjitaH ..
  164387:<HI>dyuniSaM, klI, (dyu ca niSA ca dbayoH samAhAraH .)
+ 164438:<>rAjAntakaraRAvetO dbO dozO pfTivIkzitAm ..
  164444:<>tAn sarvvAn GAtayedrAjA SUdrAMSca dbijaliNginaH ..
  164481:<>kuSabdena mahI jYeyA mudA harze ca vE dbija ! .
  164620:<>sAMsidDikantu salile dbitIyaM kzititejasoH ..
@@ -1326,6 +1351,7 @@
  164848:<>“sPawikArIdbayaYcEva palaM dbipalikantaTA .
  165043:<>tasya tadbardDate nityaM sicyamAna iva drumaH ..”)
  165177:<>BAradbAjaM tadAgneyaM mahAstraM pratyapAdayat ..”
+ 165216:<>dbO sUryyAviva no budDirAsIttasmiMstaTAgate ..
  165420:<>dbApere drOpadI CAyA tena kfzRA trihAyaRI ..
  165435:<>vyaktizu .” 8 . 1 . 15 . iti dbiSabdasya dbirva-
  165440:<>vinA hetumapi dbandbametanmUrKasya lakzaRam ..”)
@@ -1369,6 +1395,7 @@
  165531:<>“dbandvo dbigurapi cAhaM madgfhe nityamavyayIBAvaH ..”)
  165536:<>rBaNgo BruvAM dbandvacarAH stanAnAm .
  165546:<>“dbitriByAntayasyAyajvA .” 5 . 2 . 43 .
+ 165548:<>BAzA . tatparyyAyaH . uBO 2 dbO 3 yugalam 4
  165549:<>dvitayam 5 yugam 6 dvEtam 7 yamam 8 dbandvam
  165559:<>bAhulakAt kvip .) dbAram . ityamaraH . 2 . 2 .
  165561:<>“dbAri dyunadyA-fzaBaH kurURAM
@@ -1407,17 +1434,22 @@
  166279:<>sA candrasya dbitIyakalAkriyArUpA . Suklapakze 2
  166299:<>aTa raTadbitIyA . skandapurARe .
  166351:<>4 . 58 . iti qAc .) vAradbayakfzwakzetram .
+ 166359:<>gaRAt .” 5 . 4 . 73 . iti qac .) dbO vA
  166362:<>“dbitrARyahAnyarhasi soQ2umarhan
  166370:<HI>dvidehaH, puM, (dbAByAM deho'syeti . gajAnanatvA-
  166378:<HI>dviDAgatiH, puM, (dbiDA dbiprakArA gatiryasya .)
+ 166381:<HI>dviDAtuH, puM, (dbO DAtU yasya . devagajadehavattvA-
  166389:<>nirGaRwaH .. dbiprakAraleKanIye, tri ..
  166390:<HI>dvinagnakaH, puM, (dbirdvitIyo nagnaka iva .) duScarmmA .
  166400:<>5 . 4 . 74 . iti aH .) paTadbayam . domAtA
  166404:<HI>dvipadaH, puM, (dbe pade yasya .) manuzyaH . (yaTA,
  166416:<HI>dviparRI, strI, (dve dbe parRe yasyAH . NIp) vana-
  166417:<>kolI . iti ratnamAlA .. parRadbayayukte, tri ..
+ 166418:<HI>dvipAt, [d] tri, dbO pAdO yasya saH . (pAdasya
  166419:<>pAdBAvaH .) pAdadbayayuktaH . iti mugDaboDa-
+ 166421:<HI>dvipAdyaM, klI, (dbO pAdO parimARamasya . “paRa-
  166424:<HI>dvipAyI, [n] puM, (dbAByAM muKaSuRqAByAM piba-
+ 166430:<HI>dvibinduH, puM, (dbO bindU yatra .) visargavarRaH . yaTA,
  166431:<>bindudbibindumAtrO varRO kramAnnuvI saMjYO staH .
  166432:<>iti mugDaboDavyAkaraRam .. SUnyadbayaYca ..
  166433:<HI>dvimAtfjaH, puM, (dbAByAM mAtfByAM jAyate iti .
@@ -1452,7 +1484,9 @@
  166798:<>“dbezwArastasya nEvAsan sa ca dvezwi na kaYcana ..”)
  166799:<HI>dvezyaH, tri, (dbezwumahaH . yat .) dbezavizayaH .
  166817:<HI>dvEtaM, klI, (dbiDA itaM dvItam . tasya BAvaH . yuvAdi-
+ 166820:<>“viSoko brahmasampattyA saMCinnadbEtasaMSayaH .
  166854:<>vA Ikak .) dbitIyaH . yaTA, -- [Page2-772-c+ 52]
+ 166855:<>“dbEtIyIkatayA mito'yamagamattasya prabanDe mahA-
  166897:<>nyasto dvIpe sa yadbAlastasmAddvEpAyanaH smftaH ..”
  166953:<>dvitIyAcandravadbAlo vfdDiM yAto dine dine ..”)
  166959:<HI>dvEmAtfkaH, puM, (dve mAtfke iva yasyAsO dbimA-
@@ -1495,10 +1529,13 @@
  168432:<>enAM gfhARa suBagAM kuladbayaSuBAvahAm ..”)
  168464:<>vasUn DArayase yasmAdbasuDAtIva nirmmalA ..
  168557:<>cakruste viDivadrAjaMstaTEvABizavaM dbijAH ..”)
+ 168592:<>kanyA ca nikftistAByAM sutO dbO narakaM Bayam ..
  168607:<>tretAyAM tripadaScAsO dbipado dbApare'Bavat ..
  168613:<>taTA Adyanta oNkAradbiSirAH saptahastavAn
  168622:<>jyezWaH sanatkumAro'BUddbitIyaSca sanAtanaH .
+ 168663:<>nfpezu DarmmaSIlezu satsu sadbESyajAtizu ..
  168760:<>DarmmakzetraM kurukzetraM dbAdaSayojanAvaDi ..”
+ 168978:<>“tApasO DarmmaputtrO dbO suSAntamanasAvuBO ..”)
  169006:<>“vedo'Kilo DarmmamUlaM smftiSIle ca tadbidAm .
  169086:<>tatra prayogaH . patradbaye SuklaM DarmmaM kfzRamaDarmmaM
  169214:<>sarvvAnugaH suSarmmA ca devAnIkaH purUdbahaH ..
@@ -1542,8 +1579,10 @@
  172259:<>zoq2aSaratibanDAntargatadbAdaSabanDaH . yaTA, -- [Page2-807-b+ 52]
  172270:<>dbAreti . sUda + Ric + lyuH .) SrIkfzRaH . iti
  172417:<>candraH . 2 . 234 .. adbitIyavastuni vicCidya
+ 172582:<>“dvAvurasyO SirasyO dvO dbO dvO ranDropa-
  172600:<>sunItirnAma yA rAjYastasyABUnmahizI dbija ! .
  172623:<>purAcca nirgamya tatastadbAhyopavanaM yayO ..
+ 172645:<>sUryyAt somAt taTA BOmAt somaputtrAdbfha-
  172671:<>tato dbiKaRqamABoge tAlamAnarasEH saha ..
  172719:<>veSitakarmmADikAro'KilajagadbanDaDvaMsanAparAnu-
  172763:<>sapatAko nizpatAkaH sa jYeyo dbiviDo buDEH ..
@@ -1560,6 +1599,7 @@
  173131:<>jambUH . yadbA, DvANkzapriyA jambUH .) kAkajambUH .
  173239:<>sugataH . banDaH . dbiraRqaH . stutaH . iti medinI .
  173339:<>upavAsena dAnena nEvAdbAdaSiko Bavet ..’
+ 173465:<>dbO mAsO pUrbbaPalgunyAmuttarAsu tripaYcakam .
  173467:<>mAsadbayaM taTA svAtyAM viSAKe dinaviMSatim .
  173504:<>maGAdijyezWaparyyantaM dbitIyaM navatArakam ..
  173555:<>viSAKA BujayorhastaH karadbayamudAhftam .
@@ -1577,6 +1617,7 @@
  174163:<>lAvaRyaM vapuzaH smftiH sumanasaH SAntirdbijasya
  174230:<>“sasEkatA sapAzARA dbiviDA cAmbuvAhinI .
  174315:<>pASA vEtaraRI vedI pAlA kumudbatI toyA durgA
+ 174350:<>sarvvaDAtumayastatra sumahadbEdyuto giriH ..
  174382:<>kftvA dbiDA himavantaM pravizwA dakziRIdaDim .
  174423:<>tasmAt dbayaM praBavati ganDarvvI nakulA ca teM .
  174685:<>“aBivandya jagadbandyapadadbandvavinAyakam .
@@ -1651,6 +1692,7 @@
  177754:<HI>navAMSaH, puM, (navamo'MSaH .) mezAdidbAdaSalagnAnAM
  177877:<>tasmAddadyAt sadA yukto vidbatsu brAhmaRezu ca ..
  178003:<>gurupatnIM mAtfparAM tyaja madbacanAdviDo ! ..
+ 178007:<>kumBIpAke pacyate ca yAvadbE brahmaRaH Satam ..
  178020:<>yogena candraM yogIndro dbiKaRqaYca cakAra saH .
  178028:<>BasmAdbaBUva candraSca nizpApo devasaMsadi .
  178080:<>SoDanaH stamBanastu syAdavapIq2o dbiDA mataH ..
@@ -1735,6 +1777,7 @@
  181463:<>“kAnyakubje dbijaH kaSciddAsIpatirajAmilaH .
  181496:<>trivfdbiSAle dbiguRe sAtalA syAccaturguRA ..
  181539:<>ezAM dbipalikAn BAgAn pezayitvA viniH-
+ 181563:<>gavyAjapayasaH prasTO dbO dvAvatra pradApayet ..
  181601:<>cUrRIkftAnAM dbipalapramARam .
  181699:<>aSOcaM piRqadaH kuryyAnna tu tadbanDugotrajAH ..
  181718:<>tatrEkaM mukuwodbadDaM mUrdDanyajawajAlakam .
@@ -1777,6 +1820,7 @@
  183957:<>kulawAsu ratiScAsya BavatyanyESca tadbiDEH . [Page2-882-c+ 52]
  184089:<>na cAtmAnaM praSaMsedbA paranindAYca varjjayet .
  184115:<>dalanagalitamUrdDnAM vidbizAM svIkftA SrIH .
+ 184364:<>dbO nimezO truwirnAma dve truwI tu lavaH smftaH ..’
  184486:<>iti BavizyapurARe dbitIyakalpaH ..
  184541:<>“niyamAH paYca satyAdyA bAhyamAByantaraM dbiDA .
  184582:<>kAvyaprakASe dbitIyollAsaH .. banDanam . yaTA .
@@ -1940,6 +1984,7 @@
  194640:<>“atyamlaparRIkARqIramAlAkandadbiSUraREH .
  194901:<>tmakatve samAne'pi tezu ca vESizwyAttu tadbAdasta-
  194941:<>“dvAsaptatisahasrARi nAq2IdbArARi paYjare .
+ 195010:<>vfdDena ca BavedbfdDo vyADite vyADito Bavet .
  195039:<>“Atonupeti” . 3 . 2 . 3 . kaH . yadbA pawatIti .
  195270:<>nam . iti dbirUpakozaH ..
  195372:<>vizRuM DIraH . are tu dbayorarTayoreva AyasyA-
@@ -2034,6 +2079,7 @@
  200972:<>(ayaM hi dbAdaSADyAyAtmikAM DarmmasaMhitAM kfta-
  201089:<>“fdorap .” 3 . 3 . 57 . iti ap . yadbA
  201127:<>nagaradbArakUwakam 3 . iti hemacandraH ..
+ 201341:<>karmma .) paricaryyA . tadbEdikaparyyAyAH . ira-
  201505:<>kaPapitte samAvftya SUlakArI BavedbalI ..”
  201519:<>“saMsfzwalakzaRaM budDA dbidozaM parikalpayet .
  201593:<>sinDUtTaM viq2acUrRakaM samakftaM syAdbIjapUre rase ..
@@ -2059,6 +2105,7 @@
  203508:<>maDyAsya prayataparigrahadbitIyaH . [Page3-072-b+ 52]
  203574:<>iti BAvaprakASe pUrbbaKaRqe dbitIyaBAge ..
  203610:<HI>paryyaNkabanDanaM, klI, (paryyaNkavat yadbanDanam .)
+ 203708:<>yaTA . paryyAptiScAyameko Gawa imO dbO ityAdi
  203866:<>“sUcI mAhizakaScEva parvvakArI ca yo dbijaH ..”
  204027:<>parvvatopari yadbAri samaM pOrandareRa tat .
  204042:<>divyaYca candanantatra tasyAstIre mahadbanam .
@@ -2131,6 +2178,7 @@
  208309:<>saha viSezavidyArTisuDIvaravidbajjanaSikzArTaM
  208388:<>“paScimena taTA merorviskamBAt paScimAdbahiH .
  208399:<>tadbarRaviSizwe, tri . ityuRAdikozaH .. (yaTA,
+ 208706:<>cintAyAsAdoDanAdbE manuzye
  208904:<>BakzayedbadarABAntAcCoTapARqu praSAntaye .
  208937:<HI>pARqunAgaH, puM, (pARquvarRo nAga iva . yadbA, nAga
  208945:<>“reRukA rAjaputtrI ca nandinI kapilA dbijA .
@@ -2207,6 +2255,7 @@
  214810:<>nAmatastAni vakzyAmi saMkzepeRa dbijottamAH ! .
  214841:<>irAvatI nadI tadbat pitftIrTADivAsinI ..
  214842:<>yamunA devikA kAlI candraBAgA dfzadbatI .
+ 214850:<>pUrbbamitrapadantadvadbEdyanATaM mahAPalam .
  214879:<>dbArakA kfzRatIrTaYca taTArbudasarasvatI ..
  214905:<>AmrAtakeSvaraM tadbadekAmBakamataH param ..
  215065:<>ete ta ekatanavo varttante dbijasattamAH .
@@ -2265,6 +2314,7 @@
  220477:<>etadbrahmapuraRAntu BAgadbayasamAcitam .
  220485:<>yaH paWecCfRuyAdvApi brAhmAnukramaRIM dbija ! .
  220557:<>AmrAdidAnamAhAtmyaM tanmahAdbAdaSIvratam .
+ 220573:<>sa laBedbEzRavaM DAma BuktvA BogAnihepsitAn ..
  220603:<>narakodbArakaM karmma gaditaYca tataH param ..
  220615:<>tatastu yOvane proktA lIlA dbAravatIBavA ..
  220674:<>saNgamEH sahitAnyevaM revAtIradbaye'pi ca .
@@ -2298,6 +2348,7 @@
  222389:<>suBagA BavantyanudbadDacUcukA nirDanA vizamadIrGEH .
  222549:<>yadyadgAtraM rUkzaM mAMsavihInaM SirAvanadbaYca .
  222574:<>snigDadbijatvaNnaKaromakeSa-
+ 222783:<>anvizya yatnAdbfRute nfpendra !
  222801:<>devAderdbIptyostrAjitisUtreRa trAcpratyayanizpa-
  222822:<HI>puruzadvezI, [n] tri, puruzadbezaSIlaH . puruza-
  222933:<>somaputtrAdbuDAdrAjan ! tasyA jajYe purUravAH .
@@ -2351,6 +2402,7 @@
  227801:<>pravepamAnA tadbARaparitrARaparAyaRA ..
  227896:<>dogDA dbimUrdDA tatrAsInmAyA yena pravarttitAH ..
  228151:<>jAtismaro ruzadgustu gaNgAdbAre tadA sTitaH .
+ 228305:<>+ “varttamAne pfzadbfhanmahaditi .” uRA0 2 .
  228376:<>pfzadbalastu vAyvaSvaH kuvere tu pramoditaH ..”
  228409:<>“na vigarhya kaTAM kuryyAdbahirmAlyaM na DArayet .
  229191:<>maDuparkeRa saMpUjya rAjAnaYca dbijAn SucIn ..’ [Page3-236-c+ 52]
@@ -2459,6 +2511,7 @@
  240443:<>85 . iti RyaH .) dbAdaSAhasADyavrataviSezaH .
  240487:<>ityarTaH . ityudbAhatattvam .. (taTA ca manuH .
  240513:<HI>prAjYaH, tri, (prajYa + svArTe aR . yadbA, prajYA-
+ 240740:<>tata etena mantreRa dadyAdbE maDuparkakam .
  240751:<>kurukzetraYca gaNgA ca yamunA ca saridbarA ..
  240811:<>sa dbiviDaH . sagarBo nirgarBaSca . taTA ca .
  240819:<>dbAtriMSadvArajapena vAyuM recayet . punarddakziRe-
@@ -2476,6 +2529,7 @@
  241179:<>dbahiH . taddeSaparimARamAha pitAmahaH .
  241214:<>“CAyAyAmanDakAre vA rAtrAvahani vA dbijaH .
  241287:<>dbitIyA ca tftIyA ca tadardDaM parikIrttitam ..”
+ 241328:<>idantu dbEmuRyAdikaM saMKyAmAtre tadanantarABi-
  241357:<>sarvvABistu SiraH paScAdbAhU cAgreRa saMspfSet ..”
  241420:<>hftkaRWatAlugABistu yaTAsaMKyaM dbijAtayaH ..
  241442:<>dinA nizidbamiti kecit . hastenAcamane'pi
@@ -2495,6 +2549,7 @@
  241773:<>yadUrdDvaBAgastasyAstu SarIrasya dbijottamAH .
  241821:<>yat PalaM dbAdaSAbdAni prAjApatyEH kftErBavet .
  241823:<>ya icCedbipulAn BogAn candrasUryyagrahopamAn .
+ 241824:<>prAtaHsnAyI BavennityaM dbO mAsO mAGaPAlgunO ..
  241893:<>sizADayizAnumitayastatra dbitIyakzaRe pakzatA-
  241894:<>sampattyarTaM dbitIyaH sizADayizAviraho viSe-
  241981:<>daYyantAdbA prapUrbbApaDAtorBAve anaw pratyayaH ..
@@ -2504,6 +2559,7 @@
  242166:<>tadbat kalyARamAtizWan sarvvaM pApaM vyapohati ..
  242179:<>tasmAdvimuktimanvicCan dbitIyaM na samAcaret ..”
  242190:<>syAttvakAmakfte yattu dbiduRaM budDipUrbbake ..” * ..
+ 242217:<>“eko dbO vA trayo vApi yadbrUyurDarmmapAWakAH .
  242257:<>ekEkaSaScaret kfcCraM dbijaH pApApanuttaye ..” * ..
  242301:<>jAtiSaktiguRAn dfzwvA sakfdbudDikftaM taTA ..
  242318:<>keSAnAM DAraRArTantu dbiguRaM vratamAcaret .
@@ -2524,6 +2580,7 @@
  242640:<>rgiRAm . dvitIyasaMsargiRAM dbipAda-
  242674:<>brahmojJaH kfcCraM dbAdaSarAtraM caritvA
  242720:<>parimitasuvarRasteyasamAni . <C2>jYAnato dbAdaSavArzikavratam .
+ 242782:<>tadbEkalpikaM caturviMSativArzikavratam . <C3>360 DenavaH . <C4>1080 kArzApa-
  242786:<C1> <C2>ajYAnato dbAdaSavArzikavratam . <C3>180 DenavaH . <C4>540 kArzApa-
  242808:<>vaset . aparamAsadbaye upozyAparadine
  242894:<>kftavESyasvAmikagavIvaDaH . <C2>dbiguRaM mAsabratam . mAsavrataM yaTA .
@@ -2559,19 +2616,26 @@
  243439:<>vaDaH . <C2>dbAdaSavArzikavratam .
  243474:<C1>SUdrakarttfkajYAnakftavESyAvaDaH . <C2>dbivArzikavratam .
  243496:<>varRavyaBicaritabrAhmaRIvaDaH . <C2>dbivArzikavratam .
+ 243514:<>vaDaH . <C2>dftidAnam . jYAnakfte tu dbEguRyam .
  243583:<>rBavaDaH . <C2>zawtriMSadbArzikavratam .
  243610:<>garBavaDaH . <C2>azwacatvAriMSadbArzikavratam .
  243656:<>kabrAhmaRakarttfkasakfdbaDe veditavyam . <C3>0 <C4>1 .. 0 kArzApaRaH . <C5>hiraRyaM vastraM vA .
  243679:<C1>aTa sAmAnyapakzivaDaH . <C2>naktavratam . dbiraktiparimitarOpyadAnaM vA . <C3>0 <C4>// 13 .- paRO .
  243699:<>nam . tatrAyaM viSezaH . SukavaDe dbihA-
+ 243755:<>naYca . <C2>pUrbboktavfkzacCedanaprAyaScittadbEguRyAdi .
  243894:<>vidbajjugupsitAnnam . stenA-
  243945:<>RqikavfttidbijAnnam . cela-
  243986:<>lAdisparSe etadboDitavyam . <C2>sArdDasaptaDenvasamBa-
  244056:<C1>kumBIBakzaRam . <C2>dbAdaSarAtraM payaHpAnam . <C3>sapAdaDenvasamBa-
+ 244087:<>etat sakfdajYAne jYAne tu dbEguRyam .
  244100:<C1>dbimAsAdizaRmAsaparyyantaM preta-
  244107:<>pARimate tu dbitIyasAMvat-
  244120:<>etaddvijAnAmanApadbizayam . <C3>0 <C4>0 <C5>0
+ 244194:<C1> <C2>jYAnAt dbEguRyam . <C3>1 DenuH . <C4>3 kArzApaRAH . <C5>yaTASakti .
+ 244213:<>jYAnAt dbEguRyam . <C3>1 DenuH . <C4>3 kArzApaRAH . <C5>yaTASakti .
  244245:<>etadapi svAdbanupalabDAvaByAse . <C3>sapAdaDenvasamBa-
+ 244263:<C1> <C2>jYAtAt dbEguRyam . <C3>0 <C4>1 kArzApaRaH . <C5>yaTASakti .
+ 244265:<>ajYAnataH . jYAnato dbEguRyam . <C3>0 <C4>1 kArzApaRaH . <C5>yaTASakti .
  244274:<>kzIrasya dbAdaSa proktA daDnastu daSa
  244331:<>gavarjjaM dbistanIkzIram .
  244410:<C1>devadbijadravyApaharaRam . <C2>saMvatsaramapsu majjanaM aGamarzaRAvarttanaYca .
@@ -2583,12 +2647,14 @@
  244542:<>svEriRIgamanam . <C2>dbAdaSavArzikavratam .
  244571:<>rAjanyApUrbbI dbAdaSarAtraM caritvA
  244604:<C1> <C2>caturvviMSativAragamane dbAdaSavArzikavratam .
+ 244606:<>jYAnato dbEguRyam . avyavahAryyatA ca . <C3>180 DenavaH . <C4>540 kArzA-
  244705:<C1> <C2>varzadbaye atikfcCram . <C3>3 DenavaH . <C4>9 kArzApaRAH . <C5>yaTASakti .
  244754:<>pracurataradbijatarpaRaYca . mAsopavAsenE-
  244760:<>dItaravizayaH . <C2>jYAnAdazwacatvAriMSadbArAByAsAt dbAdaSa-
  244763:<C1> <C2>ajYAnAt dbiraByAse taptakfcCram . <C3>4 DenavaH . <C4>12 kArzApaRAH . <C5>yaTASakti .
  244768:<>dbAdaSavArzikavratam . <C3>180 DenavaH . <C4>540 kArzA-
  244789:<>dbAdaSarAtraM payovrataYca .
+ 244796:<>saMvatsarAdUrdDvaM dbEguRyatrEguRyAdikaM
  244940:<C1> <C2>mahApAtakABiSApe dbimAsaM kfcCram .
  244959:<>udbanDanapravrajyAnaSanavizapra-
  245012:<>balAtkAreRa udbanDanamftasya pASacCedana-
@@ -2674,6 +2740,7 @@
  247817:<>evaM nirIkzayedbeDaM kanyAmantre gurO sure .
  247913:<>jayet sannipAtaM dbiguYjakAnupAnaM
  247957:<>aTavA BavitavyAnAM dbArARi Bavanti sarvvatra ..”)
+ 247959:<>“PalAni sarvvaBakzyAMSca pradadyAdbE dalezu ca ..”
  248017:<>kedAre ca lakzaguRaM haridbAre taTA Palam ..
  248084:<>“SAlmale Palake SlakzRe nijyAdbAsAMsi nejakaH .
  248147:<>garddaBARqo ganDamuRqo dbitIyaH kziprapAkyasO ..”
@@ -2692,6 +2759,7 @@
  249275:<>tadbat bakulapunnAgakahlArotpalapAwalam ..”
  249288:<>nAhasTAnaM SuBAkAraM yadAsIdbajraBUzitam .
  249730:<>sTApayitvA vAhyaM vraRamudarasya sIvyet dbivraRI-
+ 249762:<>badDamUlasya mUlaM hi mahadbErataroH striyaH ..”
  249795:<>“evaM karmmaviSezeRa jAyante sadbigarhitAH .
  249808:<>kawUzRaM karRayorDAryyametat syAdbedanApaham .. 1 ..
  249816:<>sajalaYca sadugDaYca tadbADiryyaharaM param .. [Page3-392-b+ 52]
@@ -2763,7 +2831,9 @@
  251557:<>dadyAdvicakzaRo BaktyA navamyAM viDivadbalim ..
  251584:<>Apnoti satataM devI tfptiM dbAdaSavArzikIm ..
  251607:<>tasmAttu pUjane dadyAdbaleH SIrzaYca lohitam .
+ 251676:<>praBUtabalidAne tu dbO vA trIn vAgrataH kftAm .
  251681:<>anenEva tu mantreRa taTA taM pUjayedbalim ..
+ 251766:<>na ca tripakzakAnnyanaM pradadyAdbE patatriRam ..
  251815:<>evaM PalaM kramAdbidyAdfte jalaBavARqajO ..
  251838:<>mahAkOSikamantreRa nikzipedbalimuttamam .
  251888:<>tilamudgapramARAdbA devyE dattvA tu BaktitaH .
@@ -2800,6 +2870,7 @@
  253770:<>dvipaRe dbiSato daRqo mUlyavfdDO ca vfdDimAn ..”
  253780:<>paRamUlye punaH SataM dbipaRamUlye dbiSato daRqa
  253798:<>krayo vA nisravastasmAdbaRijAM lABakft smftaH ..”
+ 253833:<>tatra vikreyadravyasya carAcaraBedena dbEviDyamaBi-
  253903:<>ditadozaM vikrIRIte tadA tatpaRyamUlyAt dbiguRo
  253985:<>mAsamekaM dbayaM vApi ftuyogo Bavedyadi .
  253990:<>mAsEkena BavedyasyA ftusnAnadbayaM taTA .
@@ -2822,6 +2893,7 @@
  254314:<>“AdAya kfzRaM saMtrastA yaSodApi tato dbija ! .
  254380:<>tasmAttadupasargeByo rakzedbAlaM prayatnataH ..”
  254434:<>“srastANgaH kzatajasaganDikastanadbiw-
+ 254548:<>stanyakfdbfMhaRo vfzyaH pittaraktAnilApahaH .
  254679:<>pAyasaM sapuroqASaM tadbalyarTamupAharet .
  254777:<>Bavati jvaraH . gAtramudbejayati stanyaM na gfhRAti
  254818:<>na gfhRAti gAtramudbejayati . balintasya prava-
@@ -2846,6 +2918,7 @@
  256160:<>SarIrAH kAScidbiBagnagAtryaH kAScinnikubjAH
  256162:<>varttitaSIrzaSarIrAH kAScidbIRAvallakyAdyapari-
  256228:<>niyojayanti tadagnimutpAdayitumArdrakAzWadbaya-
+ 256237:<>ScidvA taRqulamekaM kadAcidbEkamAtraM kalAyaM
  256386:<>tiraskArapuraskArO ca tadban nizPalO . pitarO
  256396:<P>gfDrakUwAdbudDaH pAwalIgrAmamAjagAma . kapi-
  256503:<>cittavfttiniroDa ityarTaH . saMSayaH kowidbayaspfk
@@ -2896,9 +2969,11 @@
  258908:<HI>brahmavfkzaH, puM, (taMdAKyayA prasidDo vfkzaH . yadbA,
  258951:<HI>brahmasamBavaH, puM, dbipfzWanAmakajEnaviSezaH . iti
  259004:<>tatparyyAyaH . pavitram 2 yajYopavItam 3 dbijA-
+ 259196:<>varzI 34 kfpAdbEtaH 35 KasarpaRaH 36 loka-
  259251:<>catuzkoRaM caturdbAramazwapatrasamanvitam . [Page3-452-c+ 52]
  259305:<>tatrovAsa jagadDAtA tadbAmapArSvataSca sA .
  259392:<>AvirBavajjawABiSca tadbaktvaYcAvfRotpraBuH ..”
+ 259542:<>daDAra garBaM sA rADA yAvadbE brahmaRaH Satam ..
  259622:<>lokeSAvAhanaM tadbadaDivAsanakaM yaTA .
  259624:<>kalasadbayasaMyuktaM brahmARqaM kAYcanaM buDaH .
  259638:<>sTApayedbastrasaMyuktAn pUrRakumBAn daSEva tu ..
@@ -2926,6 +3001,7 @@
  260270:<>dbijeByaH kiMguRiByo vA tanme vyAKyAtumarhasi ..
  260369:<>priyo vA yadi vA dbezyastezAM na SrAdDamAvapet ..”
  260511:<>aruRodayakAlasya praTamadaRqadbayam . brAhma-
+ 260516:<>dayAt prAk ardDaprahare dbO muhUrtto tatrAdyo
  260527:<>dinayAminyO . sa tu dEvayugasahasradbayena Bavati .
  260651:<>dbiraRqo BUzaRo mUlaM yajYasUtrasya vAcakaH ..
  260725:<>“nAdyAt SUdrasya vipro'nnaM mohAdbA yadi-
@@ -2962,6 +3038,7 @@
  262890:<>BagnapAdarkzasaMyogAt dbitIyA dbAdaSI yadi .
  262917:<>BaginI . iti dbirUpakozaH ..
  262946:<>saMkzoBAdapi yadgacCedvikriyAM tadbivarjjayet .
+ 262985:<>jaNGorvvoH pArSvayordbO dbO tala ekaSca kIlakaH ..
  263196:<>“kzattriyAdbiprakanyAyAM Bawwo jAto'nuvAcakaH ..”
  263510:<>dbitIyasfzwO tu BavAn BadrakAlyA mayA hataH ..
  263542:<>dbIpasya navavarzAntargatavarzaviSezaH . yaTA, --
@@ -2975,6 +3052,7 @@
  264266:<>sutAdbayaM naraSrezWa ! patnyarTaM varayAmahe .
  264301:<>yo'BUdbaBUva BaratAgrajakfzRabudDaH
  264309:<>dbAjaSceti karmmaDArayaH .) muniviSezaH . sa ca
+ 264313:<>tamasA pArzRyapAstAdbfhaspativIryyAdutaTyapatnI-
  264314:<>mamatAsamutpanno BaradbAjAKyo nAma puttro maru-
  264329:<>Sloko devEH paWitaH . he mUQ2e mamate dbAjaM
  264332:<>spate ! dvAjaM dbAByAM jAtamimamekAkinI kimi-
@@ -3012,6 +3090,7 @@
  266862:<>veRA vEtaraRI cEva SinIvAlI kumudbatI ..
  267011:<>SrISuka uvAca . jambUdvIpasya ca rAjannupadbIpA-
  267097:<>gatO + padAdyac .) BAradbAjapakzI . iti
+ 267120:<>yuDizWiraM dbEtavane vanecaraH ..”
  267450:<>ityanekArTakozaH .. navagrahARAM SayanAdidbAdaSa-
  267586:<>paradbezI pravAsI ca SozagAtravyaTAnvitaH .. 9 ..
  267705:<>sarpAGAto mahABItirdbiBAryyo bahuBAzakaH .. 3 ..
@@ -3054,6 +3133,8 @@
  270151:<>parimaRqalo mahABAga ! dbIpo'sO cakravat
  270199:<>mupArSvaH kumudaSceti caturdikzu sTitA dbija ! ..
  270203:<>sahasrayojanonnAhAstAvadbiwapavistftAH ..
+ 270238:<>haMsavEdUryyakapilA dbO kAlaYjarajAruDI ..
+ 270240:<>jaWaro devakUwaSca dbO nagO merupUrbbataH .
  270242:<>pfTutuNgO dbisAhasrayojanaM tApasarzaBa ! .
  270280:<>atikramya SfNgavataH SfNgAdbegena pAtukA .
  270284:<>lavaRAmbuDimaByeti dakziRasyAM diSidbija ! .. [Page3-523-b+ 52]
@@ -3076,8 +3157,10 @@
  270689:<>tatra viprAdayo varRA nAmAntaraBfto dbija ! ..
  270694:<>GftodAcca taTA dvIpo dbiguRaH kroYcasaMjYakaH .
  270709:<>puruzaH praTamo varRo dbitIyo fzaBaH smftaH ..
+ 270746:<>aDyAsate ca dbO pArSvO prajAstasya mahAbalAH .
  270824:<>‘dbiviDagaRitamuktaM vyaktamavyaktasaMjYaM
  270880:<>praSnAn SlokottarArdbenAha .
+ 270936:<>dbO dbO ravIndU BagaRO ca tadva-
  270970:<>BamAnamasmAdbahu kiM taduktam ..
  270998:<>damftamamftaraSmiH SrISca yasmAdbaBUva .
  271173:<>sArdDadbiguRitAsannaM tAvadevApare dale ..
@@ -3089,6 +3172,7 @@
  271392:<>devatvaYca pitftvaYca yamasyAste dbirUpatA ..
  271551:<>tTitavahninA dagDvA tasya dbAtriMSadvArajapena
  271574:<>tatsaMsargi padadbandbamaNgapratyaNgapAtakam ..
+ 271679:<>dvitIye'zwAvazWame zaw diSi dbO zOq2aSe SrutiH ..
  272037:<>anAcCedyamanAhAryyaM dAnaleKyantu tadbiduH ..
  272059:<>antarAgamane cEva vidyAM nEva paWedbuDaH ..”
  272064:<>yatino vratinaScEva viDavA ca dbijastaTA .
@@ -3107,6 +3191,7 @@
  274172:<>“tatrApi BArataM SrezWaM jambudbIpe mahAmune ! .
  274235:<>PalAya laguq2aH kAryyastadbadBogyamidaM jagat .”)
  274423:<>yAmamaDye rasotpattiryAmayugmAdbalakzayaH ..”
+ 274441:<>“pitfmAtfsuhfdbEdyApApakfdDaMsavarhiRAm .
  274473:<>na jAtu BuktavAn KAdenmAtrAM KAdedbuBu-
  274490:<>BojyaM SItamahfdyaYca syAdbilambitamaSnataH ..”
  274789:<>catuzkoRaM dbijAgrasya trikoRaM kzattriyasya tu .
@@ -3132,6 +3217,7 @@
  277166:<>suSrutaH .. dbayamevAha trikARqe BAguriH ..
  277481:<>iti paWitvA . tata oMM tadbizRoH paramaM padaM sadA
  277890:<>tUzRImagnO hutvA mekzaRena caruM gfhItvA oMM tadbi-
+ 277952:<>vESvAnarAya dbEzate yonirvvESvAnarAya tvA svAhA
  278028:<>dbizurUpe ahanI dyOrivAsi viSvA hi mAyA
  278041:<>lAya . oMM udbuDyasvAgne pratijAgfhi tvami-
  278709:<>“kzudboDano vastiviSoDanaSca
@@ -3178,6 +3264,7 @@
  283074:<>tasmAnnArAyaRaM devaM snAnakAle smaredbuDaH ..
  283103:<>japakAle na BAveta nAnyAni prekzayedbuDaH .
  283108:<>tEreva BAzaRaM kftvA snAtvA cEva japedbuDaH ..
+ 283132:<>namaskAreRa puzpARiM vinyasedbE pfTak pfTak .
  283183:<>akftvA tu dbijaH paYca mahAyajYAn dvijottamAH .
  283431:<>dbitIyavastuno vedAntArTAnuguRayuktiBiH ana-
  283505:<>mune ! kalpatarurnAma susidDo dbAdaSAkzaraH ..
@@ -3262,6 +3349,7 @@
  289584:<>tasmAdbahupuwA mallI saYjAtA viviDA mune ! ..”
  289967:<>‘dbe paYcamUtyO rAsnA ca DAttruSIraM durAlaBA .
  290008:<>pralepaM cakzuzorddadyAdbahuvArasya balkalEH .
+ 290275:<>“varttamAne pfzadbfhanmahajjagacCatfvacca .” uRA0
  290308:<>dbIpasTanadIviSezaH . yaTA, mAtsye . 121 . 74 .
  290318:<HI>mahatIdvAdaSI, strI, (mahatIti KyAtA dbAdaSI .)
  290456:<>miti .) bfhat SarIram .. tadbati, tri .. (yaTA,
@@ -3269,7 +3357,9 @@
  291249:<>dadarSa BuktavantaYca nATaM nArAyaRaM dbijaH ..
  291352:<>rudra ekAdaSaScEva dbAdaSaH Siva ucyate ..
  291432:<>anyasIsakapAtrantu dvimuKaM melayedbuDaH ..
+ 291536:<>“varttamAne pfzadbfhanmahajjagacCatfvacca .” uRA0
  291556:<>“SaNKe tEle taTA mAMse vEdye jyOtizike dbije .
+ 291801:<>paSoragre kadAcidbE prakASaM nEva kArayet ..”
  291876:<>tato mahacca tat paYcavizaYceti .) bfhadbizapaYca-
  291982:<>pArevatam 6 dvIpajam 7 dbIpaKarjjUram 8 .
  292147:<>sopAsaNgajagadbIjaM jagatkAraRakAraRam ..
@@ -3285,6 +3375,7 @@
  292472:<>taTASramanivAse tu havizyamBojayet dbijAn ..
  292488:<>tato ganDESca mAlyESca svalaMkftya dbijottamAn ..
  292493:<>BavizyaM SrAvayedbidvAn BArataM BaratarzaBa ! .
+ 292525:<>dbO . anunAsikaScEkaH . taTA kAdimAvasAnAH
  292537:<>“dyUtAntaM praTamaM proktaM dbitIyaM vanavAsikam .
  292642:<>“SaNKe tEle taTA mAMse vEdye jyotizake dbije .
  292647:<>pUjayedbahujAtIyErvvaliBirBojanEH SivAm ..”
@@ -3367,6 +3458,7 @@
  296976:<>AjYAcakre tu candrABe dbidale hakzalAYCite ..
  297087:<>ityudbAhatattvam ..
  297343:<>stadbaktrAmbujasOraBaM sa ca suDAsyandI girAM
+ 297427:<>dbO puzpamadye . (yaTA, mahABArate . 3 .
  297483:<>koladbayastu karzaH syAt sa proktaH pARi-
  297515:<>rattiko mAzo dbAtriMSadrattikazwaNkaH . sArdDa-
  297519:<>prasTAdimAnamAraBya dbiguRantu dravArdrayoH .
@@ -3430,6 +3522,7 @@
  300787:<>pUjayedbiDivadBaktyA PalgucUrREScaturvviDEH ..
  300888:<>llaKe praTamazARmAsikadbitIyazARmAsikatveno-
  300948:<>valkyaSlokatrayaM oMM tadbizRorityAdi oMM duryyo-
+ 301105:<>kzattriyAdbESyAyAM jAtaH . ityamaraH . 2 . 10 . 3 ..
  301240:<>“arurdbizadajantasya mum .” 6 . 3 . 63 . iti
  301254:<>siti traH nipAtAt guRABAvaH . dbitakAraM
  301371:<>vApa . aBUdbideho'sya piteti vEdehaH . maTa-
@@ -3444,6 +3537,7 @@
  301857:<>asyADizWAtfdevatA strImatsyadbayaM sa ca kIwa-
  301891:<>yo'BUdbaBUva BaratAgrajakfzRabudDaH
  301901:<>sundarI jAmadagnyaH syAdbAmano BuvaneSvarI ..
+ 301964:<>dvEtavAdI . mADvaH dbEtavAdI ca .. (yaTA,
  301982:<>dvAdaSa padArTAH kramAt dbAdaSAnAmaDyAyAnAM
  301984:<>Darmme pramARaM nirUpitam . 1 . dbitIye yAga-
  302004:<>tantram . 11 . dbAdaSe praDAnasya paSorupakArAya
@@ -3459,17 +3553,21 @@
  302118:<P>dbAdaSADyAyasya praTame pAde paSuDarmmARAM paSu-
  302120:<>karmmasu prasaNga ityAdi vicAraH . dbitIye
  302131:<>vikalpApavAdatvenetyuBayaM cintitam . tadevaM dbAda-
+ 302136:<>samanvagAviroDO dbO sADanaYcaPalantaTA ..
  302139:<>dbitIye smftitarkAByAmaviroDo'nyaduzwatA .
+ 302154:<>sarvvametadidaM brahma vedAnte'dbEtavAdinAm .
  302320:<>iti hArIte dbitIyasTAne dvitIye'DyAye ..)
  302421:<>“yadbicCAyaM mOktikaM vyaNgakAyaM
  302444:<>“dbipendrajImUtavarAhaSaNKa-
  302447:<>tezAntu Suktyudbavameva BUri ..
  302467:<>viyadgataM tadbibuDA haranti .
+ 302509:<>SaNKAdbfhatkolaPalapramARam ..
  302592:<>CAyAvadbahulaM ramyaM nirddozaM yadi laByate ..
  302593:<>amUlyaM tadbinirddizwaM ratnalakzaRakovidEH .
  302597:<>rUpapramARe ca yaTEva vidbAn .
  302632:<>sitA CAyA BavedbipraH kzattriyaScArkaraSmivAn .
  302707:<>dugDa tataH payasi tadbipacet surAyAM
+ 302722:<>ardDADikadbO vahato'sya mUlyaM
  302758:<>yAvadbivardDeta guRErapIdam .
  302809:<>anyonyaSoBAjananAdbaBUva
  302840:<>vidbadDaneSaSizyeRa BizakkeSavasUnunA .
@@ -3489,6 +3587,9 @@
  304056:<>ganDA dbizazwirapyete guRivfttO triliNgakA ..”
  304070:<>apAM dbAdaSagaRqUzErmuKaSudDirvviDIyate ..”
  304141:<>padArTAnAM BavatyasmAt . yadbA, mugDAn mUQ2An
+ 304193:<>sew .) dbO paYcamasvariRO . i muYcyate . Na
+ 304197:<>sew .) dbO paYcamasvariRO . i muYcyate . Na
+ 304233:<>“tasyAmutpAdayAmAsa mAnDAtA dbO sutO nfpa ! .
  304266:<>muYjadbayantu maDuraM tuvaraM SiSiraM taTA ..
  304296:<>ca . muwati dbizAM darpaM ya iti halAyuDaH .
  304318:<HI>muRqaM, klI, (muRqyante upyante keSA asmAt yadbA,
@@ -3499,6 +3600,7 @@
  304678:<>SaNKAdinANkito BaktyA SrAdDaM yaH kurute dbijaH .
  304705:<>mAnDAtfRAmbarIzeRa mArkaRqapramuKErdbijEH .
  304714:<>dbAdaSAkzaramantrEstu niyuktAni kalevare .
+ 304732:<>iti paYcAyuDAnyAdO DArayedbEzRavo janaH .
  304895:<>yadbA jYAnArRave .
  304923:<>pAtravadbAmahastantu kftvANge vAmake taTA ..
  304934:<>ezA pASAhvayA mudrA vidbadBiH parikIrttitA .. 2 ..
@@ -3572,6 +3674,7 @@
  308777:<>dbAByAmeRAkzamAle nijakarakamale dvO GawO
  308779:<>dbAByAM dvO ca sravantO Sirasi SaSikalAM
  308858:<>“mfdA prakzAlya liNgantu dbAByAM nABestaTopari .
+ 308909:<>rakzetAM nfpatiM nityaM yatnAdbEdyapurohitO ..”
  308963:<>payasIndraDanurvvApi jIvitaM dbitrimAsikam ..
  309019:<>prAptAntakAlaH puruzastadbijYeyaM vicakzaREH ..
  309251:<>yadbA cipIwakaM deyaM jIvanIsattvamiSritam .
@@ -3589,6 +3692,7 @@
  310176:<>“harItakIM tu saMpizya dehamudbarttanaM naraH .
  310179:<>dehamudbarttayet paScAdDarItakyA supizwayA ..
  310180:<>BUya udbarttanaM kuryyAt paScAt snAnaM samAcaret .
+ 310193:<>“kzapayedbfMhayeccApi dozaDAtumalAn Bizak .
  310258:<>aho kecidbadantIti maDukEwaBamedasA .
  310271:<>kAlena mahatA tasmAdbaBUva vasuDA mune ! .
  310341:<>sarvvaM tadbatA hiMsyate vA tadvAn cOrAdiBiH
@@ -3643,6 +3747,7 @@
  312588:<>atIsAranipIq2itamiti dbitIyam . yata
  312679:<>viBajyate dbiDA kriyata iva . sa puruzaH . kzataH
  312748:<>pippalI dbipalaM tAvat sarpizaSca SanEH pacet ..
+ 312750:<>dattvAvatArayedbEdyo lIQ2o leho'yamuttamaH ..
  312796:<>drAkzAdbicandanoSIraSarkarotpalapadmakEH .
  312810:<>taTA dbijAtIMstridaSAn gurUMSca
  312884:<>hnImattvAdvA GfRitvAdvA BayAdbA vegamAgatam .
@@ -3683,6 +3788,7 @@
  314016:<>“dbe avyaBicAriRi . arTamanatikrAntaM yaTArTaM
  314018:<>yaTArTamevedam . yaTAtaTaM vakti saBAsu vidbAn .”
  314098:<>“yadIcCedbipulAn BogAn candrasUryyagrahopamAn .
+ 314099:<>prAtaHsnAyI BavennityaM dbO mAsO mAGaPAlgunO ..”
  314113:<>iti CandomaYjaryyAM dbitIyastavakaH ..
  314196:<>DAro loke BrAmayati tadbaditi . yadbA yantrARi
  314227:<>kozWezvaNgamanUn parezu viliKedazwArRamantradbayam .
@@ -3707,6 +3813,7 @@
  314464:<>BUrjje dbAdaSa varzARi tadardDvaM tAmrapawwake ..”
  314494:<>homakarmmaRyaSaktaScet dbiguRaM japamAcaret ..
  314528:<>dadyAt . homABAve dbiguRajapaH kAryyaH . tato
+ 314561:<>“dbO BAgO tu sadugDasya ekAvalmIkamfttikA .
  314564:<>mAzadbayaM dfQ2aM marddyaM tena mUzAM susampuwAm ..
  314608:<P>tAlayantre dbAdaSANgule matsyatAluvadekatAladbi-
  314763:<>tAvatyA mOrvyA yaddbitIyavftte DanurBavet tatra .
@@ -3863,6 +3970,7 @@
  319493:<>teBya evAtiricyeta mantradvandbaM viSezataH ..
  319495:<>mantradbandbe hi Binne hi na cAnyat kAryyakArakam ..
  319570:<>dbAdaSavarzaM vanavAsAya ekavarzamajYAtavAsAya ca
+ 319571:<>prasTito dbEtavanamaDyuvAsa . tato dvAdaSavarzErvana-
  319580:<>triMSadbarzaM rAjyasuKamanuBUtavAn . tataH praBAse
  319593:<>asyAnyadbiSezavivaraRantu mahABAratAdO vista-
  319700:<>“Azoq2aSAdBavedbAlastaruRastata ucyate .
@@ -3910,6 +4018,7 @@
  320822:<>na Sakyo vistarAdbaktuM varzARAmayutErapi .
  320871:<>SrIDarasvAmI .. yogaSca kzemaSca itItaretaradvandbe
  320872:<>puMliNgadbivacanaprayogo Bavati .) yaTA, --
+ 320899:<>yuktayuYjAnarUpayogidvEviDyAt Darmmasya dbEviDya-
  320938:<>yogArTaM pawwamiti vA .) yadbastreRa pfzWajAnubanDanaM
  320956:<>dbitIyaM mfgacarmmAQyaM tftIyaM tantunirmmitam .
  320984:<>BfzwaM hiNgvajamodA ca sarzapo jIrakadbayam ..
@@ -3930,6 +4039,7 @@
  321616:<>yantu yasyA hi yadbarzaM tattadBAgaM prakIrttitam ..”
  321634:<>ityudboDacandrikA ..
  321636:<>iniH . yadbA, yuja samADO . yujir yoge vA +
+ 321653:<>sarvvezAmASramARAntu dbEviDyaM SrutidarSitam .
  321832:<>“dvAdaSANgulikaH SaNkustaddbayantu SayaH smftaH .
  321836:<>dbAtriMSatsahasrahastErapi yojanam . yaTA, --
  321878:<>“zaq2azwakaM trikoRaYca dbidbAdaSakameva ca .
@@ -3977,6 +4087,7 @@
  323651:<>mArgO punarasya dbO UrdDvaYcADaSca tadbahuSlezmaRi
  323656:<>saMsargAdadbAvapi mArgO prapadyate . tO mArgO
  323672:<>virecanasya yogitvAdbahutvAdBezajasya ca ..
+ 323685:<>prezyopakaraRABAvAt dOrAtmyAdbEdyadozataH ..
  323690:<>yat kfzRamaTavA nIlaM yadbA SakraDanuzpraBam ..
  323735:<>PalAni tadbIjajalAni vAsA ..
  323869:<>tAvantaH puruzA jAtAstadbIryyabalavikramAH ..
@@ -4092,6 +4203,7 @@
  330391:<>sTApayettatra tadbaSyaM kuryyAcca samayakriyAm ..
  330418:<>saMyuktAMYca viyuktAMSca sarvvopAyAn sfjedbuDaH ..
  330495:<>tasmAddbijAgryAH SrutiSAstrayuktA
+ 330508:<>DarmmavfdDistadA syAdbE DarmmavfdDO nfpodayaH ..
  330638:<>astrAcAryyo nirudbegaH kulaSaSca viSizyate ..
  330655:<>kvacit kasyacidbiSvAso BavatIha sadA nfRAm .
  330672:<>sAMvatsarikamAptESca rAzwrAdAhArayedbalim .
@@ -4141,6 +4253,7 @@
  334907:<>gopANganAdiBiryukto dbiBujErgopapArSvadEH ..”
  334924:<>rADAsuto'rkatanayaH kAlapfzWantu tadbanuH ..”
  335022:<>meva rAtrO nAgapASabanDatadvimokzO . dbitI-
+ 335090:<>laNkAsamIpagamanam . varttate daSamo mAso dbO
  335138:<>ScAByaBavaddivAkara ityuktyA divA tadbaDapratItyA
  335219:<>navamyAM tadbaDaH . taduktaM kAlikApurARe .
  335345:<>PAlgunasya dbitIyAyAM kfzRe SakrajitA
@@ -4188,6 +4301,7 @@
  337339:<>vyayasya dbAdaSasTAne vEparityena cintanam ..”
  337356:<HI>ripPaM, klI, lagnApekzayA dbAdaSarASiH . yaTA, --
  337358:<>CidrAKyamazwamaM sTAnaM ripPAKyaM dbAdaSaM
+ 337539:<>“azwO sIsakaBAgAH kAMsasya dbO tu rItikA-
  337728:<>pawwasUtraM kare badDvA BojayitvA dbijAn bahUn .
  337736:<>haricaraRasarojadbandvaBaktEkatAnA
  337820:<>“rucikaramapi nArTavadbaBUva
@@ -4212,7 +4326,9 @@
  338867:<>SiKAyAM daSanaM dbAtriMSatparimitam .. taTA .
  338915:<>yo dadAti dbijAtiByo rudrAkzaM Buvi zaRmuKa .
  339204:<>“tadaDyAsyodbahedBAryyAM savarRAM lakzaRAnvitAm .
+ 339246:<>tadbEdikaparyyAyaH . nirRik 1 vavriH 2 varpaH 3
  339281:<>niraNgaM kevalasyEva rUpaRaM tadapi dbiDA ..
+ 339380:<>ato rudraH samaBavadbESvAnara iva jvalan ..
  339437:<>“tatra hi timirAMSukayorrUpyarUpakaBAvo dbayo-
  339464:<>t ka syAdbisPuraRe ktaH . iti BarataH .. (yaTA,
  339504:<>tAvatIM dbiguRIkftya azwABiH pariSoDayet ..
@@ -4228,6 +4344,7 @@
  339986:<>pradattA . etadbivaraRantu devIBAgavate 7 skanDe
  340026:<>asmadduHKavaho jAto dOHSIlyAdbanDuSokadaH ..
  340142:<>yaTApUrbbaM taTA cakre somayoge dbijottamaH ..
+ 340177:<>nAsatyO dbO tftIyaSca revanto'SvapravAhakaH ..”
  340185:<>nAsatyadasO tanayAvaSvavaktrAdbinirgatO ..
  340193:<>dbitIyaSca yamaH SApAdDarmmadfzwiraBUt sutaH ..
  340264:<>pradakziRaM gireH kftvA prayayO dbArakAM prati ..
@@ -4249,6 +4366,7 @@
  341702:<>“rohiRIM roganASAya pUjayedbiDivannaraH ..”
  341847:<>pittena vidyAdbadane vidArIM
  341850:<>pArSvena viSezAdbAhulyena Sete tasmin pArSve sA
+ 341866:<>“pittavat sADayedbEdyo rohiRIM raktasamBavAm .
  341921:<>aDokzajaM jagadbIjaM sargasTityantakArakam ..
  341993:<>“vAtaGno nahi pittakfdbalakaraH syAdrohitaH
  342466:<>etadbidyAt samAsena lakzaRaM suKaduHKayoH ..”)
@@ -4271,8 +4389,10 @@
  342972:<>dakziRAMSaSca dbiBujo vAmAMSaSca caturBujaH .
  342973:<>caturBujAya dbiBujo mahAlakzmIM dadO purA ..
  342977:<>dbiBujo rADikAkAnto lakzmIkAntaScaturBujaH .
+ 342980:<>sarvvAMSena samO dbO tO kfzRanArAyaRO parO ..
  343193:<>pareRodbarttitaM vakzaH svayaM mAlyApakarzaRam .
  343236:<>dbe sanDye cApi nidrA vivasanaSayaRaM grAsahAsA-
+ 343282:<>“dO lo RU dbO virAmAntO dalO RU davirA-
  343293:<>“dbicakraM vistftAsyaYca vanamAlAsamanvitam .
  343382:<>daRqAkAro dfQ2ANgaSca taTA hastadbayonnataH .
  343498:<>ityamaraH .. dbe lAgA iti jAmina iti ca
@@ -4324,6 +4444,7 @@
  348344:<>vyAKyAtaM yadbahirlokAlokAcala itI-
  348347:<>tadrahitadeSO . atra dbivanaprayogaH syAt .
  348475:<>uRA0 4 . 158 . iti zwran . yadbA, lA +
+ 348516:<>cUrRayettu triDA kftvA dbO BAgO ScyotayettataH .
  348533:<>“sakaleByo viDiByaH syAdbalI lopaviDistaTA .
  348756:<>etaddravyeRa codbarttya lomaSAtanamuttamam ..
  348761:<>tatkzaRodbarttanAdeva lomaSAtanamuttamam ..”
@@ -4378,11 +4499,13 @@
  352236:<>vaSizwaM tat sUryyErdbAdaSaBiH saMpUryya KormmiBiH
  352241:<>“AdyA tu viMSatirbrAhmI dbitIyA vEzRavI
  352258:<>nIrogASca nirAvADA mAnavA vigatadbizaH .
+ 352376:<>BavedbE maDyamA vfzwirdurmmatO samupasTite .. 55 ..
  352396:<>kArttikAdidbAdaSavarzARi yaTA . varAhasaMhi-
  352413:<>pUrRaparvvendusaNgate pOrRamAsIyute dve dbe tAre
  352468:<>paripUrvve taTA dAnaM yavAnAYca dbijottamAH ..
  352472:<>Ucustadbat samAdyAdivarzARAmapi samBavam ..”
  352622:<>ekaM hanyAdbahUnAM hi na pApI tena jAyate ..”
+ 352642:<>PalakavyAvAraH . tadbEdikaparyyAyaH . daBnoti 1
  352652:<>minoti 32 Damati 33 . iti trayastriMSadbaDa-
  352670:<>sandaMSo vfdbANgulitarjanyoSCedaH . iti prAya-
  352688:<>pratizeDa eva . anugrAhako'pi dbiviDaH . eko
@@ -4416,6 +4539,7 @@
  355253:<>paNktyAM taddbiguRaM nyasediti muhuH paNkterdalaM
  355349:<>“rohiRyAmaBavadbarccA varccasvI yena candramAH ..”
  355377:<>brahmadbizaH pAparuceH SrAdDAnnaM mftakasya ca ..
+ 355458:<>sarvvezAmASramARAntu dbEviDyantu caturvviDam .
  355463:<>gfhasTasya samAsena Darmmo'yaM dbijasattamAH ..
  355557:<>guroraBAve tatputtraM tadbadeva nizevayet ..
  355564:<>kzattriyasyApi gaditA ya AcArA dbijasya hi ..
@@ -4435,6 +4559,7 @@
  355965:<>akArAdisakArAntAM dbicatvAriMSadAtmikAm .
  355966:<>paYcASadbAraguRitA paYcASadbarRamAlikAm .. [Page4-281-b+ 52]
  356023:<>fdbayaM jihvayA mUrdDnA xdvayaM jihvadantajam .
+ 356084:<>akzaraM mAtfkAsUScAnAdiradbEtamokzadO .. oMM ..
  356122:<>qawasUH kuwilA SrotraM pAradbIpo vfzo haraH .. [Page4-282-b+ 52]
  356182:<>ApyAyanI cordDvadanto lakzmIrvARI muKI dbijaH .
  356208:<>dbibindurasanA somo'nirudDo duHKasUcakaH .
@@ -4445,6 +4570,7 @@
  356489:<>bAhurhaMso viyadbaktraM hfdanaNgANkuSaH KalaH .
  356645:<>yajedyajYaM yaTASaktyA dadyAdbittAnusArataH ..
  356663:<>dadyAddAnaM dbijAgreByo DarmmabudDisamanvitaH .
+ 356667:<>gorakzaM kfzibARijyaM kuryyAdbESyo yaTAviDi .
  356668:<>dAnaM DarmmaM yaTASaktyA dbijaSuSrUzaRaM taTA ..
  356701:<>dAnaM yajYo'Ta SuSrUzA dbijAtInAM triDA mayA .
  356761:<>vEkarmmaBiH pracaritEH SruSrUzyante dbijAtayaH .
@@ -4500,6 +4626,7 @@
  358762:<>tatkarotIti Ric tataH ktaH . yadbA, valayaM
  358955:<>valmIkaM yat saSoPaM syAdbarjyaM tadDi vijA-
  358981:<>“vizawaNkavalimlecCadantIbIjaM kramAdbahu .
+ 359202:<>strIRAmagre BrAmayecca kzaRAdbE sA vaSA Bavet ..”)
  359312:<>kuNkumaM candanaYcEva tilakena jagadbaSe .. 13 ..
  359377:<>prARapratizWAmantreRa prARAn saMsTApayedbuDaH ..
  359409:<>raktavastreRa cAmuRqAM tozayedbahuyatnataH .
@@ -4630,6 +4757,7 @@
  368432:<>dvArabanDocCraye tadbat praveSasamaye taTA ..
  368467:<>prAgudrakplavanaM kAryya dbimuKantu na kArayet .
  368468:<>stamBaMvA BavanaM vApi dbAraMvA svagfhantaTA ..
+ 368471:<>pUrvveRa vardDitaM bAstu kuryyAdbErARi vE sadA .
  368481:<>gfhasyopaskaraM sarvvaM nErfte sTApayedbuDaH .
  368511:<>tarucCede mahApIte goDAM vidyAdbicakzaRaH ..
  368527:<>saptaviMSadDfte BAge fkzaM vidyAdbicakzaRaH ..
@@ -4644,6 +4772,7 @@
  368722:<>rAjadaRqatraye sArdDajayadbAre pratizWitAH ..
  368777:<>caturddaSAsya dbArARi kfzRacitrAvftAni ca ..
  368806:<>vilAsa eza dvArARi catvAriMSadbuDA viduH ..
+ 368813:<>“dvAdaSahastAH prasare dIrGe dbO rAjahastakO
  368871:<>gfhAgre DArayedrAjA tadbajraM vajravAraRam ..”
  368900:<>nA DAturnAgavAkzaSca na cEkAnekadbAraBAka ..
  368968:<>ekadbipaYcasaptAni SuBAnyanyAni cAnyaTA .
@@ -4700,6 +4829,7 @@
  372501:<HI>vidalaM, klI, (viGawwitaM dalaM yasya .) dbiDAkfta-
  372510:<>“viSIrRA vidalA hrasvA vakrA sTUlA dbiDA-
  372585:<>sa puruzo yena pArSvena viSezAdbAhulyena Sete
+ 372624:<>yaDizWiraM dbEtavane vanecaraH ..”
  372637:<>“adbIpe kzipatI samastajagatI sastokaSokA-
  372642:<>hA sarvvaM sahayApi nirBaramaBUddUrAdbidIrRaM
  372820:<>“BAntaM viyatsanayanaM Sveto marddini Wadbayam .
@@ -4715,6 +4845,7 @@
  373257:<>dbiguRaM pfTivIdAnAt PalaM tasya Bavennfpa ! ..
  373284:<>vidyADanantu tadbidyAt na viBAjyaM bfhaspatiH ..”
  373290:<>YcidbidyApraSne nistIrRe'paRitaM yadi kaScit
+ 373325:<>SOryyaprAptantu yadvittaM viBAjyaM tadbfhaspatiH ..”
  373327:<>vA SikzitavidyAnAM BrAtFRAM yadbidyASOryyaprAptaM
  373370:<>vidyujjihvo dbijihvaSca sUryyaSatruSca rAkzasaH ..”
  373402:<>“haskArAdbidyutasparyyato jAtA avantunaH ..”
@@ -4759,6 +4890,7 @@
  374367:<>tatkzIramamftaM BUtvA mantraBUtaM dbijAtayaH .
  374495:<>“jatrUrdDvaM marmmARi catasro Damanyo'zwO mAtfkA dbe
  374541:<>“dbAtriMSatpraviBakte dikcakre yadyaTA samu-
+ 374698:<>“gANgeyo vizRavaScEva dbO vijYeyO vinAyakO ..”
  374708:<>asatkArizu sarvvezu tadbadevamaviGnataH ..
  374957:<>hastEH svIyErdaDatamaravindbaNkuSO ratnakumBam .
  375172:<>taM paSya patitaM droRaM kurURAM dbijasattamam ..”
@@ -4776,6 +4908,7 @@
  376280:<>viBAgajastftIyaH syAttftIyo'pi dbiDA Bavet .
  376294:<>saMyogapratidbandviviBAgajanakatvasyAnAramBakasaM-
  376297:<>anAramBakasaMyogapratidvandbiviBAgaM janayettadA
+ 376326:<>SOryyaprAptantu yadvittaM viBAjyaM tadbfhaspatiH ..
  376354:<>rasodboDe kAraRatvamityucyate .
  376357:<>sadBAvASca viBAvAderdbayorekasya vA Bavet .
  376363:<>ratyAdyudboDakA loke viBAvAH kAvya-
@@ -4807,6 +4940,7 @@
  378880:<>tisro varRAnupUrbbeRa dbe taTEkA yaTAkramam .
  378936:<>paYcAnAYca trayo DarmmA dvAvaDarmmO dbijottama .
  379090:<>yajYodbAhAdikaM kuryyAt tatra kAlo na lupyate ..”
+ 379106:<>ityetadamUlaM dbEtanirRaye'pyuktam .. * .. dIpi-
  379145:<>saptAzwAntyavahiHSuBEruqupatAvekAdaSadbitrige
  379179:<>dvitIyena tftIyantu tftIyena dbitIyakam ..”
  379251:<>“kanyAnakzatraSudDO syAdba vAhaH SuBakfnnfRAm .
@@ -4832,6 +4966,7 @@
  381650:<>“padyaM catuzpadI tacca vfttaM jAtiriti dbiDA .
  381658:<>“tyaktvAntyAdbizamAt kftiM dviguRayenmUlaM same
  381728:<>“saptAhaM vA daSAhaM vA dbAdaSAhamaTApi vA .
+ 381743:<>“ahorAtre satatako dbO kAlAvanuvarttate .”
  381769:<>satataM karoti dvO kAlO ahorAtre kAladbaye
  381821:<>“caturTako darSayati svaBAvaM dbiviDaM jvaraH .
  382151:<>zaq2viDastu rasastatra ganDo'pi dbiviDo mataH ..
@@ -4844,14 +4979,17 @@
  383125:<>pAlASaM SrIhareH pAtraM nEvedye kalpayedbuDaH ..”
  383141:<>mAlAyE . tadbahiragre oMM garuq2Aya namaH .
  383146:<>oMM senAnyE namaH . evaM sarvvatra . tadbahi-
+ 383287:<>praRAmEstuzyate vizRuretadbE paramaM Danam .
  383457:<>tasmAdbizRuriti proktaH svayameva svayamBavA ..
  383613:<>gfhantu sarvvadEvatyaM yadanuktaM dbijottamAH .
  383618:<>gfhantu sarvvadEvatyaM yadanuktaM dbijottamAH .
  383623:<>daSItiTiH . dbAdaSItiTiH . yaTA, --
  383672:<>sa vaSI syAdbipApmA ca rogAnmukto divaM
+ 383681:<>“pravakzyAmyaDunA tvetadbEzRavaM paYjaraM SuBam .
  383701:<>purA rakzArTamISena kAtyAyanyA dbijottama ..
  383831:<>ataeva jAvAlIbfhadbaSizWO .
  383872:<>smftaH saMBAzito'dyApi pUjito vA dbijottamaH .
+ 383891:<>yaH kaScidbEzRavo loke miTyAcAro'pyanASramI .
  384110:<>visargo'yaM samAhAro bIjAdbIjaM carAcaram ..”
  384113:<>“aH sargo rasanA vaktraM visargaSca dbibindukaH .
  384150:<>“pfTak trayastriBiScEko visarpA dbandvajAstrayaH .
@@ -4881,11 +5019,14 @@
  386736:<>(asyAnyadbivaraRaM bfhatsaMhitAyAM 55 aDyAye
  386844:<>“padyaM catuzpadI tacca vfttaM jAtiriti dbiDA .
  386900:<>dIrGanAlaH 3 jalASrayaH 4 . dbiDAyaM ekaH
+ 386994:<>“gurorgurO sannihite guruvadbfttimAcaret ..”
  387035:<HI>vftradviw, [z] puM, (vftraM dvezwIti . dbiz + kvip .)
  387223:<>“Azoq2aSAdBavedbAlA taruRI triMSatA matA .
  387228:<>tatastu taruRI jYeyA dbAtriMSadbatsarAvaDi ..
+ 387263:<>“fdDirvvfdDiSca kandO dbO BavataH kozayAmale .
  387318:<>brAhmaRAdInAM krameRa dbitricatuHpaYcakaM SataM DarmmyaM
  387322:<>iti dvitricatuHpaYcAH . dbitricatuHpaYcA asmin
+ 387405:<>dbEguRyasamBavAt . pUrbbAhftavfdDyA saha dvEguRya-
  387491:<>sampannamityaByudaye dadyAdarGyaM dbayordvayoH . [Page4-483-a+ 52]
  387494:<>maNgalAni ca sarvvARi vAcayet dbijapuNgavAn ..
  387635:<>vEkuRWAdivEBavaM yat dbArakAyAM prakASayet ..
@@ -4894,6 +5035,7 @@
  388151:<>ye kurvvanti gfhasTAstu na te tadbizayopagAH ..”
  388160:<>vAtaraMhasavEmAnErgacCecCivapuraM dbija ..
  388238:<>“SAradaM varzaRaM yadbat sahedbIro gavAMpatiH .
+ 388336:<>“jagfhe nararAjasya sakASAdbfzaparvvaRaH ..”)
  388363:<>sUryyodaye ca dbirBAjI sa gohatyAM laBet Druvam ..
  388426:<>sambanDaM yojayAmAsa gargadbArA ca satvaram ..
  388500:<>“AvAM raTo rodasI badbaDAno
@@ -4902,6 +5044,7 @@
  388589:<>ekavarRo dbivarRo vA yo vA syAdazwakAsutaH ..
  388616:<>“vfzotsargaSca dbiviDo jIvato vA mftasya ca .”
  388789:<>“DArAjalaYca dbiviDaM gANgasAmudraBedataH .”
+ 389028:<>“tigmAdbfhadraTo BAvyo vasudAmA vfhadraTAt ..”
  389084:<>nujaH 10 govindaH 11 cAruH 12 dbAdaSa-
  389089:<>vAgISaH 24 cakzAH 25 dIdiviH 26 dbAdaSa-
  389116:<>vrataM cakAra madbAkyAt kfzRasya paramAtmanaH ..
@@ -4977,10 +5120,12 @@
  392611:<>“ekaH SiyAlaseno'sO Bedena dbiviDo'Bavat .
  392654:<>tatrEva vaNge sambanDastasyABUdbarakanyayoH ..”
  392675:<>“parameSvaragupto yaH SrezWastadbaMSasamBavaH .
+ 392678:<>“parameSvaraguptasya vaMSajO dbO pratizWitO .
  392690:<>“dattO ca dbiviDO jYeyO rAmadattaSca pAvitA .
  392711:<>iti rAjavaMSye dbiviDanirRayaH ..
  392884:<>viDeya + aR . yadbA, virudDaM Deyamasya . tataH
  392950:<>“pfTI yadbAM vEnyaH sAdanezveva .”
+ 393029:<>carmmAcCAditaraTaH . tatparyyAyaH . dbEpaH 2 . itya-
  393256:<>BUtaBavyaBavannATAH SfRu cEtat trayaM dbija ..
  393260:<>gOtamaSca BaradbAjo viSvAmitraSca kOSikaH ..
  393283:<>ityudbAhatattvam ..
@@ -5095,6 +5240,7 @@
  397631:<>vyADiM kozWagatAYcApi jayedbizRurivAsurAn ..”
  397661:<>hastiparRo'mftA drekA pawolarajanIdbayam .
  397665:<>aNkoWakaYca SAKowaM dbipalAMSaM pfTak pfTak .
+ 397671:<>tacca vastreRa saMSoDya dbO kazAyO vimiSrayet .
  397760:<>mftpAtre lohapAtre ca SanErmfdbagninA pacet .
  397775:<>punarnavAyAH svarase tAlakaM tadbimarddayet .
  397797:<>ganDArkO dbiguRO sUtAjjambIrAdBiH pramarddayet ..
@@ -5193,15 +5339,19 @@
  401696:<>SravaRarkzayutAyAntu dbAdaSyAM pArTivaH svayam .
  401756:<>Saknoti kzIrAdipradAnena tadbantaM prIRayituM
  401875:<>kAzWAdinirmmitaH krameRa sUkzmAgradbAdaSANgula-
+ 401906:<>“Bavato vapuzwamAyAM dbO puttrO jajYAte SatAnIkaH
  402012:<>SaNKaM samarccayati yaH SvetadbIpe vasedDi saH ..”
  402041:<>AvarttaBaNgadozo hi hemayogAdbinaSyati ..
  402053:<>mahAdbandvo nfpABIrurBIruH kolAhalo'pi ca .
  402103:<>sa Siro vizavadbegAnniruDyASu galaM taTA .
+ 402112:<>“dbO SaNKakO kapAlAni catrAri SirasastaTA .
+ 402138:<>lavaRena samO grAhyO dbO kzArO waNgaRaM taTA ..
  402140:<>dbiguRaM paYcalavaRaM mAtuluNgarasena ca ..
  402291:<>mama yAvat pramARantu SuBaM tadbaktumarhataH ..”
  402622:<>tiryyagUrdDvagatA reKA rudrasaMKyA liKedbuDaH .
  402641:<>sABijintyaMSakAstatra SatEkaM dbAdaSADikam ..
  402646:<>yadbAcyaM sarvvatoBadre grahopagrahaveDataH .
+ 402790:<>uttare viMSatirjYeyA dbO mAsO SravaRe taTA .
  402837:<>raNgiRI 11 SawI 12 dbIpiSatruH 13 . iti
  403121:<>taM te nizkasahasreRa dadAmi dbijapuNgava ..”
  403201:<>SanEScaraM dbitIyaYca sutaM BadrAM tftIyikAm ..”
@@ -5211,6 +5361,8 @@
  403314:<>ekaM muKe dakzahaste catvAri zaw padadbaye .
  403316:<>dvayaM netradbaye guhye dvayaM tatra nyasedbuDaH .
  403319:<>tUryyAzwadbAdaSe fkze yadA viGnakaraH SaniH .
+ 403375:<>aniw .) dbO tAlavyAdI . ya Ya, Sapyati
+ 403391:<>aniw .) dbO tAlavyAdI . ya Ya, Sapyati
  403436:<>taTA dbiguRe'rTe rAjanyasya triguRe'rTe vESyasya
  403489:<>kIwasyeti prARimAtropalakzaRam . tadbaDapApena
  403521:<HI>SabdaH, puM, (Sabda + BAve GaY . yadbA, Sapa AkroSe
@@ -5256,7 +5408,9 @@
  405701:<>iti BaratadbirUpakozaH ..
  405714:<>kuryyAdbiSalyAmaTavA nfmAnaM
  405741:<>dAridryamitrakzayakfdbiDatte ..”
+ 405776:<>karRArjjunayordbEraTayudDe Salyasya karRatejo BaNga-
  405780:<>duryyoDanasya yadbIra tvayA vAcA pratiSrutam ..
+ 405785:<>karRArjjunAByAM saMprApte dbEraTe rAjasattama .
  405818:<HI>SalyakaRWaH, puM, (SalyaM tadballoma kaRWe'pi yasya .)
  405996:<>dbAByAM mAsAByAM mAsasandaMSapAWAt . antyo
  405999:<>“dbijasya maraRe veSma viSuDyati dinatrayAt .
@@ -5310,6 +5464,7 @@
  408268:<>prAtaHsnAyI jitadvandbaH trikAlaM SivapUjakaH .
  408327:<>anantAdidbayaM anantamUle iti kecit . gupU
  408362:<>kAmakroDaBayadbezaloBamohavizAdajaH . [Page5-052-a+ 52]
+ 408438:<>hastapAdagrIvAmeQrezu . hastayordvO pAdayordbO
  408456:<>jaNGAyAM dbe . jAnunyekam . ekamUrAviti .
  408462:<>grIvAyAM navakam . kaRWanAqyAM catvAri . dbe
  408463:<>hanvoH . dantA dbAtriMSat . nAsAyAM trIRi .
@@ -5320,6 +5475,7 @@
  408551:<>GoRAyAM dbe . dve netrayoH . gaRqayoScatasraH .
  408620:<>dve kfkAwike . dve viDure . dvO PaRO . dbAva-
  408621:<>pANgO . dbAvAvarttO . dvAvutkzepO . dbO SaNKA-
+ 408638:<>GnAni . caturScatvAriMSadbEkalyakarARi . azwO
  408671:<>dbihInAnAM viSalyaprARaharARi . trihInAnAM
  408743:<>Ram . evametAnyudarorasordbAdaSa marmmARi
  408764:<>Damanyo dbe nIle dbe ca manye vyatyAsena tatra
@@ -5435,6 +5591,7 @@
  419012:<>grAmAdbahistato gatvA pretaspfzwe ca vAsasI ..
  419042:<>tadbanDuvargastvekena SuDyettu janakastriBiH .
  419201:<>gomayenAnulipyATa CAgenAGrApayedbuDaH ..
+ 420193:<>namaskAreRa mantreRa kuryyAdAmAnnavadbfDaH ..
  420257:<>“SUdrasya dbijaSUSrUzA taTA jIvanavAn Bavet .
  420659:<>kaPapitte samAvftya SUlakArI BavedbalI ..
  422322:<>tadbIjaM SvetamaricaM maDuSigraH salohitaH ..
@@ -5473,6 +5630,8 @@
  434763:<>udbudDamAtrasTAyI ca BAva ityaBiDiyate ..”
  436360:<>“triMSadvarzo vahet kanyAM hfdyAM dbAdaSavArzikIm
  436987:<>iti sapadi mukulitAkzIm . dbayaM dantyAdi .
+ 437185:<>“saca naravAhanadattaH sadbfttamanoramAmudAraguRAm
+ 437192:<HI>sadvfttiBAk, [j] tri, (sadbfttiM BajatIti
  437237:<>tadbanDUnAYca kalyARyaH prajAnAYcAnupozaRam ..
  437734:<>yaTA . sanDA dbijamEtrI pitfprasUH . iti
  437983:<>DyE cintane + “AtaScopasarge . ityaN . yadbA,
@@ -5505,6 +5664,7 @@
  442272:<>dEve yugasahasre dbe brahmaRaH syAdaharnniSam .
  442273:<>caturyugasahasre dbe nfRAM mAnena tadBavet ..
  442279:<>Satana brahmaRo varzEH kAlaH syAt dbiparArdDakaH ..
+ 442288:<>dbO nimezO truwirnAma dve truwI tu lavaH smftaH ..
  442289:<>dbilavaH kzaRa ityuktaH kAzWA proktA daSa
  442320:<>saM + f gatO + ap . yadbA, samyak fcCatya-
  442328:<>“svajaNGAdbayasaMyuktaM kftvA yozitpadadvayam .
@@ -5521,6 +5681,7 @@
  443054:<>DAraya-dbigutatpuruza-bahuvrIhi-dbandbAvyayIBAvAH
  443059:<P>tatra dbigutvam . samAsADInalakzaRASUnyamaDya-
  443065:<>dbigusTapadaM tat padam . tena ca paYcagAvo
+ 443068:<>gargarUpyaH paYcabrAhmaRyaH paYcanApitiH dbEnA-
  443090:<>ktikamaDyavartti viBaktiSUnyanAmasamudAyatvaM dbandba-
  443092:<>dviviDo dbandbaH . itaretarayogaH samAhAraSca . yatra
  443094:<>dbivacane'pi tatrEva . yaTA . devadattayajYadattO .
@@ -5530,6 +5691,7 @@
  443131:<>yo dbiguH SAbdikEruktaH sa uttarapadadbiguH ..”
  443140:<>“yadIyena subarTena yutayadboDanakzamaH .
  443159:<>svArTe yadarTasya yadbA so'vyayIBAva izyate ..”
+ 443177:<>“tadatadguRasaMvijYAnO dbO BedO tadAdimaH .
  443178:<>vigrahasya viSezyo yastadbiSezyakaboDakft ..”
  443193:<>“svAntarnivizwadbitryAdinAmaBirvigrahAt punaH .
  443194:<>bahuvrIhirbbahuviDo dbipadatripadAdikaH ..”
@@ -5539,6 +5701,7 @@
  443203:<>samAsaH . dbandbaM viBajate .
  443206:<>asya dvandbasya dvO BedO samAhAra itaretaraSca
  443247:<>yasyAH .) samasyA . Slokasya pAdenEkena dbAByAM
+ 443283:<>rAjyAntakaraRAvetO dbO dozO pfTivIkzitAm ..
  443322:<>“viSIrRayuHkzayaM kuryyAdbidalA puttranASinI .
  443419:<>sadBUtam 8 . iti hemacandraH .. tadbati, tri ..
  443481:<>“vaMSalakzmImanudDftya samucCedena vidbizAm .
@@ -5546,6 +5709,7 @@
  443696:<>gacCaDvaYca mahIM mUQ2A jambudbIpaM manoharam ..
  443698:<>dbIpe dbIpe sTitiM kftvA tizWantu suKinaH sutAH .
  443699:<>dbIpasTABirnadIBiSca saha krIq2antu nirjane ..
+ 443706:<>kanizWAdbfdDaparyyantaM dviguRaM dviguRaM mune ! .
  443731:<>kalO dbijAnAM samudrayAtrAdinizeDo yaTA,
  443732:<>udbAhatattvaDftabfhannAradIyavacanam .
  443734:<>dbijAnAmasavarRAsu kanyAsUpayamastaTA ..
@@ -5583,11 +5747,13 @@
  444828:<>Sulkadbaye'pyayamaparo viSezaH .
  445033:<>lasya dbAdaSarAjamaRqalasya ISvaraH . yaSca rAjYo
  445129:<>kawidbaye vastralABo guhye mftyusamAgamaH .
+ 445197:<>etadbfttAntastu rAmAyaRe laNkAkARqe . 33 .
  445305:<HI>sarasvatI, strI, (saro nIraM tadbat raso vAstyasyA
  445333:<>muktirmUrttimatI sAkzAt dbitIyA kamalAlayA ..
  445401:<>gOravaM madbarAttulyaM karizyati patirdvayoH ..
  445406:<>madbareRa karizyanti kalpe kalpe layAvaDi .
  445496:<>paWanAdDAraRAdbAgmI kavIndro vAlmiko muniH .
+ 445501:<>cakAra lIlAmAtreRa kfzRadbEpAyanaH svayam ..
  445504:<>fzyaSfNgo BaradbAjaScAstIko devalastaTA .
  445667:<>“vyomendbO rasanArRakarRikamacAM dbandbEH sPurat-
  445681:<>caturasraM caturdbAraM dikzu vaM WaM vidikzu ca ..” * ..
@@ -5623,6 +5789,7 @@
  446759:<>ekamasti vizaM loke dbitIyaYcopapadyate .
  446785:<>sarpaganDA GftaM cEva dbitIye parikIrttitam .
  446786:<>sinduvAraM taTA hiNgu tftIye kArayedbuDaH ..
+ 446792:<>gAtrataH pItatA syAdbE diSaH paSyati pItikAH ..
  446867:<>ruzA dazwasya vA sAmyA dfzwirdbijavarottama ..
  446921:<>mUzikAH kzattriyARAYca AhAro dbijasattama ..
  446984:<>evamevantu sarpARAM Satadbinavati smftam ..
@@ -5632,6 +5799,7 @@
  447071:<>yastu lakzaM japeccAsyAH sa dfzwvA nASayedbizam ..
  447079:<>gakaq2o'hamiti DyAtvA kuryyAdbizaharAM kriyAm ..
  447098:<>vizahft syAt kaTA tadbanmunirvA sammato
+ 447108:<>viprO nfpO viSO SUdrO dbO dbO nAgezu kIrttitO ..
  447123:<>unmIlate'kzi saptAhAt hfzwo mAsAdBavedbahiH ..
  447124:<>dbAdaSAhAt svaboDaH syAddantAH syuH sUryya-
  447126:<>dbAtriMSaddinaviMSatyAScatasrastezu daMzwrikAH ..
@@ -5642,6 +5810,7 @@
  447155:<>apadbArAgataH SastrI pramAdI BUgatekzaRaH ..
  447162:<>AByAM dbAByAM pfzwayAnyAn vidyAt strIpuMnapuM-
  447170:<>AdyEH svarESca kAdyESca vargErBinnalipirdbiDA ..
+ 447188:<>AsyAccaraRanABI dbO DAtUn prApnoti hi
  447208:<>aNguzWAdO nyasedbarRAn vizaBedoditAH kalAH .
  447220:<>tanmAtrAdiguRAdyarRAnaNgulIzu nyasedbuDaH ..
  447221:<>sparSanAdeva tArkzyeRa haste hanyAdvizadbayam .
@@ -5671,6 +5840,7 @@
  449870:<>“aBimAno'haNkArastasmAt dbiviDaH pravarttate
  450004:<>dbudDicCAyA patnyA tadgataM duHKatrayaM vArayamARaH
  450051:<>saMpUrvvo yAtirdbIpAntaragamanavfttistatastrAsu-
+ 450072:<>dbfdDO saMrAviRa iti sTite tataH svArTe zRe
  450087:<>tasmAdrAjYABigantavyo vidbAn sAMvatsaro-
  450520:<>tattulyasya satpratipakzatayA tftIyasya kiYcidbA-
  450582:<>pariSuzyatKaladbAkyo virudDaM bahu BAzate .
@@ -5691,6 +5861,7 @@
  461173:<>yedbahUn .
  462652:<>mUrdDAdikaRWaparyyantaM kramAdbIjatrayaM nyaset ..”
  462839:<>yatra fkze sTito BAnurBedAdO gaRayedbuDaH .
+ 462938:<>etadbE sUryyahfdayaM japtvA stavamanuttamam .
  463341:<>jagatpradIpAya jagadbitEziRe .
  463434:<>navamaM dinakft proktaM daSamaM dbAdaSAtmakaH .
  464218:<>SuklEH pavitrErddivyEstaM vastre rAcCAdayedba DaH ..
