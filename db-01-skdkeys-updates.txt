@@ -1,0 +1,82 @@
+124212 old <HI>jagadbinASaH, puM, (jagatAM vinASo DvaMsaH aKila-
+124212 new <HI>jagadvinASaH, puM, (jagatAM vinASo DvaMsaH aKila-
+161754 old <HI>dfSadbatI, strI, (dfSat pAzARo'styasyAmiti .
+161754 new <HI>dfSadvatI, strI, (dfSat pAzARo'styasyAmiti .
+165431 old <HI>dbandaM klI, (dbandbaM pfzodarAditvAt vasya lopaH .)
+165431 new <HI>dvandaM klI, (dvandvaM pfzodarAditvAt vasya lopaH .)
+165433 old <HI>dvandbaM, klI, (dbO dbO sahABivyaktO . “dbandbaM rahasya-
+165433 new <HI>dvandvaM, klI, (dvO dvO sahABivyaktO . “dvandvaM rahasya-
+165518 old <HI>dbandbaH, puM, (dbO dbO sahABivyaktO iti . nipA-
+165518 new <HI>dvandvaH, puM, (dvO dvO sahABivyaktO iti . nipA-
+165532 old <HI>dbandbacaraH, puM, (dbandvena caratIti . cara + ac .)
+165532 new <HI>dvandvacaraH, puM, (dvandvena caratIti . cara + ac .)
+165539 old <HI>dbandvacArI, [n] puM, (dbandvena caratIti . cara +
+165539 new <HI>dvandvacArI, [n] puM, (dvandvena caratIti . cara +
+165541 old <HI>dbandvajaH, puM, (dbandvAt jAyate iti . jana + qaH .)
+165541 new <HI>dvandvajaH, puM, (dvandvAt jAyate iti . jana + qaH .)
+165544 old <HI>dbayaM, klI, (dbO avayavO yasya . dbi + “saMKyAyA
+165544 new <HI>dvayaM, klI, (dvO avayavO yasya . dvi + “saMKyAyA
+165552 old <HI>dbayAgniH, puM, (dbayo dbirUpo'gniryatra .) vfkzaBedaH .
+165552 new <HI>dvayAgniH, puM, (dvayo dvirUpo'gniryatra .) vfkzaBedaH .
+165555 old <HI>dbayAtigaH, tri, (dbayaM atigacCati atikrAma-
+165555 new <HI>dvayAtigaH, tri, (dvayaM atigacCati atikrAma-
+165558 old <HI>dbAH, [r] strI, (dbArayatIti . dbf varaRe + Ric +
+165558 new <HI>dvAH, [r] strI, (dvArayatIti . dvf varaRe + Ric +
+166179 old <HI>dbijabruvaH, puM, (AtmAnaM dbijaM brUte iti . brU + kaH .’
+166179 new <HI>dvijabruvaH, puM, (AtmAnaM dvijaM brUte iti . brU + kaH .’
+166247 old <HI>dbijottamaH, puM, (dbijezu uttamaH .) brAhmaRaH .
+166247 new <HI>dvijottamaH, puM, (dvijezu uttamaH .) brAhmaRaH .
+166349 old <HI>dbitIyAkftaM, tri, (dvitIyaM karzaRaM kftamiti .
+166349 new <HI>dvitIyAkftaM, tri, (dvitIyaM karzaRaM kftamiti .
+166356 old <HI>dbitrAH, tri, (dbO vA trayo vA . “saMKyayAvyayA-
+166356 new <HI>dvitrAH, tri, (dvO vA trayo vA . “saMKyayAvyayA-
+166458 old <HI>dbiradAntakaH, puM, (dbiradAnAM hastinAM antakaH .)
+166458 new <HI>dviradAntakaH, puM, (dviradAnAM hastinAM antakaH .)
+166629 old <HI>dbisaptatiH, strI, (dvyaDikA saptatiH . “viBAzA
+166629 new <HI>dvisaptatiH, strI, (dvyaDikA saptatiH . “viBAzA
+166666 old <HI>dbIpaM, klI, (dvO varRO Iyate iti . i gatO + bAhu-
+166666 new <HI>dvIpaM, klI, (dvO varRO Iyate iti . i gatO + bAhu-
+166727 old <HI>dbIpajaM, klI, (dvIpAt jAyate iti . jana + qaH .)
+166727 new <HI>dvIpajaM, klI, (dvIpAt jAyate iti . jana + qaH .)
+166729 old <HI>dbIpavatI, strI, (dbIpaH astyasyA iti . dbIpa +
+166729 new <HI>dvIpavatI, strI, (dvIpaH astyasyA iti . dvIpa +
+166811 old <HI>dbEguRikaH, tri, (dviguRArTaM dravyaM dbiguRam . tat-
+166811 new <HI>dvEguRikaH, tri, (dviguRArTaM dravyaM dviguRam . tat-
+175368 old <HI>naBodbIpaH, puM, (naBasi dbIpa iva .) meGaH . iti
+175368 new <HI>naBodvIpaH, puM, (naBasi dvIpa iva .) meGaH . iti
+180802 old <HI>nAmadbAdaSI, strI, (nAmnaH dbAdaSI .) vrataviSezaH .
+180802 new <HI>nAmadvAdaSI, strI, (nAmnaH dvAdaSI .) vrataviSezaH .
+187067 old <HI>nizadbaraH, puM, (nizIdanti vizaRRA Bavanti janA
+187067 new <HI>nizadvaraH, puM, (nizIdanti vizaRRA Bavanti janA
+199290 old <HI>padbaH, puM, (padyate gamyate'sminnanena vA . pada gatO
+199290 new <HI>padvaH, puM, (padyate gamyate'sminnanena vA . pada gatO
+228373 old <HI>pfzadbalaH, puM, (pfzadeva balamasya .) vAyvaSvaH .
+228373 new <HI>pfzadvalaH, puM, (pfzadeva balamasya .) vAyvaSvaH .
+247239 old <HI>plakzadbIpaH, puM, (plakzatarUpalakzito dbIpaH .) sapta-
+247239 new <HI>plakzadvIpaH, puM, (plakzatarUpalakzito dvIpaH .) sapta-
+275852 old <HI>BrAtfdbitIyA, strI, (BrAtfmaNgalArTA BrAtfBoja-
+275852 new <HI>BrAtfdvitIyA, strI, (BrAtfmaNgalArTA BrAtfBoja-
+309425 old <HI>mfdbI, strI, (mfdu + “votoguRavacanAt .” 4 . 1 .
+309425 new <HI>mfdvI, strI, (mfdu + “votoguRavacanAt .” 4 . 1 .
+315865 old <HI>yavadbIpaH, puM, (yavanAmA dbIpaH iti maDyapada-
+315865 new <HI>yavadvIpaH, puM, (yavanAmA dvIpaH iti maDyapada-
+315996 old <HI>yavanadbizwaH, puM, (yavanErdvizwaH . hindupriyatvAt
+315996 new <HI>yavanadvizwaH, puM, (yavanErdvizwaH . hindupriyatvAt
+324835 old <HI>raGUdbahaH, puM, (udvahatIti . ut + vah + ac .
+324835 new <HI>raGUdvahaH, puM, (udvahatIti . ut + vah + ac .
+367132 old <HI>vArdbakaM, klI, (vfdDARAM samUhaH . “gotrokzozwrora-
+367132 new <HI>vArdDakaM, klI, (vfdDARAM samUhaH . “gotrokzozwrora-
+373636 old <HI>vidbatkalpaH, tri, (vidbas + kalpaH .) IzadUno
+373636 new <HI>vidvatkalpaH, tri, (vidvas + kalpaH .) IzadUno
+373638 old <HI>vidbattamaH, tri, (vidbas + tamaH .) ayamezAmati-
+373638 new <HI>vidvattamaH, tri, (vidvas + tamaH .) ayamezAmati-
+373640 old <HI>vidbattaraH, tri, (vidbas + tara .) ayamanayorati-
+373640 new <HI>vidvattaraH, tri, (vidvas + tara .) ayamanayorati-
+389044 old <HI>vf(bf)hadbAtaH, puM, (vfhan vAto yasmAt . aSmarI-
+389044 new <HI>vf(bf)hadvAtaH, puM, (vfhan vAto yasmAt . aSmarI-
+444116 old <HI>sampadbaraH, puM, (saM + pada + zvarac . iti puruzo-
+444116 new <HI>sampadvaraH, puM, (saM + pada + zvarac . iti puruzo-
+445189 old <HI>saradbAn, [t] puM, gOtamamuniH . gotamamuniputtraH .
+445189 new <HI>saradvAn, [t] puM, gOtamamuniH . gotamamuniputtraH .
+446113 old <HI>saridbarA, strI, (saritsu varA SrezWA .) gaNgA .
+446113 new <HI>saridvarA, strI, (saritsu varA SrezWA .) gaNgA .
