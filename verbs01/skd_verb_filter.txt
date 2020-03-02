@@ -3877,17 +3877,17 @@
 ;; Case 1293: L=25454, k1=Beza, k2=Beza, code=1
 329625: Beza¦, f Ya Baye . iti kavikalpadrumaH .. (BvA0-
 ;
-;; Case 1294: L=25517, k1=BrASa, k2=BrASa, code=1
-331891: BrASa¦, f Ra wu Na BAsi . iti kavikalpadrumaH ..
+;; Case 1294: L=25517, k1=BnASa, k2=BnASa, code=1
+331891: BnASa¦, f Ra wu Na BAsi . iti kavikalpadrumaH ..
 ;
-;; Case 1295: L=25518, k1=BrASa, k2=BrASa, code=1
-331897: BrASa¦, ya Na BAsi . iti kavikalpadrumaH .. (divA0
+;; Case 1295: L=25518, k1=BnASa, k2=BnASa, code=1
+331897: BnASa¦, ya Na BAsi . iti kavikalpadrumaH .. (divA0
 ;
-;; Case 1296: L=25519, k1=BrAsa, k2=BrAsa, code=1
-331902: BrAsa¦, f Ra Na wu BAsi . iti kavikalpadrumaH ..
+;; Case 1296: L=25519, k1=BnAsa, k2=BnAsa, code=1
+331902: BnAsa¦, f Ra Na wu BAsi . iti kavikalpadrumaH ..
 ;
-;; Case 1297: L=25520, k1=BrAsa, k2=BrAsa, code=1
-331908: BrAsa¦, ya Na BAsi . iti kavikalpadrumaH .. (divA0-
+;; Case 1297: L=25520, k1=BnAsa, k2=BnAsa, code=1
+331908: BnAsa¦, ya Na BAsi . iti kavikalpadrumaH .. (divA0-
 ;
 ;; Case 1298: L=25521, k1=Byasa, k2=Byasa, code=1
 331913: Byasa¦, Na Baye . iti kavikalpadrumaH .. (BvA0-

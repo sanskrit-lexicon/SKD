@@ -77,7 +77,7 @@ atigAh:2951:pre::ati+gAh
 atigur:2953:pre::ati+gur
 atigrah:2955:pre::ati+grah
 aticar:2964:pre::ati+car
-aticitrIya:2971.1:nom:Ā:
+aticitrIya:2971.1:pre:Ā:ati+citrIya
 aticft:2972:pre::ati+cft
 aticezw:2973:pre::ati+cezw
 atiji:2980:pre::ati+ji
@@ -89,6 +89,7 @@ atitF:2987:pre::ati+tF
 atitvar:2992:pre::ati+tvar
 atiTIkf:2996.1:gati:P:atiTI+kf
 atiTIBU:3006.1:gati:P:atiTI+BU
+atidaMh:3011.1:pre::ati+daMh
 atidaG:3012:pre::ati+daG
 atidah:3014:pre::ati+dah
 atidA:3015:pre::ati+dA
@@ -132,6 +133,7 @@ atipravA:3095:pre:4P:ati+pra+vA
 atipravft:3097:pre::ati+pra+vft
 atiprave:3098:pre::ati+pra+ve
 atipraSaMs:3099:pre::ati+pra+SaMs
+atipraSfD:3099.1:pre::ati+pra+SfD
 atipraSru:3100:pre:5Ā:ati+pra+Sru
 atiprasad:3101:pre:P:ati+pra+sad
 atiprasf:3102:pre::ati+pra+sf
@@ -141,6 +143,7 @@ atipru:3108:pre::ati+pru
 atibAD:3110:pre::ati+bAD
 atibfh:3111:pre::ati+bfh
 atibrU:3113:pre::ati+brU
+aBibrU:3113.1:pre::aBi+brU
 atiBA:3114:pre::ati+BA
 atiBU:3115:pre:PĀ:ati+BU
 atiBUz:3120:pre::ati+BUz
@@ -439,8 +442,10 @@ anuparikF:6656:pre::anu+pari+kF
 anuparikram:6657:pre::anu+pari+kram
 anuparigA:6660:pre::anu+pari+gA
 anupariRI:6662:pre::anu+pari+nI
+anupariplu:6664.1:pre::anu+pari+plu
 anupariyA:6665:pre::anu+pari+yA
 anuparivft:6666:pre::anu+pari+vft
+anuparisic:6667.1:pre::anu+pari+sic
 anuparisru:6668:pre::anu+pari+sru
 anuparI:6670:pre::anu+pari+i
 anupare:6671:pre::anu+parA+i
@@ -461,6 +466,7 @@ anupF:6775:pre::anu+pF
 anuprakamp:6781:pre::anu+pra+kamp
 anupraC:6782:pre::anu+praC
 anuprajan:6784:pre::anu+pra+jan
+anuprajYA:6785:pre::anu+pra+jYA
 anupraRud:6787:pre::anu+pra+nud
 anupratiDA:6789:pre::anu+prati+DA
 anupratizWA:6790:pre::anu+prati+sTA
@@ -518,6 +524,7 @@ anuman:6952:pre:P:anu+man
 anumantr:6968:pre::anu+mantr
 anumA:6974:pre::anu+mA
 anumA:6975:pre::anu+mA
+anumArg:6992.1:pre::anu+mArg
 anumid:6995:pre::anu+mid
 anumud:6996:pre::anu+mud
 anumuh:7004:pre::anu+muh
@@ -619,6 +626,7 @@ anuSak:7382:pre:P:anu+Sak
 anuSap:7386:pre::anu+Sap
 anuSam:7390:pre::anu+Sam
 anuSAs:7394:pre::anu+SAs
+anuSikz:7409:pre::anu+Sikz
 anuSI:7413:pre:2Ā:anu+SI
 anuSIlaya:7430:nom:P:
 anuSuc:7433:pre:P:anu+Suc
@@ -685,6 +693,7 @@ anusev:7631:pre::anu+sev
 anuspfS:7641:pre::anu+spfS
 anusPur:7642:pre::anu+sPur
 anusmf:7644:pre:P:anu+smf
+anusvan:7649.2:pre::anu+svan
 anuhA:7657:pre:3Ā:anu+hA
 anuhuMkf:7658:gati::anu+huM+kf
 anuhurC:7659:pre::anu+hurC
@@ -939,6 +948,7 @@ apasf:9845:pre::apa+sf
 apasfp:9855:pre::apa+sfp
 apaskF:9860:pre::apa+skF
 apaspf:9875:pre:Ā:apa+spf
+apaspfS:9876:pre::apa+spfS
 apasPur:9879:pre::apa+sPur
 apahan:9888:pre::apa+han
 apahas:9899:pre::apa+has
@@ -951,6 +961,7 @@ apahnu:9932:pre:Ā:apa+hnu
 apAkf:9952:pre::apa+A+kf
 apAkfz:9961:pre::apa+A+kfz
 apAkF:9962:pre::apa+A+kF
+apAc:9977:pre::apa+ac
 apAj:9978:pre::apa+aj
 apAtI:9998:pre::apa+ati+i
 apAdA:10011:pre:Ā:apa+A+dA
@@ -1012,10 +1023,12 @@ apUpIya:10315:nom:P:
 ape:10351:pre:PĀ:apa+i
 apekz:10364:pre::apa+Ikz
 apej:10386:pre::apa+Ij
+apez:10391:pre::apa+Iz
 apocCad:10399:pre::apa+ud+Cad
 apotkfz:10401:pre::apa+ud+kfz
 apodi:10405:pre::apa+ud+i
 apodUh:10407:pre::apa+ud+Uh
+apoB:10410:pre::apa+uB
 aporRu:10413:pre:Ā:apa+UrRu
 apoh:10416:pre:Ā:apa+Uh
 apyatyarj:10455:pre::api+ati+arj
@@ -1053,7 +1066,7 @@ aBigA:11283:pre::aBi+gA
 aBigAh:11284:pre:Ā:aBi+gAh
 aBigur:11289:pre::aBi+gur
 aBigF:11294:pre::aBi+gF
-aBigopAya:11296.1:nom:P:
+aBigopAya:11296.1:pre:P:aBi+gopAya
 aBigE:11297:pre::aBi+gE
 aBigrah:11301:pre::aBi+grah
 aBiGf:11324:pre::aBi+Gf
@@ -1061,7 +1074,7 @@ aBiGrA:11333:pre::aBi+GrA
 aBicakz:11337:pre::aBi+cakz
 aBicar:11341:pre::aBi+car
 aBicint:11360:pre::aBi+cint
-aBicihnaya:11361:nom:P:
+aBicihnaya:11361:pre:P:aBi+cihnaya
 aBicud:11362:pre::aBi+cud
 aBicCad:11364:pre::aBi+Cad
 aBijan:11366:pre:4Ā:aBi+jan
@@ -1144,7 +1157,9 @@ aBiniryA:11648:pre::aBi+nir+yA
 aBinirvad:11650:pre::aBi+nir+vad
 aBinirvap:11651:pre::aBi+nir+vap
 aBinirvft:11652:pre::aBi+nir+vft
+aBinirhf:11654.1:pre::aBi+nir+hf
 aBiniviS:11657:pre::aBi+ni+viS
+aBinivft:11667.1:pre::aBi+ni+vft
 aBiniSam:11668:pre::aBi+ni+Sam
 aBiniSri:11671:pre::aBi+ni+Sri
 aBinizad:11672:pre::aBi+ni+sad
@@ -1276,10 +1291,11 @@ aBiBA:11949:pre::aBi+BA
 aBiBAz:11954:pre::aBi+BAz
 aBiBuj:11960:pre:P:aBi+Buj
 aBiBU:11961:pre::aBi+BU
+aBiBUz:11987.1:pre::aBi+BUz
 aBiBf:11988:pre::aBi+Bf
 aBimad:11990:pre::aBi+mad
 aBiman:11993:pre::aBi+man
-aBimanasya:12003:nom:Ā:
+aBimanasya:12003:pre:Ā:aBi+manasya
 aBimanAya:12004:nom:Ā:
 aBimanAya:12004.1:nom::
 aBimantr:12044:pre:Ā:aBi+mantr
@@ -1317,6 +1333,7 @@ aBiriz:12198:pre::aBi+riz
 aBiru:12199:pre::aBi+ru
 aBiruc:12203:pre:PĀ:aBi+ruc
 aBiruD:12211:pre::aBi+ruD
+aBiruh:12214:pre::aBi+ruh
 aBirE:12228:pre::aBi+rE
 aBilakz:12230:pre::aBi+lakz
 aBilaNG:12240:pre::aBi+laNG
@@ -1516,16 +1533,20 @@ aBisampUj:12836:pre::aBi+sam+pUj
 aBisamprapad:12837:pre::aBi+sam+pra+pad
 aBisamprayA:12838:pre::aBi+sam+pra+yA
 aBisampravft:12839:pre::aBi+sam+pra+vft
+aBisamprAp:12841:pre::aBi+sam+pra+Ap
 aBisamprekz:12842:pre::aBi+sam+pra+A+Ikz
 aBisamplu:12843:pre::aBi+sam+plu
 aBisambanD:12846:pre::aBi+sam+banD
+aBisambuD:12851.1:pre::aBi+sam+buD
 aBisamBU:12856:pre::aBi+sam+BU
 aBisammUrC:12861:pre::aBi+sam+mUrC
 aBisAntv:12865:pre::aBi+sAntv
 aBisiD:12871:pre::aBi+siD
 aBisiD:12872:pre::aBi+siD
+aBisU:12874.1:pre::aBi+sU
 aBisf:12876:pre::aBi+sf
 aBisfj:12900:pre::aBi+sfj
+aBisfp:12907:pre::aBi+sfp
 aBiskand:12911:pre::aBi+skand
 aBiskamB:12913:pre::aBi+skamB
 aBistf:12914:pre::aBi+stf
@@ -1547,6 +1568,8 @@ aBihez:12983:pre::aBi+hez
 aBihve:12988:pre::aBi+hve
 aBI:13005:pre:Ā:aBi+i
 aBIkz:13020:pre:Ā:aBi+Ikz
+aBInD:13030:pre::aBi+inD
+aBIr:13041:pre::aBi+Ir
 aBIz:13059:pre::aBi+iz
 aByaGAya:13156:pre:P:aBi+aGAya
 aByaj:13158:pre::aBi+aj
@@ -1959,15 +1982,21 @@ avAkf:18493:pre::ava+A+kf
 avAgam:18494:pre::ava+A+gam
 avAci:18496:pre::ava+A+ci
 avAcCid:18497:pre::ava+A+Cid
+avAj:18498:pre::ava+aj
+avAd:18537:pre::ava+ad
 avAn:18539:pre::ava+an
 avAp:18553:pre::ava+Ap
+avApoh:18566:pre::ava+apa+Uh
 avAruh:18589:pre::ava+A+ruh
 avArC:18590:pre::ava+fC
 avAloc:18592:pre:Ā:ava+A+loc
+avAs:18596:pre::ava+as
 avAsic:18598:pre::ava+A+sic
 avitaTIkf:18780:gati::avitaTI+kf
 ave:19171:pre:Ā:ava+i
 avekz:19174:pre:PĀ:ava+Ikz
+avenv:19204:pre::ava+inv
+avoh:19223:pre::ava+Uh
 aS:19412:genuineroot:0Ā,0P:
 aSAya:19414:nom:Ā:
 aS:19416:genuineroot::
@@ -2020,11 +2049,13 @@ AkuYc:22163:pre::A+kuYc
 Akulaya:22182:nom:P:
 AkulIkf:22188:gati::AkulI+kf
 AkU:22193:pre:Ā:A+kU
+AkUj:22202:pre::A+kUj
 Akf:22206:pre:PĀ:A+kf
 Akfz:22236:pre::A+kfz
 AkF:22272:pre::A+kF
 Akrand:22304:pre:PĀ:A+krand
 Akram:22318:pre:PĀ:A+kram
+AkrI:22339:pre::A+krI
 AkrIq:22343:pre:Ā:A+krIq
 AkruS:22350:pre::A+kruS
 Akzar:22378:pre::A+kzar
@@ -2053,7 +2084,7 @@ Acakz:22861:pre:Ā:A+cakz
 Acam:22868:pre::A+cam
 Acar:22890:pre::A+car
 AcAryIkf:22952:gati::AcAryI+kf
-AcaraRya:22955:nom:P:
+AcaraRya:22955:pre:P:A+caraRya
 Acal:22956:pre::A+cal
 Aci:22962:pre:PĀ:A+ci
 Acit:22975:pre:Ā:A+cit
@@ -2117,9 +2148,9 @@ ADAv:24165:pre:PĀ:A+DAv
 ADI:24187:pre:PĀ:A+DI
 ADu:24195:pre:PĀ:A+Du
 ADU:24195.1:pre:PĀ:A+DU
-ADunaya:24206:nom:Ā:
-ADUpaya:24208:nom:P:
-ADUmaya:24210:nom:P:
+ADunaya:24206:pre:Ā:A+Dunaya
+ADUpaya:24208:pre:P:A+DUpaya
+ADUmaya:24210:pre:P:A+DUmaya
 ADf:24214:pre:P:A+Df
 ADfz:24239:pre:P:A+Dfz
 ADmA:24258:pre:P:A+DmA
@@ -2256,6 +2287,7 @@ Alaz:26771:pre:Ā:A+laz
 AliK:26804:pre:P:A+liK
 AliNg:26826:pre:PĀ:A+liNg
 Alip:26843:pre:P:A+lip
+AliS:26852.1:pre::A+liS
 Alih:26853:pre:P:A+lih
 AlI:26860:pre:Ā:A+lI
 AluYc:26879:pre:P:A+luYc
@@ -2319,7 +2351,7 @@ ASuz:27573:pre:Ā:A+Suz
 AScarya:27596:nom:P:
 AScut:27597:pre::A+Scut
 ASyE:27613:pre:Ā:A+SyE
-ASravasya:27643:nom:P:
+ASravasya:27643:pre:P:A+Sravasy
 ASri:27644:pre:PĀ:A+Sri
 ASrI:27704:pre:PĀ:A+SrI
 ASru:27710:pre:PĀ:A+Sru
@@ -2367,6 +2399,7 @@ Ahan:28282:pre:PĀ:A+han
 Ahary:28321:pre:PĀ:A+hary
 Ahi:28327:pre:Ā:A+hi
 AhiMs:28328:pre:Ā:A+hiMs
+AhiRq:28334.1:pre::A+hiRq
 Ahu:28340:pre:PĀ:A+hu
 AhutIkf:28367:gati::AhutI+kf
 AhutIBU:28368:gati::AhutI+BU
@@ -2384,6 +2417,7 @@ iNK:28637:genuineroot:1P:
 iNg:28638:genuineroot:1P,1Ā:
 iw:28677:genuineroot:1P:
 in:28830:root::
+inakz:28841:root::
 ind:28845:genuineroot:1P:
 indraya:29202:nom:Ā:
 inD:29258:genuineroot:7Ā:
@@ -2530,6 +2564,7 @@ uttfd:31430:pre:P:ud+tfd
 uttF:31431:pre:P:ud+tF
 uttyaj:31465:pre::ud+tyaj
 uttras:31472:pre:P:ud+tras
+uttruw:31477:pre::ud+truw
 utTA:31479:pre:PĀ:ud+sTA
 utpac:31568:pre:P:ud+pac
 utpaw:31572:pre::ud+paw
@@ -2543,7 +2578,7 @@ utpiz:31748:pre::ud+piz
 utpIq:31751:pre:P:ud+pIq
 utpuMsaya:31760:nom:P:
 utpucCaya:31762:nom:PĀ:
-utpuYjaya:31763:nom:P:
+utpuYjaya:31763:pre:P:ud+puYjaya
 utpU:31768:pre:PĀ:ud+pU
 utpf:31777:pre::ud+pf
 utpF:31779:pre::ud+pF
@@ -2634,6 +2669,7 @@ udgA:32758:pre:P:ud+gA
 udgAh:32761:pre:Ā:ud+gAh
 udgur:32764:pre:P:ud+gur
 udguh:32770:pre:PĀ:ud+guh
+udgfBAya:32772:pre::ud+gfB
 udgF:32773:pre:P:ud+gF
 udgE:32791:pre:P:ud+gE
 udgranT:32811:pre:P:ud+granT
@@ -2662,7 +2698,7 @@ udDA:33119:pre:P:ud+DA
 udDA:33124:pre:Ā:ud+hA
 udDI:33136:pre:P:ud+DI
 udDU:33141:pre:PĀ:ud+DU
-udDUlaya:33147:nom:P:
+udDUlaya:33147:pre:P:ud+DUlaya
 udDf:33151:pre:PĀ:ud+Df
 udDf:33154:pre:PĀ:ud+hf
 udDfz:33237:pre:PĀ:ud+hfz
@@ -2827,7 +2863,7 @@ upadfS:34749:pre:P:upa+dfS
 upadru:34773:pre:P:upa+dru
 upaDA:34793:pre:PĀ:upa+DA
 upaDAv:34833:pre:PĀ:upa+DAv
-upaDUpaya:34836:nom:P:
+upaDUpaya:34836:pre:P:upa+DUpaya
 upaDf:34841:pre:P:upa+Df
 upaDfz:34846:pre:P:upa+Dfz
 upaDe:34847:pre:Ā:upa+De
@@ -2856,6 +2892,7 @@ upanimreq:34954:pre:Ā:upa+ni+mreq
 upaniyuj:34955:pre:Ā:upa+ni+yuj
 upaniruD:34956:pre:P:upa+ni+ruD
 upanirvft:34958:pre::upa+nir+vft
+upanirhf:34958.2:pre::upa+nir+hf
 upanivap:34959:pre:P:upa+ni+vap
 upaniviS:34961:pre:P:upa+ni+viS
 upanivf:34966:pre:P:upa+ni+vf
@@ -2974,7 +3011,7 @@ upavas:35739:pre:P:upa+vas
 upozaya:35762:nom:P:
 upavah:35768:pre:P:upa+vah
 upavA:35780:pre:P:upa+vA
-upavAjaya:35784:nom:P:
+upavAjaya:35784:pre:P:upa+vAjaya
 upavigulP:35788:pre::upa+vi+gulP
 upaviD:35794:pre:P:upa+viD
 upaviS:35799:pre:P:upa+viS
@@ -2993,7 +3030,7 @@ upavE:35858:pre:P:upa+vE
 upavyaD:35861:pre:P:upa+vyaD
 upavye:35866:pre:Ā:upa+vye
 upavraj:35873:pre:P:upa+vraj
-upavrataya:35876:nom:Ā:
+upavrataya:35876:pre:Ā:upa+vrataya
 upaSak:35878:pre:PĀ:upa+Sak
 upaSaNk:35884:pre:Ā:upa+SaNk
 upaSam:35888:pre:PĀ:upa+Sam
@@ -3007,7 +3044,7 @@ upaSram:35969:pre:P:upa+Sram
 upaSri:35970:pre:PĀ:upa+Sri
 upaSru:35974:pre:P:upa+Sru
 upaSliz:35986:pre:P:upa+Sliz
-upaSlokaya:35992:nom:P:
+upaSlokaya:35992:pre:P:upa+Slokaya
 upaSvas:35993:pre::upa+Svas
 upasaMyam:35998:pre::upa+sam+yam
 upasaMyA:36003:pre:P:upa+sam+yA
@@ -3232,6 +3269,7 @@ uzRIkf:37824:gati::uzRI+kf
 uzmAya:37855:nom:Ā:
 usrIya:37930:nom:P:
 uh:37931:genuineroot:1P:
+UW:37966:root::
 Unaya:37993:nom:P:
 UnIkf:37995:gati::UnI+kf
 Uy:38000:genuineroot:1Ā:
@@ -3254,7 +3292,7 @@ fc:38696:genuineroot:6P:
 fC:38773:genuineroot:6P:
 fj:38776:genuineroot:1P,1Ā:
 fjUkf:38832:gati::fjU+kf
-fjUyat:38839:nom:PĀ:
+fjUya:38839:nom:PĀ:
 fYj:38847:genuineroot:1Ā:
 fYj:38849:genuineroot:6P,6Ā,4P,4Ā,7Ā:
 fR:38854:genuineroot:8P,8Ā:
@@ -3346,6 +3384,7 @@ kanaya:43022:nom:P:
 kand:43192:genuineroot:1P,1Ā:
 kandalaya:43282:nom:P:
 kandukAya:43308:nom:Ā:
+kap:43323:root::
 kapilAya:43593:nom:Ā:
 kapilIkf:43594:gati::kapilI+kf
 kapiSaya:43608:nom:P:
@@ -3480,6 +3519,7 @@ kup:52181:genuineroot:4P,4Ā:
 kup:52197:root:10P:
 kumAraya:52372:nom:P:
 kumAlaya:52406:nom::
+kump:52469:root::
 kumb:52471:root:6,10P:
 kumB:52478:root:0:
 kur:52645:root:6P:
@@ -3701,6 +3741,7 @@ Kiw:61901:root:1P:
 Kid:61905:genuineroot:6,7Ā,4Ā,4P:
 Ku:61963:root:1Ā:
 Kuj:61966:root:1:
+Kuq:61968:root::
 KuRq:61976:root:1Ā,10P:
 Kud:61977:genuineroot:6P:
 Kur:61981:root:6P:
@@ -4012,6 +4053,8 @@ Cad:75390:genuineroot:1,10Ā:
 CattrIkf:75454:gati::CattrI+kf
 Cad:75556:genuineroot:10,1Ā:
 Cad:75683:root:1:
+Cand:75687:root::
+Cand:75688:root::
 Cam:75694:root:1:
 Camp:75700:root:10:
 Cambawkf:75704:gati::Cambaw+kf
@@ -4651,6 +4694,7 @@ nAs:106223:root:1Ā:
 niMs:106315:root:2Ā:
 niHSAKIkf:106349:gati::niH+SAKI+kf
 niHSezaya:106364:nom:P:
+nirakz:106500.1:pre::nis+akz
 niraNkuSaya:106512:nom:P:
 niravakASIkf:106644:gati::nir+avakASI+kf
 niruttarIkf:106846:gati::nir+uttarI+kf
@@ -4786,7 +4830,7 @@ nipuT:108774:pre::ni+puT
 nipF:108777:pre:P:ni+pF
 nipraT:108782:pre::ni+praT
 niprahan:108784:pre:P:ni+pra+han
-nipriyAya:108785:nom:Ā:
+nipriyAya:108785:pre:Ā:ni+priyAya
 nibanD:108789:pre:P:ni+banD
 nibAD:108850:pre:Ā:ni+bAD
 nibiqaya:108853:nom:P:
@@ -4864,7 +4908,7 @@ nire:109498:pre::nir+A+i
 nirgam:109503:pre:P:nir+gam
 nirgA:109519:pre::nir+gA
 nirgup:109523:pre::nir+gup
-nirGAtaya:109536:nom:P:
+nirGAtaya:109536:pre:P:nis+GAtaya
 nirGfz:109541:pre:P:nir+Gfz
 nirji:109545:pre:P:nir+ji
 nirjF:109557:pre::nir+jF
@@ -5064,7 +5108,7 @@ nihnu:111166:pre:PĀ:ni+hnu
 nihrAd:111181:pre::ni+hrAd
 nihve:111186:pre:Ā:ni+hve
 nI:111189:genuineroot:1P,1Ā:
-nI:111264:root:0P:
+nI:111264:pre:0P:ni+i
 nIhArAya:111293:nom:Ā:
 nIhArIkf:111293.1:gati::nI+hArI+kf
 nIcatayAyA:111318:gati::nIca+tayA+yA
@@ -5375,6 +5419,7 @@ paripravft:118036:pre::pari+pra+vft
 pariprasyand:118038:pre:PĀ:pari+pra+syand
 pariprAp:118039:pre::pari+pra+Ap
 paripruz:118048:pre::pari+pruz
+paripre:118050:pre::pari+pra+i
 pariprez:118052:pre::pari+pra+iz
 pariplu:118058:pre:Ā:pari+plu
 paribanD:118077:pre:Ā:pari+banD
@@ -5458,6 +5503,7 @@ parivivas:118567:pre::pari+vi+vas
 pariviS:118568:pre:P:pari+viS
 pariviSvas:118573:pre::pari+vi+Svas
 pariviz:118575:pre:PĀ:pari+viz
+parivI:118599:pre::pari+vi+i
 parivIj:118600:pre:Ā:pari+vIj
 parivf:118601:pre:PĀ:pari+vf
 parivArIkf:118610:gati::pari+vArI+kf
@@ -5513,6 +5559,7 @@ parizvan:118948:pre::pari+svan
 parisaMlih:118950:pre:P:pari+sam+lih
 parisaMvad:118954:pre:P:pari+sam+vad
 parisaMstamB:118957:pre::pari+sam+stamB
+parisaMstu:118958:pre::pari+sam+stu
 parisaMstf:118959:pre::pari+sam+stf
 parisaMspfS:118962:pre:P:pari+sam+spfS
 parisaMhA:118963:pre::pari+sam+hA
@@ -5703,6 +5750,7 @@ piRq:123762:root:1Ā,10P:
 piRqIkf:123955:gati::piRqI+kf
 piRqIBU:123958:gati::piRqI+BU
 pitUya:123985:nom:P:
+pidfB:124254:pre::api+dfB
 piDA:124256:pre::pi+DA
 pinah:124274:pre::pi+nah
 pinI:124297:pre:P:pi+nI
@@ -5946,7 +5994,7 @@ pratam:131380:pre:P:pra+tam
 pratark:131388:pre:P:pra+tark
 pratikUlaya:131450:nom:P:
 pratidvaMdvaya:131528:nom:P:
-pratinyUNKaya:131560:nom::
+pratinyUNKaya:131560:pre::prati+nyUNKaya
 pratibimba:131667:nom:P:
 pratibimbIkf:131667.2:gati::prati+bimbI+kf
 pratibimbaya:131671:nom:P:
@@ -5972,9 +6020,10 @@ pratigA:132203:pre::prati+gA
 pratigAh:132204:pre:Ā:prati+gAh
 pratigu:132205:pre::prati+gu
 pratigfD:132209:pre:P:prati+gfD
-pratigfBAya:132210:nom:P:
+pratigfBAya:132210:pre:P:prati+gfBAya
 pratigF:132211:pre:PĀ:prati+gF
 pratigrah:132215:pre:PĀ:prati+grah
+pratiGAtaya:132270:pre::prati+GAtaya
 praticakz:132277:pre:Ā:prati+cakz
 praticar:132283:pre:P:prati+car
 praticint:132288:pre:PĀ:prati+cint
@@ -6131,6 +6180,7 @@ prativAS:133061:pre:Ā:prati+vAS
 prativijYA:133064:pre:P:prati+vi+jYA
 prativid:133065:pre:P:prati+vid
 prativid:133068:pre:PĀ:prati+vid
+prativiD:133069.1:pre::prati+viD
 prativiDA:133070:pre:PĀ:prati+vi+DA
 prativinud:133084:pre:P:prati+vi+nud
 prativiparI:133085:pre:P:prati+vi+pari+i
@@ -6151,6 +6201,7 @@ prativyaD:133125:pre:PĀ:prati+vyaD
 prativyUh:133128:pre:PĀ:prati+vyUh
 prativraj:133134:pre:P:prati+vraj
 pratiSaMs:133135:pre:P:prati+SaMs
+pratiSak:133136:pre::prati+Sak
 pratiSaNk:133137:pre:Ā:prati+SaNk
 pratiSap:133141:pre:P:prati+Sap
 pratiSam:133143:pre::prati+Sam
@@ -6331,6 +6382,7 @@ pratyASru:134253:pre::prati+A+Sru
 pratyASvas:134258:pre:P:prati+A+Svas
 pratyAs:134262:pre:Ā:prati+As
 pratyAsad:134265:pre:P:prati+A+sad
+pratyAsic:134274.1:pre::praty+A+sic
 pratyAsev:134275:pre:Ā:prati+A+sev
 pratyAsTA:134276:pre:P:prati+A+sTA
 pratyAhan:134279:pre:PĀ:prati+A+han
@@ -6390,6 +6442,7 @@ praT:134504:root:10P:
 pfT:134504.1:root:10P:
 pradakziRaya:134616:nom:P:
 pradakziRIkf:134618:gati:PĀ:pradakziRI+kf
+pradam:134623:pre::pra+dam
 pradas:134635:pre:P:pra+das
 pradah:134636:pre:PĀ:pra+dah
 pradA:134641:pre:PĀ:pra+dA
@@ -6609,7 +6662,7 @@ pravivic:137058:pre::pra+vi+vic
 praviS:137069:pre:PĀ:pra+viS
 pravizwahAya:137081:nom:Ā:
 praviSam:137120:pre::pra+vi+Sam
-praviSAlaya:137120.1:nom:P:
+praviSAlaya:137120.1:pre:P:pra+viSAlaya
 praviSiz:137121:pre:P:pra+vi+Siz
 praviSuD:137123:pre::pra+vi+SuD
 pravistf:137135:pre:P:pra+vi+stf
@@ -6662,6 +6715,7 @@ prasan:137899:pre:Ā:pra+san
 prasaMDA:137900:pre:PĀ:pra+sam+DA
 prasamIkz:137913:pre:Ā:pra+sam+Ikz
 prasamIq:137920:pre::pra+sam+Iq
+prasampaS:137920.1:pre::pra+sam+paS
 prasah:137932:pre:PĀ:pra+sah
 prasAD:137951:pre::pra+sAD
 prasi:137978:pre:Ā:pra+si
@@ -6679,6 +6733,7 @@ prasfp:138182:pre:P:pra+sfp
 praskand:138211:pre:P:pra+skand
 prasKal:138227:pre:P:pra+sKal
 prastan:138233:pre::pra+stan
+prastiG:138238.1:pre::pra+stiG
 prastu:138240:pre:PĀ:pra+stu
 prastuB:138287:pre:Ā:pra+stuB
 prastump:138290:gati:P:pra+s+tump
@@ -6890,6 +6945,8 @@ bAzpAya:144879:nom:Ā:
 bAh:144887:root:0:
 biw:145106:root:1P:
 viw:145106.1:root:1P:
+biq:145109:root::
+viq:145109.1:root::
 bid:145129:root:1P:
 bind:145129.1:root:1P:
 bindUya:145204:nom:Ā:
@@ -6970,6 +7027,7 @@ BAsAya:150625:nom:Ā:
 Bikz:150663:genuineroot:1Ā,1P:
 Bikzya:150723:nom:P:
 Bid:150727:genuineroot:7P,7Ā,1P:
+Bind:150903:root::
 Bil:150910:root:0:
 Bizaj:150928:root:0:
 Bizajya:150953:nom:P:
@@ -7026,6 +7084,7 @@ Brej:153855:root:1Ā:
 Brez:153856:genuineroot:1P,1Ā:
 Blakz:153862:root:1P,1Ā:
 BlAS:153863:root:1,4Ā:
+BlAs:153864:root::
 Blez:153865:root:0:
 maMh:153892:genuineroot:1Ā,10:
 makamakAya:153911:genuineroot:0Ā:
@@ -7285,6 +7344,7 @@ mreq:168896:root:1P:
 mlakz:168898:root:10P:
 mluc:168901:genuineroot:1P:
 mluYc:168903:root:1P:
+mlup:168904:root::
 mleC:168905:genuineroot:1P,10P:
 mlew:168936:root:1P:
 mleq:168936.1:root:1P:
@@ -7320,6 +7380,7 @@ yugAya:171920:nom:Ā:
 yoktraya:172000:nom:P:
 yut:172009:root:1Ā:
 yuD:172012:genuineroot:4Ā,4P,1P:
+yunT:172138:root::
 yup:172139:genuineroot:4P:
 yuzmaya:172221:nom:P:
 yUTIkf:172261:gati:P:yUTI+kf
@@ -7485,6 +7546,7 @@ lag:180704:genuineroot:1P,10:
 laGaya:181033:nom:P:
 laGUkf:181046:gati:P:laGU+kf
 laGUya:181049:nom:P:
+laNK:181104:root::
 laNg:181106:root:1P:
 laNG:181121:genuineroot:1P,1Ā,10P:
 laC:181150:root:1P:
@@ -7700,6 +7762,7 @@ vAD:190802:root:0:
 vAntIkf:190922:gati:P:vAntI+kf
 vApyAya:190964:nom:P:
 vAmIkf:191092:gati:P:vAmI+kf
+vAyuputrAya:191295:root::
 vArIya:191577:nom:Ā:
 vArttaya:191887:nom:P:
 vAlavyajanIBU:192122:gati:P:vAla+vyajanI+BU
@@ -7953,6 +8016,7 @@ vinizpat:197162:pre:P:vi+nis+pat
 vinizpiz:197166:pre:P:vi+nis+piz
 vinizpIq:197169:pre:P:vi+nis+pIq
 vinisUd:197170:pre::vi+ni+sUd
+vinistap:197172:pre::vi+nis+tap
 vinihan:197174:pre:P:vi+ni+han
 vinihnu:197182:pre:P:vi+ni+hnu
 vinI:197184:pre:PĀ:vi+nI
@@ -7998,7 +8062,7 @@ vipalyaNg:197746:gati::vi+paly+aNg
 vipalyay:197747:pre:Ā:vi+pari+ay
 vipaS:197749:pre:P:vi+paS
 vipA:197754:pre:PĀ:vi+pA
-vipASaya:197770:nom::
+vipASaya:197770:pre::vi+pASaya
 vipiS:197773:pre:P:vi+piS
 vipuT:197776:pre::vi+puT
 vipulaya:197812:nom:P:
@@ -8238,7 +8302,7 @@ vizvaYj:202685:pre:Ā:vi+svaYj
 vizvan:202686:pre:P:vi+svan
 vis:202690:root:0:
 visaMvad:202694:pre:P:vi+sam+vad
-visaparya:202709:nom:P:
+visaparya:202709:pre:P:vi+saparya
 visiD:202717:pre:P:vi+siD
 visUtr:202724:pre:P:vi+sUtr
 visf:202733:pre:PĀ:vi+sf
@@ -8325,6 +8389,7 @@ vekz:205298:root:10P:
 vewy:205421:root:1P:
 veR:205425:root:0:
 vedApaya:206052:nom:P:
+vedy:206155:root::
 veD:206156:root:1Ā:
 ven:206222:genuineroot:1P:
 vep:206235:root:0:
@@ -8422,6 +8487,8 @@ vyapamuc:208761:pre:P:vi+apa+muc
 vyapayA:208762:pre:P:vi+apa+yA
 vyaparuD:208764:pre::vi+apa+ruD
 vyaparuh:208765:pre::vi+apa+ruh
+vyapavah:208769:pre::vy+apa+vah
+vyapavfj:208773:pre::
 vyapavft:208777:pre:Ā:vi+apa+vft
 vyapasaMsf:208778:pre::vi+apa+sam+sf
 vyapasf:208779:pre:P:vi+apa+sf
@@ -8928,7 +8995,7 @@ saMvarmaya:226091:nom:P:
 saMvarya:226093:nom:P:
 saMvalg:226100:pre:Ā:sam+valg
 saMvas:226104:pre:Ā:sam+vas
-saMvastraya:226106:nom:P:
+saMvastraya:226106:pre:P:sam+vastraya
 saMvas:226108:pre:PĀ:sam+vas
 saMvah:226125:pre:1P1Ā:sam+vah
 saMvA:226153:pre:P:sam+vA
@@ -9235,7 +9302,7 @@ saMDmA:231883:pre::sam+DmA
 saMDyE:231884:pre:P:sam+DyE
 saMnad:231894:pre:P:sam+nad
 saMnam:231901:pre:PĀ:sam+nam
-saMnamasya:231929:nom:P:
+saMnamasya:231929:pre:P:sam+namasya
 saMnard:231931:pre:P:sam+nard
 saMnaS:231932:pre::sam+naS
 saMnas:231934:pre:Ā:sam+nas
@@ -9575,7 +9642,7 @@ samiNg:234886:pre::sam+iNg
 saminD:234898:pre:Ā:sam+inD
 samiDya:234933:nom:P:
 saminv:234941:pre:P:sam+inv
-samizaRya:234946:nom:P:
+samizaRya:234946:pre:P:sam+izaRya
 samIkz:234953:pre:Ā:sam+Ikz
 samIj:234973:pre:Ā:sam+Ij
 samIq:234974:pre::sam+Iq
@@ -9741,6 +9808,7 @@ samUh:235783:pre:PĀ:sam+Uh
 samUh:235806:pre::sam+Uh
 samf:235807:pre:PĀ:sam+f
 samarya:235867:nom:P:
+samfC:235875:pre::sam+fC
 samfD:235876:pre:P:sam+fD
 samfdDIkf:235907:gati:P:samfdDI+kf
 samfz:235910:pre:P:sam+fz
@@ -9909,7 +9977,7 @@ samprahfz:236654:pre:PĀ:sam+pra+hfz
 samprAdru:236665:pre::sam+pra+A+dru
 samprAp:236667:pre:P:sam+pra+Ap
 samprArT:236683:pre:P:sam+pra+arT
-samprAv:236685:root:0P:
+samprAv:236685:pre::sam+pra+av
 samprAS:236686:pre:P:sam+pra+aS
 samprI:236687:pre:Ā:sam+prI
 sampre:236700:pre:P:sam+pra+i
@@ -10049,6 +10117,7 @@ siD:244298:genuineroot:1P:
 siD:244301:genuineroot:4P:
 sidDAYjanAya:244493:nom:Ā:
 sidDAntaya:244650:nom:P:
+sinv:244920:root::
 siprAya:244931:nom:Ā:
 siB:244933:root:0:
 simB:244933.1:root:0:
@@ -10140,6 +10209,7 @@ skund:254259:root:1Ā:
 skumB:254260:root:5,9P:
 sKad:254267:root:1Ā:
 sKal:254272:genuineroot:1P:
+sKuq:254305:root::
 stak:254306:root:1P:
 stan:254307:genuineroot:1P:
 stabakaya:254427:nom:P:
@@ -10217,6 +10287,7 @@ spfS:256602:genuineroot:6P:
 spfh:256712:genuineroot:10P:
 spF:256737:root:9P:
 sPaw:256740:root:1P,10P:
+sPaRw:256784:root::
 sPaRq:256785:root:10P:
 sPar:256786:root:6P:
 sPArIBU:256803:gati:P:sPArI+BU

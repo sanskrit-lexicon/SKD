@@ -9199,28 +9199,28 @@ Beza¦, f Ya Baye . iti kavikalpadrumaH .. (BvA0-
 <>Bezate biBeze . iti durgAdAsaH ..
 ;----------------------------------------------------------------------
 ;
-;; Case 1294: L=25517, k1=BrASa, k2=BrASa, vcp=BrASa, mw=BrAS
-BrASa¦, f Ra wu Na BAsi . iti kavikalpadrumaH ..
+;; Case 1294: L=25517, k1=BnASa, k2=BnASa, vcp=?, mw=?
+BnASa¦, f Ra wu Na BAsi . iti kavikalpadrumaH ..
 <>(BvA0-Atma0-aka0-sew .) f avaBnASat .
 <>Ra BneSe baBnASe . wu BnASaTuH . Na BnASate .
 <>iti durgAdAsaH ..
 ;----------------------------------------------------------------------
 ;
-;; Case 1295: L=25518, k1=BrASa, k2=BrASa, vcp=BrASa, mw=BrAS
-BrASa¦, ya Na BAsi . iti kavikalpadrumaH .. (divA0
+;; Case 1295: L=25518, k1=BnASa, k2=BnASa, vcp=?, mw=?
+BnASa¦, ya Na BAsi . iti kavikalpadrumaH .. (divA0
 <>Atma0-aka0-sew .) ya Na BrASyate . iti
 <>durgAdAsaH ..
 ;----------------------------------------------------------------------
 ;
-;; Case 1296: L=25519, k1=BrAsa, k2=BrAsa, vcp=BrAsa, mw=BrAs
-BrAsa¦, f Ra Na wu BAsi . iti kavikalpadrumaH ..
+;; Case 1296: L=25519, k1=BnAsa, k2=BnAsa, vcp=?, mw=?
+BnAsa¦, f Ra Na wu BAsi . iti kavikalpadrumaH ..
 <>(BvA0-Atma0-aka0-sew0 .) f avaBrAsat .
 <>Ra Brese vaBrAse . Na BrAsate . wu BrAsaTuH . iti
 <>durgAdAsaH ..
 ;----------------------------------------------------------------------
 ;
-;; Case 1297: L=25520, k1=BrAsa, k2=BrAsa, vcp=BrAsa, mw=BrAs
-BrAsa¦, ya Na BAsi . iti kavikalpadrumaH .. (divA0-
+;; Case 1297: L=25520, k1=BnAsa, k2=BnAsa, vcp=?, mw=?
+BnAsa¦, ya Na BAsi . iti kavikalpadrumaH .. (divA0-
 <>Atma0-aka-0sew .) ya Na BrASyate . iti
 <>durgAdAsaH ..
 ;----------------------------------------------------------------------

@@ -1291,10 +1291,10 @@
 ;; Case 1291: L=25420, k1=BfSa, k2=BfSa, vcp=BfSa, mw=BfS
 ;; Case 1292: L=25429, k1=BF, k2=BF, vcp=BF, mw=BF
 ;; Case 1293: L=25454, k1=Beza, k2=Beza, vcp=Beza, mw=Bez
-;; Case 1294: L=25517, k1=BrASa, k2=BrASa, vcp=BrASa, mw=BrAS
-;; Case 1295: L=25518, k1=BrASa, k2=BrASa, vcp=BrASa, mw=BrAS
-;; Case 1296: L=25519, k1=BrAsa, k2=BrAsa, vcp=BrAsa, mw=BrAs
-;; Case 1297: L=25520, k1=BrAsa, k2=BrAsa, vcp=BrAsa, mw=BrAs
+;; Case 1294: L=25517, k1=BnASa, k2=BnASa, vcp=?, mw=?
+;; Case 1295: L=25518, k1=BnASa, k2=BnASa, vcp=?, mw=?
+;; Case 1296: L=25519, k1=BnAsa, k2=BnAsa, vcp=?, mw=?
+;; Case 1297: L=25520, k1=BnAsa, k2=BnAsa, vcp=?, mw=?
 ;; Case 1298: L=25521, k1=Byasa, k2=Byasa, vcp=Byasa, mw=Byas
 ;; Case 1299: L=25526, k1=BraRa, k2=BraRa, vcp=BraRa, mw=BraR
 ;; Case 1300: L=25527, k1=BranSa, k2=BranSa, vcp=BranSa, mw=BraMS
