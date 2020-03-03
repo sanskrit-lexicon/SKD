@@ -272,7 +272,7 @@
 ;; Case 0272: L=9160, k1=knasa, k2=knasa, vcp=knasa, mw=knas
 ;; Case 0273: L=9161, k1=knasa, k2=knasa, vcp=knasa, mw=knas
 ;; Case 0274: L=9162, k1=knUya, k2=knUya, vcp=knUya, mw=knUy
-;; Case 0275: L=9163, k1=kmaraM, k2=kmaraM, vcp=?, mw=None
+;; Case 0275: L=9163, k1=kmara, k2=kmara, vcp=kmara, mw=kmar
 ;; Case 0276: L=9182, k1=kraTa, k2=kraTa, vcp=kraTa, mw=kraT
 ;; Case 0277: L=9183, k1=kraTa, k2=kraTa, vcp=kraTa, mw=kraT
 ;; Case 0278: L=9184, k1=kraTa, k2=kraTa, vcp=kraTa, mw=kraT

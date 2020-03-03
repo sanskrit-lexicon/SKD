@@ -2028,8 +2028,8 @@ knUya¦, I Na durganDe . Ardratve . Sabde . iti kavikalpa-
 <>mamBasA . iti durgAdAsaH ..
 ;----------------------------------------------------------------------
 ;
-;; Case 0275: L=9163, k1=kmaraM, k2=kmaraM, vcp=?, mw=None
-kmaraM¦, kOwilye . iti kavikalpadrumaH .. (BvAM--paraM--
+;; Case 0275: L=9163, k1=kmara, k2=kmara, vcp=kmara, mw=kmar
+kmara¦, kOwilye . iti kavikalpadrumaH .. (BvAM--paraM--
 <>akaM--sew .) ozWavargaSezayuktaH . kmarati KalaH
 <>kuwilaH syAdityarTaH . iti durgAdAsaH ..
 ;----------------------------------------------------------------------

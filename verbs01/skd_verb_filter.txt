@@ -820,8 +820,8 @@
 ;; Case 0274: L=9162, k1=knUya, k2=knUya, code=2
 101561: knUya¦, I Na durganDe . Ardratve . Sabde . iti kavikalpa-
 ;
-;; Case 0275: L=9163, k1=kmaraM, k2=kmaraM, code=1
-101571: kmaraM¦, kOwilye . iti kavikalpadrumaH .. (BvAM--paraM--
+;; Case 0275: L=9163, k1=kmara, k2=kmara, code=1
+101571: kmara¦, kOwilye . iti kavikalpadrumaH .. (BvAM--paraM--
 ;
 ;; Case 0276: L=9182, k1=kraTa, k2=kraTa, code=1
 101851: kraTa¦, ma vaDe . iti kavikalpadrumaH .. (BvAM--paraM--sakaM--
