@@ -31,6 +31,7 @@ class Entry(object):
   self.marked = False # from a filter of markup associated with verbs
   self.markcode = None
   self.markline = None
+
 def init_entries(filein):
  # slurp lines
  with codecs.open(filein,encoding='utf-8',mode='r') as f:
@@ -100,6 +101,9 @@ def mark_entries_verb(entries):
    code = 2
   elif re.search(' iti kavi-',datalines[0]):
    code = 3
+  elif L in ['4015','4016','4017', # k1='i'
+            ]:
+   code = 4
   if code != None:
    entry.markcode = code
    entry.markline = datalines[0]
