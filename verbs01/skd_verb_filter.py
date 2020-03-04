@@ -31,7 +31,6 @@ class Entry(object):
   self.marked = False # from a filter of markup associated with verbs
   self.markcode = None
   self.markline = None
-
 def init_entries(filein):
  # slurp lines
  with codecs.open(filein,encoding='utf-8',mode='r') as f:
@@ -132,6 +131,8 @@ def mark_entries_verb(entries):
     code = 12
    elif re.search(' iti kavi-',line):
     code = 13
+   elif re.search('<>kavikalpadrumaH',line):
+    code = 15
    elif re.search('kavikalpalat',line):
     continue  # kavakalpalatA NOT a verb indicator
    elif L in ['8480','31310','37770','42132']:
