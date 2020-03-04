@@ -1,5 +1,5 @@
 #-*- coding:utf-8 -*-
-"""vcp_skd_verb2.py
+"""vcp_skd_verb2n.py
   
 """
 from __future__ import print_function
@@ -147,19 +147,26 @@ def html_head():
 <html>
 <head>
 
-  <title>VCP-SKD verbs</title>
+  <title>VCP-SKD unmatched verbs</title>
 
   <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
   <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
   <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
   <script>
   $( function() {
-    $( "#accordion" ).accordion({
+    $( "#accordion1" ).accordion({
       active : 'none', //false,  // All sections collapsed
       collapsible: true,
       autoHeight: false,
       navigation:true
      });
+    $( "#accordion2" ).accordion({
+      active : 'none', //false,  // All sections collapsed
+      collapsible: true,
+      autoHeight: false,
+      navigation:true
+     });
+
   } );
   </script>
 <style>
@@ -167,16 +174,30 @@ def html_head():
  table {}
  tr {}
  td  {border-style: groove;
-   width: 45%;
+   /*width: 45%;*/
     vertical-align: top;
   }
  td.vcp { padding-right:10px; padding-left:5px;}
  td.skd { padding-left:10px;}
 
-#accordion .ui-accordion-content {
+#accordion1 .ui-accordion-content {
     max-height: 200px;
+    /*width:95%;*/
+    padding-left:0px;
+    padding-right:0px;
 }
- 
+#accordion2 .ui-accordion-content {
+    max-height: 200px;
+    /*width:95%;*/
+    padding-left:0px;
+    padding-right:0px;
+}
+#accordion1,#accordion2 {
+    /*background-color: green; */
+}
+.panel {
+    width:450px;
+}
 </style>
 </head>
  """
@@ -188,11 +209,13 @@ def html_title():
  template = """
 <body>
 
-<h1> Comparison of verbs from VCP and SKD dictionaries. </h1>
+<h1> Unmatched verbs from VCP and SKD dictionaries. </h1>
+<p>These are verb records from VCP dictionary which, thus far, are not matched
+    with a verb record from SKD;  and vice-versa.
+</p>
 <p> %s
     
 </p>
-<div id="accordion">
  
  """ % today
  return template
@@ -227,7 +250,7 @@ def html_section_one(dictlo,recs,tranout):
  out = '\n'.join(outarr)
  return out
 
-def html_section(imatch,vcp_mergerec,skd_mergerec,tranout):
+def unused_html_section(imatch,vcp_mergerec,skd_mergerec,tranout):
  tranin='slp1'
  vcp = vcp_mergerec.k
  skd = skd_mergerec.k
@@ -253,31 +276,62 @@ def html_section(imatch,vcp_mergerec,skd_mergerec,tranout):
  outarr.append(table)
  return '\n'.join(outarr)
 
-def write_match(fileout,vcp_mergerecs,tranout):
+def html_section_onen(dictlo,recs,tranout):
+ tranin='slp1'
+ outarr = []
+
+ for rec in recs:
+  k1 = rec.k1
+  L = rec.L
+  k1a = transcode_line(k1,tranin,tranout)
+  outarr.append('<b> k1=%s, L=%s</b><br/>' %(k1a,L))
+  lines = rec.lines
+  for line in lines:
+   line1 = line_adjust(line,tranout)
+   outarr.append(line1 + '<br/>')
+ out = '\n'.join(outarr)
+ return out
+
+def html_panels(dictlo,mergerecs,tranout):
+ tranin = 'slp1'
+ outarr = []
+ for imergerec,mergerec in enumerate(mergerecs):
+  icase = imergerec+1
+  k = mergerec.k
+  k1 = transcode_line(k,tranin,tranout)
+  outarr.append('<h2> Case %04d: %s=%s</h2>' %(icase,dictlo,k1))
+  txt = html_section_onen(dictlo,mergerec.recs,tranout)
+  outarr.append('<div class="panel">%s</div>' % txt)
+ out = '\n'.join(outarr)
+ return out
+
+def write_nomatch(fileout,vcp_mergerecs,skd_mergerecs,tranout):
  tranin = 'slp1'
  n = 0
- nflag = 0
- neq = 0
  htmlarr = [] # array of html strings
  htmlarr.append(html_head())
  htmlarr.append(html_title())
-
- if True:  # just for indenting
-  imatch = 0
-  for vcp_mergerec in vcp_mergerecs:
-   skd_mergerec = vcp_mergerec.matchrecs
-   if skd_mergerec == None:
-    continue # not a match
-   imatch = imatch + 1
-   #if imatch == 50:
-   # break
-   htmlarr.append(html_section(imatch,vcp_mergerec,skd_mergerec,tranout))
-   n = n + 1
- htmlarr.append('</div></body></html>') 
+ varr = [r for r in vcp_mergerecs if r.matchrecs == None] # ~170+
+ sarr = [r for r in skd_mergerecs if r.matchrecs == None] # ~100
+ if False:  # debug
+  varr = varr[0:20]
+  sarr = sarr[0:20]
+ htmlvcp = html_panels('vcp',varr,tranout)
+ htmlskd = html_panels('skd',sarr,tranout)
+ html0 = """
+ <table>
+  <tr><th>VCP</th><th>SKD</th></tr>
+  <tr>
+  <td class="panel"><div id="accordion1">%s</div></td>
+  <td class="panel"><div id="accordion2">%s</div></td>
+ </tr></table>
+ """ %(htmlvcp,htmlskd)
+ htmlarr.append(html0)
+ htmlarr.append('</body></html>') 
  with codecs.open(fileout,"w","utf-8") as f:
   out = '\n'.join(htmlarr)
   f.write(out + '\n')
- print(n,"records written to",fileout)
+ print("html  written to",fileout)
  #print(nflag,"matches are approximate")
 
 def init_vcp_skd_map(filein):
@@ -299,6 +353,13 @@ def test(tranout):
  y = transcoder.transcoder_processString(x,tranin,tranout)
  print('test: %s -> %s' %(x,y))
  exit(1)
+def test1(vcp_recs,skd_recs):
+ varr = [r for r in vcp_recs if r.matchrecs == None]
+ sarr = [r for r in skd_recs if r.matchrecs == None]
+ nvarr = len(varr)
+ nsarr = len(sarr)
+ print(nvarr,nsarr)
+ exit(1)
 if __name__=="__main__": 
  tranout = sys.argv[1] # deva or slp1
  filein = sys.argv[2] #  vcp_verb1
@@ -309,4 +370,6 @@ if __name__=="__main__":
  skd_recs = init_verbs(filein1,'skd')
  vcpskd = init_vcp_skd_map(filein2)
  maprecs(vcp_recs,skd_recs,vcpskd)
- write_match(fileout,vcp_recs,tranout)
+ #test1(vcp_recs,skd_recs)
+ 
+ write_nomatch(fileout,vcp_recs,skd_recs,tranout)
