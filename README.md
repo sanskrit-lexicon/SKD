@@ -13,3 +13,4 @@ collect various files created back in 2014.  Probably of little ongoing interest
 
 ## verbs01
 Work on verbs begun February, 2020.
+See: https://github.com/sanskrit-lexicon/SKD/issues/8.
