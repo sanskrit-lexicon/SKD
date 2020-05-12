@@ -87,10 +87,15 @@ def mark_entries_verb(entries):
  """ skd verbs: iti kavikalpadrumaH """
 
  for entry in entries:
-  # first exclude known non-verbs
   k1 = entry.metad['k1']
   L  = entry.metad['L']
   code = None
+  # known non-verbs
+  if L in [
+    '5583', # E
+    '5738', # ka
+    ]: 
+   continue
   linenum1 = entry.linenum1  # integer line number of metaline
   datalines = entry.datalines
   # various forms of iti kavikalpadrumaH in first line
