@@ -1,4 +1,5 @@
 ; non-identity mappings from vcp verb spellings to skd verb spellings.
+amBa:aBa
 arca:arcca
 ; vcp has both 'arja' and 'arjja' skd has only 'arjja'
 ;arja:arjja   

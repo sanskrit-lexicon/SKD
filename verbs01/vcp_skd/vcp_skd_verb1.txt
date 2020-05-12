@@ -14,7 +14,7 @@ vcp=awa, skd=?
 vcp=awwa, skd=awwa
 vcp=aWa, skd=aWa
 vcp=aqa, skd=aqa
-vcp=?, skd=aqqa
+vcp=aqqa, skd=aqqa
 vcp=aRa, skd=aRa
 vcp=ata, skd=ata
 vcp=?, skd=atwaNa
@@ -35,7 +35,7 @@ vcp=amba, skd=?
 vcp=ambara, skd=?
 vcp=amBa, skd=?
 vcp=aya, skd=?
-vcp=?, skd=arka
+vcp=arka, skd=arka
 vcp=arGa, skd=arGa
 vcp=arca, skd=arcca *
 vcp=arja, skd=arjja *
@@ -44,7 +44,7 @@ vcp=arTa, skd=arTa
 vcp=ardda, skd=arda *
 vcp=arba, skd=arbba *
 vcp=arha, skd=arha
-vcp=?, skd=ala
+vcp=ala, skd=ala
 vcp=avaDIra, skd=?
 vcp=avara, skd=?
 vcp=aSa, skd=?
@@ -112,7 +112,7 @@ vcp=Una, skd=Una
 vcp=Uya, skd=Uya
 vcp=Urjja, skd=Urjja
 vcp=UrRRu, skd=UrRu *
-vcp=?, skd=Uza
+vcp=Uza, skd=Uza
 vcp=Uha, skd=Uha
 vcp=f, skd=f
 vcp=?, skd=fkza
@@ -132,13 +132,11 @@ vcp=eWa, skd=eWa
 vcp=eDa, skd=eDa
 vcp=elA, skd=?
 vcp=ez, skd=eza *
-vcp=?, skd=E
 vcp=oKa, skd=oKa
 vcp=oja, skd=oja
 vcp=oRa, skd=oRa
 vcp=olaja, skd=olaja
 vcp=olaqa, skd=olaqa
-vcp=?, skd=ka
 vcp=kaka, skd=kaka
 vcp=kakka, skd=kakka
 vcp=kakKa, skd=kakKa
@@ -192,7 +190,7 @@ vcp=kIwa, skd=kIwa
 vcp=kIla, skd=kIla
 vcp=ku, skd=ku
 vcp=kuka, skd=kuk *
-vcp=?, skd=kuca
+vcp=kuca, skd=kuca
 vcp=kuja, skd=kuja
 vcp=kuwa, skd=kuwa
 vcp=kuwumba, skd=kuwumba
@@ -258,7 +256,7 @@ vcp=krIqa, skd=krIqa
 vcp=kruqa, skd=?
 vcp=kruTa, skd=?
 vcp=kruDa, skd=kruDa
-vcp=?, skd=krunca
+vcp=krunca, skd=krunca
 vcp=krunTa, skd=krunTa
 vcp=kruSa, skd=kruSa
 vcp=klaTa, skd=klaTa
@@ -304,7 +302,7 @@ vcp=kzmAya, skd=kzmAya
 vcp=kzmIla, skd=kzmIla
 vcp=kzviqa, skd=kzviqa
 vcp=kzvida, skd=kzvida
-vcp=?, skd=kzvela
+vcp=kzvela, skd=kzvela
 vcp=KakKa, skd=KakKa
 vcp=Kaca, skd=Kaca
 vcp=Kaja, skd=Kaja
@@ -361,7 +359,7 @@ vcp=garha, skd=garha
 vcp=gala, skd=gala
 vcp=galBa, skd=galBa
 vcp=galha, skd=galha
-vcp=?, skd=gaveza
+vcp=gaveza, skd=gaveza
 vcp=gaha, skd=gaha
 vcp=gA, skd=gA
 vcp=gAtra, skd=gAtra
@@ -554,7 +552,7 @@ vcp=jF, skd=jF
 vcp=jeza, skd=jeza
 vcp=jeha, skd=jeha
 vcp=jE, skd=jE
-vcp=?, skd=jYapa
+vcp=jYapa, skd=jYapa
 vcp=jYA, skd=jYA
 vcp=jyA, skd=jyA
 vcp=jyu, skd=jyu
@@ -681,7 +679,7 @@ vcp=tusa, skd=tusa
 vcp=tuha, skd=tuha
 vcp=tUqa, skd=tUqa
 vcp=tURa, skd=tURa
-vcp=?, skd=tUra
+vcp=tUra, skd=tUra
 vcp=tUla, skd=tUla
 vcp=tUza, skd=tUza
 vcp=tfkza, skd=tfkza
