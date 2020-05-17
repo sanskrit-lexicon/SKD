@@ -1,0 +1,1007 @@
+;; Case 01: k1=atwaNa not in vcp
+?
+;; Case 02: k1=adwaNa not in vcp
+?
+;; Case 03: k1=adqa not in vcp
+?
+;; Case 04: k1=anca, L=2184 in vcp
+anca¦ vya ktO cu0 uBa0 saka0 sew . aYcayati--te AYcicat-
+<>ta karmmaRi aYcyate . RijaBAve acyate iti BedaH
+<>“pUrRRAt pUrRRamudacyate” iti SrutiH .
+;----------------------------------------------------------------------
+;
+;; Case 05: k1=ukza, L=8598 in vcp
+ukza¦--secane BvA0 saka0 pa0 sew . ukzati OkzIt
+<>ukzAm--baBUva Asa cakAra . ukzitA ukzyAt ukzizyati
+<>Okzizyat . ukzitavyaH ukzaRIyaH ukzyaH . ukzitA
+<>ukzan ukzitaH . ukzA ukzaRam . ukzitvA samukzya .
+[Page1053-b+ 38]
+<>karmmaRi ukzyate Okzi ukzyamARaH “ukzantyasmE maruto
+<>hitAiva” f0 1, 166, 3, “Okzan SoRitamamBodAH”
+<>BawwiH . “ukzAM pracakrunegarasya mArgAn” BawwiH . avyavaDAne
+<>evAmuprayogaviDAnAt praSabdavyavaGAnAnnAmuprasaktirato'tra
+<>jayamaNgalena ukzAnpracakruriti paWitam ukzAn siktAniti
+<>tadarTaH “GftamukzatA maDuvarRRamarcate” f0 1, 87, 2, “gaNgA-
+<>pravAhokzitadevadAru” kumA0 . “ganDavadruDiracandanokzitA”
+<>“kiYcidukzitaSiKaRqakAvuBO” raGuH . kvacindasva padavya-
+<>tyayaH . “ahamapo apinvamukzamARAH” f0 4, 42, 4
+<>“tamukzamARamavyaye vAre punanti” f0 9, 99, 5 “prasavya-
+<>mAtmAnamudakEH paryyukzante” ASva0 SrO0 . ukzaRaYca dravya-
+<>dravyeRa saMyogaviSezajanakavyApAraH . (secA) .
+<HI>aBi + avatAnapARinA secane . “uttAnenEva hastena-
+<>prokzaRaM parikIrttitam . nyaYcatA'ByukzaRaM proktaM tira-
+<>ScA'vokzaRaM smftamiti” Candopa0 ukteH taTArTa-
+<>tvam . aByukzaRaSabde vivftiH “parasparAByukzaRatat-
+<>parARAm raGuH . “Sirasi SakuntalAmaByukzyaM” Saku0 .
+<>“aTAdBiraByukzati, eza vA apAM samBAro yadadBiraByu-
+<>kzati” Sata0 brA0 2, 1, 1, 3, .
+<HI>ava + tiryyakpARinA secane “daDnA maDumiSreRAvokzati”
+<>tEtti0 . “udDatamavokzitaM Bavati yatrEnamupAva-
+<>haratyudDate vA avokzite'gnimAdaDati” Sata0 brA0 6,
+<>4, 4, 18, “udDatyAvokzati yatrEnamupAvaharati” Sata0 brA0
+<>6, 8, 1, 12, . “tiraScA'vokzaRaM smftam” Candoga0 .
+<HI>A + samantAt Izad vA secane “A nogavyUtimukzataM Gftena”
+<>f0 7, 62, 5 vyavahitASceti upasargasya vyavaDAnam .
+<HI>ud + UrdDvadeSAt secane . “kiM tftIyaBetAM diSamudOkzIH”?
+<>Sata0 brA0 11, 5, 3, 4 .
+<HI>upa + sAmIpyena secane . “aDastAdupokzatyApodevIH” Sata0 brA0 3, 7, 4, 6” .
+<HI>nis + niSezeRa secane . “yatsrucyapa AnIya nirOkzizam”
+<>Sata0 brA0 11, 5, 3, 7 .
+<HI>pari + vezwanAkAreRa samantAt secane “prasavyamudakErAtmAnaM paryyu-
+<>kzante” ASva0 6, 12, “prasavyaM vAmAvarttanena vezwayitye-
+<>tyarTaH nA0 vf0 . “AhavanIyaM paryyukzyodaDArAM ninayatyA
+<>gArhapatyAt” kAtyA0 4, 13, 16, “paryyukzya hastagfhItenoda-
+<>kena samantAt siktvA” karkaH . “paryyukzitaM samidasi” kAtyA0
+<>4, 14, 30 .
+<HI>pra + uttAnahastena secane “uttAnEnEva hastena prokzaRa parikI-
+[Page1054-a+ 38]
+<>rttitama” Cando0 uktestaTArTatA “apiDAnaM prokzitAByAm”
+<>kAtyA0 9, 10, 4, . “taM yajYaM varhizi prOkzan puruzaM
+<>jAtamagrataH” f0 10, 90, 7, “prokzitAH sTa agnaye tvA
+<>juzwaM prokzAmi . agnIzomAByAM tvA juzwaM prokzAmi” yaju0
+<>1, 13, “kfzRo'syAKarezWo agnaye tvA juzwaM prokzAmi . vedi-
+<>rasi barhize tvAjuzwAM prokzAmi . barhirasi srugByastvA juzwaM
+<>prokzAmi” yaju0 2, 1, “rakzohaRo vo balagahanaH pro-
+<>kzAmi vEzRavAn” yaju0 5, 25, “saMskAraH puMsa evezwaH”
+<>prokzaRAByukzaRAdiBiH” kusumA0 “ityakteH puruzasaMskAra
+<>iti nEyAyikAH . mImAMsakamate dravyasaMskAraH iti BedaH
+<>aByukzaRaSabde vivftiH . “prokzitaM BakzayenmAsam” manuH .
+<HI>sam + pra + samyak prokzaRe . “prARAnAyamya saMprokzettf-
+<>cenAbdEvatena tu” yA0 smftiH .
+<HI>vi + viSezeRa secane “jrayo vi roruvajjaWare viSvamukzate”
+<>f0 10, 92, 5 . “vyavahitASceti” pA0 upasargavyavaDAnam .
+<>“keSamiSreva hAsa tAM vyOkzadozaM Dayeti” Sata0 brA0
+<>2, 2, 4, 5 .
+<HI>aBi + vi + ABimuKyena viSezeRa secane . “tattasmAdu taTEva
+<>saMsfjyAm yaTAgniM nAMBivyukzet” Sata0 brA0 1, 3, 1, 10
+<HI>sam + samyak secane . “samukzitaM sutaM somam” f0 3,
+<>60, 5 . “idaM te annaM yujyaM samukzitam” f0
+<>8, 4, 12
+;----------------------------------------------------------------------
+;
+;; Case 06: k1=ukza, L=8599 in vcp
+ukza¦ tri0 ukza--ac . 1 sektari “supratizWA manovfhadukzAya naH”
+<>yaju0 7, 84, karmaRi GaY . 2 sikte “ukzAn pracakruH” BawwiH
+;----------------------------------------------------------------------
+;
+;; Case 07: k1=udJa not in vcp
+?
+;; Case 08: k1=umBa not in vcp
+?
+;; Case 09: k1=fkza, L=10371 in vcp
+fkza¦ pu0 strI fza--sa kicca . 1 BallUke tajjAtistriyAM
+<>saMyogopaDatvAt na NIp kintu wAp . 2 nakzatre .
+[Page1400-a+ 38]
+<>3 mezAdirASO ca na0 4 Ballake vfkze (BelA) 5 SonA-
+<>kavfkza (SonA) 6 parvvataBede ca pu0 medi0 . sa ca rEvatApa-
+<>ranAmakaH “fkzo'pi revatAjjajYe tasya parvvatamUrdDani .
+<>tatorEvata utpannaH parvataH sAgarAntike . nAmnA rEva-
+<>taka nAma mUmO BUmiDaraHsmftaH” harivaM0 32 a0 . sa ca
+<>kulAcalaparvvataH yaToktaM si0 Si0 . “mAhendraSuktimala-
+<>yakzakapAriyAtrA sahyaH savinDya iha sapta kulAcalA-
+<>KyAH” iti . 7 nfpaBedayoH tatrEkaH “AjamIQaputraH .
+<>“DuminyA sa tayA devyA tvajamIQaH samIyivAn . fkzaM
+<>saMjanayAmAsa DUmravaRRa sudarSanam . fkzAt saMvaraRo
+<>jajYe kuruH saMvaraRAttaTA” aparo vidUraTasya putraH “vi-
+<>dUraTasya dAyAda fkza eva mahAraTaH . fkzasya ca dvitI-
+<>yasya BImaseno'BavannfpaH” iti hari0 32 a0 . BallUka-
+<>ScAraRyapaSuH jarAyujaSca . “jarAyujAnAM pravarAH mAnavAH
+<>paSavaSca ye . nAnArUpaDarA rAjan! ezAM BedAScaturddaSa .
+<>araRyavAsinaH sapta saptEzAM grAmavAsinaH . siMhavyAGrA
+<>varAhASca mahizA vAraRAstaTA . fkzASca vAnarAScEva
+<>saptAraRyAH smftA nfpa .” BA0 A0 tatra pravarA iti
+<>viSezaRAt etadBinnAnAmAraRyatvamastyeva tenozwrasyApyAra-
+<>RyatvaM suSrute uktam tacca uzwraSabde uktam . 8 arihaputre
+<>ca “arihaH KalvANgeyImupayeme sudevAM nAma tasyAM putramajI-
+<>janadfkzam” BA0 A0 95 a0 . 9 uttara diSi strI niru0
+<>yadyapi nakzatrasya sAmAnyato gaganasTitatArAmAtravA-
+<>cakatA taTApi jyotize yazAmudayAstajYApanaM tezA-
+<>meva fkzaSabdena vyavahAraH tAni ca saptaviMSatiH . aBi-
+<>jiccetyazwAviMSatiH . “aSvinI BaraRI cEva kfttikA
+<>rohiRI taTA . mfgaSIrzastaTA cAdrI punarvasuka-
+<>puzyako . aSlezA ca maGA pUrvaPalgunyuttaraPalgunI .
+<>hastA citrA taTA svAtI viSAKA cAnurADikA . jyezWA
+<>mUlaM taTAzAQe pUrvottarapadAdike . SravaRA ca DanizwA ca
+<>SataBizagAdyaBAdrikA . uttarAdiBAdrapadA revatI BAni ca
+<>kramAt” jyoti0 aBijittu aBijicCabde uktam . etAni
+<>dvAdaSaDAviBaktarASicakraGawakatvAt prADAnyAcca fkzaSabdena
+<>vyapadiSyante etezAM svarUpapramARADizWAtfdevatAH aSlezA-
+<>Sabde 497 pf0 SrIpativAkyenoktAH anyAnyapi yAni
+<>udayAstaBAYji gaganamaRqale santi tezAmapi gati rjyo-
+<>tize AnItA tAnyapi fkzapadavAcyAni . fkzakakzA-
+<>pramARamuktaM si0 Si0 . “aBrezviBANkagajakuYjarago'-
+[Page1400-b+ 38]
+<>kzapakzAH (259889850 yojanAni) kakzAM gfRanti ga-
+<>RakA BagaRasya cEtAm” . nakzatrakakzAyA mUmaDyAducCritimA
+<>nam “nAgAkzazaqyugarasAgnikuvedasaMKyo (41362658
+<>yojanamitaH) nakzatramaRqalaBavaH SravaRoniruktaH” jyo0
+<>uktam . “tezAmanyezAYcodayAdijYAnAya” si0 Si0 .
+<>DruvakaBAgA uktA yaTA “azwO naKA gajaguRAH KaSarAstri-
+<>zawakAH saptartavastrinava cANgadiSo'zwakAzWAH . go'rkA-
+<>staTAdrimanavaH SarabARacandrAH KAtyazwayastriDftayo nava-
+<>nandacandrAH . arkASvino jinayamA nava bAhudasrAH
+<>kvabDyaSvino jalaDitattvamitASca BAgAH . zazwyaSvinaSca
+<>pavanotkftayo'zwaBAni KANkASvino naKaguRA rasadanta-
+<>saMKyAH . saptAmarAH Kamiti BaDruvakA niruktA dfkkarmaRAya-
+<>naBavena sahASviDizRyAt . brahmAgniBaDruvalavA radali-
+<>ptikonA mEtrEndrayordvyaDipaBasya ca sezuliptAH” Si0
+<>“azwO naKA ityAdayo'SvityAdInAM sABijitAM DruvaBAgA
+<>veditavyAH . tatrApi viSezamAha . brahmAgniBaDruva-
+<>lavA ityAdi . kfttikArohiRInakzatrayordvAtriMSatkalo-
+<>nAH . viSAKAnurADAjyezWAnAM kalApaYcakenADikA
+<>DruvakaBAgA veditavyAH” prami0 . ezAM SarAnAha
+<>“diSo'rkASca sArDAbDayaH sArDavedA daSeSA rasAH
+<>KaM svarAH KaM ca sUryyAH . tricandrAH kucandrAH
+<>vipAdO ca dasrO turaNgAgnayaH satriBAgaM ca rUpam . vi-
+<>pAdaM dvayaM sArDarAmASca sArDA gajAH satriBAgezavo mArga-
+<>RASca . dvizazwiH KarAmASca zaqvargasaMKyAstriBAgo jinA
+<>utkftiH KaM ca BAnAm . niruktAH sPuwAH yoga-
+<>ta rASarAMSAstrayaM brahmaDizRyAdviSAKAdizawkam . karo
+<>vAruRaM tvAzwraBaM sArpamezAM SarA dakziRA uttarAH Seza-
+<>BAnAm” si0 Si0 . “diSo'rkA ityAdayastezAM BAnAM Sa-
+<>rAMSA jYeyAH . SezaM spazwArTam . atropapattiH . tatra Bave-
+<>DArTaM golabanDoktaviDinA vipulaM golayantraM kAryyam .
+<>tatra KagolasyAntarBagola ADAravfttadvayasyopari vizuvadvf-
+<>ttam . tatra ca yaToktaM krAntivfttaM BagaRAMSA 360 NkitaM
+<>ca kAryyam . tatastadgolayantraM samyagDruvABimuKayazwikaM
+<>jalasamakzitijavalayaM yaTA Bavati taTA sTiraM kftvA rAtrO
+<>golamaDyagacihnagatayA dfzwyA revatItArAM vilokya krAnti-
+<>vftte yo mInAntastaM revatItArAyAM niveSya maDyagatayEva
+<>dfzwyASvinyAdernakzatrasya yogatArAM vilokya tasyopari-
+<>yeDavalayaM niveSyam . evaM kfte sati veDavalayasya krAnti-
+[Page1401-a+ 38]
+<>vfttasya ca yaH saMpAtaH monAntAdagratoyAvadBiraMSEstAvanta
+<>stasya DizRyasya DruvAMSA jYeyAH . aTa veDavalaye ta-
+<>syEva sapAtasya yogatArAyASca yAvanto'ntare'MSAstAvantastasya
+<>SarAMSA uttarA dakziRA vA veditavyAH . aTa ye Druva-
+<>BAgAH paWitAste kftadfkkarmakA eva . ye tu SarAMSAH paWi-
+<>tAste sPuwA eva . yato DruvadvayakIlayoH protaM veDavalayam .
+<>tasmin veDavalaye yo jYAtaH SaraH sa DruvABimuKaH . DruvA-
+<>BimuKaH SaraH sa sPuwaH . asPuwastu kadambABimuKaH . ata
+<>eva pUrvaM BagaRotpattikaTane grahaveDavalayaM kadambakI-
+<>layoH protaM karttavyamityuktam . ata eva kAraRAt
+<>kftadfkkarmakA eva BaGruvAH . yato DruvAdgrahopari nIya-
+<>mAnaM sUtraM yatra krAntivftte lagati tatra kftAyanadfkkarmako
+<>graha iti dfkkarmavAsanAyAM pUrvaM kaTitameva . aTAgastya
+<>lubDakayorAha” prami0 . “agastyaDruvaH saptanAgAstu
+<>BAgAsturaNgAdayastasya yAmyAH SarAMSAH . zaqazwO lavA
+<>lubDakasya Druvo'yaM naBo'mBoDiBAgAH Sarastasya yAmyaH”
+<>si0 Si0 . spazwam “asyopapattiH pUrvavat . aTezwa-
+<>GawikA Aha” prami0 . “agastyasya nAqIdvayaM prokta-
+<>mizwaM sazadBAganAqIdvayaM lubDakasya . triBAgADikaM
+<>sTUlaBAnAmaRUnAM tataScADikaM tAratamyena kalpyam”
+<>si0 Si0 spazwArTam . “atropapattiH agastyasya nAqIdvayaM
+<>yadizwaM tat tasya dvAdaSa kAlAMSA utpadyante . sazaqBAga-
+<>nAqIdvayaM lubDakasyeti . tatra trayIdaSa 13 kAlAMSAH triBA-
+<>gADikaM sTUlamAnAmiti . yAni sTUlAni nakzatrARi tezAM
+<>caturdaSa kAlAMSAH . aRUnAM tataScADikamiti kezAYcit paYca-
+<>dvaSa kezAYcit zoqaSeti kalpyate . atra grahARAM BAnAM
+<>vA ye kAlAMSAste sTUla sUkzmatvatAratamyaparyyAlocanayA .
+<>yAH sTUlAstArAstA arkodayAdalpena kAlenAntaritA dfSyA
+<>Bavanti . yAH sUkzmAstA aDikenetyupapannam” prami0
+<P>sU0 si0 raNganATAByAntu tadudayajYAnArTamanyaprakAra ukto
+<>yaTA “procyante liptikA BAnAM svaBego'Ta daSAhata .
+<>BavantyatItaDizRyAnAM Bogalipta yutA DruvAH” sU0 si0 .
+<>“BAnAmaSvinyAdinakzatrARAmuttarAzAQABijicCravaRaDani-
+<>zWAvarjitAnAM liptikA yogasaYjYAH kalAH procyante sa-
+<>manantarameva kaTyante . aTAnantaraM svaBogaH svABIzwa-
+<>nakzatraBIgaH kalAtmako vakzyamARo raSaBirguRitaH kAryaH .
+<>tatra svABIzwanakzatragatanakzatrARAmaSvinyAdInAM BogaliptAH .
+<>“BaBogo'zwaSatI liptAH” ityuktAzwaSatakalAH . pratyekaM
+[Page1401-b+ 38]
+<>yutAH . aSvinyAdyatItanakzatrasaNKyAguRitakalAzwaSata
+<>yutamityarTaH . DravA nakzatrARAM Bavanti” . raNga0 . aTa
+<>pratijYAtA nakzatraBogaliptA uttarAzAQABicCravaRaDanizWA-
+<>vyatiriktAnAM tezAM DruvakAnnakzatraSarAMScAzwaSlokErAha .
+<>“azwArRavAH SUnyakftAH paYcazazwirnagezavaH . azwArTA
+<>abDayo'zwAgA aNgAgA manavastaTA . kftezavo yugarasAH
+<>SUnyavARA viyadrasAH . KavedAH sAgaranagA gajAgAH
+<>sAgarartavaH . manavo'Ta rasA vedA vESvama pyArDaBogagam .
+<>ApyasyEvABijitprAnte vESvAnte SravaRasTitiH . trica-
+<>tuHpAdayoH sanDO SravizWA SravaRasya tu . svaBogato viya-
+<>nnAgAH zawkftiryamalASvinaH . ranDrAdaya kramAddeyA vikzepAH
+<>svAdapakramAt . diNmAsavizayAH sOmye yAmye paYca
+<>diSo nava . sOmye rasAH KaM yAmye gAH sOmye KArkA-
+<>strayodaSa . dakziRe rudrayamalAH saptatriMSadaTottare .
+<>yAmye'DyarDatrikakftA navasArDaSarezavaH . uttarasyAM taTA
+<>zazwistriMSat zawtriMSadeva hi . dakziRe tvarDaBAgastu
+<>caturviMSatiruttare . BAgAH zaqviMSatiH KaM ca dasrAdInAM
+<>yaTAkramam” sU0 “aSvinyAdinakzatrARAM kramAdBogA ete .
+<>tatrASvinyA azwacatvAriMSat kalAH . BaraRyAScatvAriMSat
+<>kfttikAyAH kalAH paYcazazwiH . rohiRyAH saptapaYcASat
+<>kalAH . mfgaSiraso'zwapaYcASat . ArdrAyAScatvAraH .
+<>atrAbDaya ityatra go'bDayo go'gnaya iti vA pAWastva-
+<>yuktaH . SAkalyasaMhitAviroDAt . etena “sOroktarudra-
+<>BasyAMSAstryadrayo'gAbDayaH kalAH” iti nArmadoktam
+<>“daSakalonapaYcadaSaBAgA miTune” sarvajanABimataDruvako da-
+<>SakalAyutatrayodaSaBAgAH parvatABimataDruvakaSca nirastaH .
+<>punarvasorazwasaptatiH . pupyasya zawsaptatiH . aSlezAyA-
+<>ScaturdaSa . taTeti CandaHpUraRArTam . maGAyAScatuHpaYcA-
+<>Sat . pUrbbaPAlgu yAScatu zazwiH . uttaraPAlgunyAH
+<>paYcASat . hastasya zazwiH . citrAyAScatvAriMSat .
+<>svAtyAScatuHsaptatiH . viSAKAyA azwasaptatiH . anurA-
+<>DAyAScatuHzazwiH . jyezWAyAScaturdaSa . anantaraM mUlasya
+<>zaw . pUrvAzAQAyAScatvAraH . uttarAzAQAyA Druvaka-
+<>mAha . vESvamiti . uttarAzAQAyogatArAnakzatram .
+<>ApyArDaBogagam . Apyasya pUrvAzAQAnakzatrasyArDaBogaH .
+<>DanUrAMServiMSatiBAgastatra sTitaM jYeyam . azwO rASayo
+<>viMSatiBAgA uttarAzAQAyA Druva ityarTaH . etena
+<>pUrvAzAQAyogatArAyAH sakASAduttarAzAQAyogatArA
+[Page1402-a+ 38]
+<>viMSatikalonasaptaBAgAntaritA . tena pUrvAzAQAGruvako-
+<>'zwarASayaScaturdaSa BAgA viMSatikalonasaptaBAgEryuta utta-
+<>rAzAQAyA DruvaScatvAriMSatkAlADikoktaDra va iti parva-
+<>toktamapAstam brahmasidDAntaviroDAt . aBijidDruva-
+<>kamAha . Apyasyeti . pUrvAzAQAyA avasAne DanUrASe-
+<>rviMSatikalonasaptaviMSatiBAge'BijidyogatArA jYeyA .
+<>catvAriMSatkalADikazaqviMSatiBAgADikA azwO rASayo-
+<>'Bijito Druva ityarTaH . evakAro'nyayogavyavacCedArTaH .
+<>tena saMhitAsammataM SravaRapaYcadaSAMSasTAnaM viMSativikalA-
+<>yutatrayodaSakalAyutacaturdaSaBAgAdikanavarASayo nirastam .
+<>SravaRasya DruvakamAha . vESvAnta iti . uttarAzAQAyA
+<>avasAne SravaRayogatArAyAH sTAnaM jYeyam . nava rASayo
+<>daSa BAgAH SravaRaDruvaka ityarTaH . DanizWAyA DravakamAha .
+<>tricatuHpAdayoriti . SravaRasya tftIyacaturTacaraRayoH
+<>krameRantAdisanDO makararAServiMSatiBAge SravizWA DanizWA
+<>jYeyA . nava rASayo viMSatiBAgA DanizWADruva ityarTaH .
+<>tukArAt kzetrAntargataDanizWAsTAnaM kumBasya viMSatikalo-
+<>nasaptaBAgA nirastam . SatatArAyA BogamAha . svaBo-
+<>gata iti . DanizWABogAt kumBasya viMSatikalonasapta-
+<>BAgAvaDerityarTaH . SatatArAyA aSItirBogaH . ataH
+<>prAmbadDruvA iti jYApanArTaM svaBogata ityuktam . Sata-
+<>tArayAH sTAnaM SatatArakADruva iti paryavasannam . ava-
+<>SizwanakzatrARAM BogAnAha . zawkftiriti . pUrbbaBAdra
+<>padAyAH zawtriMSat kalA BogaH . uttaraBAdrapadAyA
+<>dbAviMSatiH . revatyA ekonASItiH . aTa DruvakAnayanaM
+<>yaTA . aSvinyA BogaH . 48 . daSaguRitaH 480 .
+<>atItanakzatrABAvAdBogayojanABAvaH . ato'SvinyAH
+<>kalAtmako DruvaH . 480 . rASyAdyastu . 08 . BaraRyA
+<>BogaH . 40 . daSAhataH . 400 . atItanakzatrasyEka-
+<>tvAdazwaSatayuto BaraRyAH pariBAzayA rASyAdyo DruvaH .
+<>0 . 20 . evamArdrABogaH . 4 daSAhataH 40 . atIta-
+<>nakzatrARAM paYcatayA paYcaguRitAzwaSatena 4000 catuH-
+<>sahasrAtmakena yutaH kalAdyo DruvaH 4040 rASyAdyastu 2 .
+<>7 . 20 . evaM pUrvAzAQAyA daSaguRito BogaH . 40 .
+<>ekonaviMSatiguRitAzwaSatena . 15200 yutaH pari-
+<>BAzayA rASyAdyo DruvaH . 8 . 14 . SatatArAyA daSa-
+<>guRito BogaH . 800 . trayoviMSatiguRitAzwaSatena .
+<>18400 . yutaScaturviMSatiguRitAzwaSatarUpo . 19200 .
+[Page1402-b+ 38]
+<>jAto Druvo rASyAdyaH . 10 . 20 . pUrvABAdrapadAyA-
+<>daSaguRito BogaH 360 . caturviMSatiguRitAzwa-
+<>Satena . 19200 yutaH . 19560 jAto
+<>Druvo rASyAdyaH . 10 . 26 . uttarAzAQABiji-
+<>cCravaRaDanizWAnAM svaBogasTAnAt paScAt sTitatvenokta-
+<>rItyasamBavAdBinnarotyA DruvakA uktAH svAdisTAnAdyoga-
+<>tArA yadantarakalABiH sTitAstA lAGavAddaSApavarttitA
+<>BogasaYjYA uktAH . taTA ca brahmasidDAnte . “azwO
+<>viMSatirarDena gajAgnirvyarDaKezavaH . tritarkAH satriBAgA-
+<>drirasAstryaNkASca zawSatam . navASA navasUryyASca vedendrAH
+<>SaravARaBUH . KAtyazwiH svaDftirgo'tiDftirviSvASvina-
+<>staTA . vedAkftirgo'drihastAH kvabDihastA yugArTadfk .
+<>KotkftistryaMSahInASca rasahastAH Kahastidfk . Kago-
+<>'SvinaH KadantAH zaqdantAH SElaguRAgnayaH . mezAdyaSvyA-
+<>dimaDyAMSAH zaqaMSonAH KazaqpuRAH” iti . aTa nakza-
+<>trARAM vikzepaBAgAnAha . ezAmiti . uktaDruvaka-
+<>sambanDinAmaSvinyAdinakzatrARAM yaTAkramaM kramAdityarTaH .
+<>svAt svakIyApakramAt krAntyagrAt krAntivfttasTaDruvaka-
+<>sTAnAdityarTaH . vikzepA vikzepaBAgA dakziRA uttarA vA
+<>Bavanti . tatrottaradiSyaSvinyAditrayARAM diNmAsa-
+<>vizayAH krameRa daSa dvAdaSa paYcetyarTaH . dakziRadiSi
+<>rohiRyAditrayARAM paYca daSa nava . uttarasyAM punarvasoH
+<>zadBAgAH . puzyasya KaM vikzepABAvaH . atra paYcamAkza-
+<>rasya gurutvena CandoBaNga ArzatvAnna dozaH . dakziRasyA-
+<>maSlezAyAH sapta . uttarasyAM maGAditrayARAM SUnyaM
+<>dvAdaSa trayodaSa . dakziRasyAM hastacitrayorekAdaSa dvO .
+<>anantaraM svAtyA uttaradiSi saptatriMSat . dakziRasyAM
+<>viSAKAdInAM zaRRAM sArDEkaM trayaM catvAraH nava sArDapaYca
+<>paYca krameRa uttaradiSi taTA vikzepaBAgAH . aBiMjitaH
+<>zazwiH . SravaRasya triMSat . DanizWAyAH zawtriMSat .
+<>evakAro nyUnADikavyavacCedArTaH . cakAraH pUraRArTaH .
+<>dakziRasyAM tukArastaTA . arDaBAgaH SatatArAyAH . tukA-
+<>rastaTA . uttarasyAM pUrbbaBAdrapadAyAScaturviMSatiH . tasyA-
+<>meva diSi BAgA vikzepaBAgA uttaraBAdrapadAyAH zaq-
+<>viMSatiH . revatyA vikzepABAvaH . cakAraH pUraRArTaH .
+<>aTAgastyalubDakavahnibrahmahfdayatArARAM DruvakavikzepAMstadupa-
+<>pattiM SlokatrayeRAha” raNga0 . “aSItiBAgEryAmyAyAmagastyo
+<>miTunAntagaH . viMSe ca miTunasyAMSe mfgavyADo vyava-
+[Page1403-a+ 38]
+<>sTitaH . vikzepo dakziRe BAgEH svArRavEH svAdapakramAt .
+<>hutaBugbrahmahfdayo vfze dvAviMSaBAgago . azwABistriMSatA
+<>cEva vikziptA uttareRa tO . golaM baDvA parIkzeta vikzepaM
+<>DravakaM sPuwam sU0 “svakIyAt krAntiviBAgasTAnAddakzi-
+<>RasyAmaSItyaMSEstArAtmako'gastyo miTunAntagaH karkAdiBAge
+<>sTitaH . agastyanakzatrasya rASitrayaM DruvakaH . dakziRa-
+<>vikzepo'SItirityarTaH . mfgavyADo lubDako miTunarASeH
+<>viMSatiBAge sTitaH . cakAraH samuccaye . lubDakanakzatrasya
+<>rASidvayaM viMSatiBAgA Druvaka ityarTaH . dakziRasyAM
+<>catvAriMSatA BAgEH parimitastasya ca krAntivfttasTAnA-
+<>dvikzepaH . vfzarASO vahnibrahmahfdayO dvAviMSaBAgasTitO
+<>bahnibrakzahfdayanakzatrayordvAviMSatiBAgADikEkarASirDruvakaH .
+<>tO vahnibrahmahfdayO . azwABistriMSatA . cakAraH kra-
+<>mArTe . evakAro nyUnADikavyavacCedArTaH . uttareRo-
+<>ttarasyAmityarTaH . vikziptO vikzepavantO . vahnervikzepo-
+<>'zwaBAgaH uttaraH . brahmahfdayasyottare vikzepastriMSadi-
+<>tyarTaH . nanvete DruvA vikzepASca kAlakrameRa niyatA
+<>aniyatA vetyata Aha . golamiti . golaM bakzya-
+<>mARaM baDvA vaMSaSalAkAdiBirnibaDya sPuwaM vikzepaM krA-
+<>ntisaMskArayogyaM DruvABimuKaM DruvakaM sPuwamAyanadfkkarma-
+<>saMskftaM parIkzeta . svasvakAle dfggocarasidDamaNgIkuruta .
+<>taTA ca krAntimaMskArayogyavikzepAyanasaMskftaDruvakayorayanAM-
+<>SavaSAdasTiratvAdapi mayedAnIntanasamayAnuroDena lAGa-
+<>vArTamAyanadfkkarmasaMskftA DruvAH krAntisaMskArayogyavikze-
+<>pASca niyatA uktAH . kAlAntare golayantreRa veDasidDA
+<>jYeyAH . nEta iti BAvaH . golayantreRa veDastu gola-
+<>banDoktaviDinA golayantra kAryyam . tatra Kagolasyopari
+<>Bagolam, ADAravfttasyopari vizuvadvfttam . tatra yaTo-
+<>ktaM krAntivfttaM BagaRAMSANkitaM ca baDvA DruvayazwikIlayoH
+<>protamamyaccalaM BaveDavalayam . tacca BagaRAMSANkitaM kA-
+<>ryyam . tatastadgolayantraM samyagDru vABimuKayazwikaM jala-
+<>samakzitijavalayaM ca yaTA Bavati taTA sTiraM kftvA
+<>rAtrO golamaDyacCidragatayA dfzwyA revatItArAM vilokya
+<>krAntivftte mInAntAddaSakalAntaritapaScAdBAgaM revatItArA-
+<>yAM niveSya maDyagatayEva dfzwyASvinyAdernakzatrasya yogatArAM
+<>vilokya tasyA upari tadveDavalayaM niveSyam . evaM kfte
+<>sati veDavalayasya krAntivfttasya ca yaH sampAtaH sa mInA-
+<>ntAdagrato yAvadBiraMSEstAvantastasya nakzatrasya DruvAMSA
+[Page1403-b+ 38]
+<>jYeyAH . veDavalaye tasyEva sampAtasya yogatArAyASca yAza-
+<>nto'ntareM'SAstAvantastasya vikzepAMSA dakziRA uttarA vA
+<>vedyAH . aTa kadambaprotaveDavalayena veDe tu sadA sTirA
+<>DruvakA AyanadfkkarmasaMskftAH parantu kadambatArayoraBAvAda-
+<>Sakyamiti yaToktaveDenEvAyanadfkkamasaMskftA DruvAH SarASca
+<>DruvABimuKAH sPuwAH sidDA BavantIti dik . aTa rohi-
+<>RISakawaBedamAha” raNga0 . “vfze saptadaSe BAge yasya yAmyoM'-
+<>SakadvayAt . vikzepo'ByaDiko BindyAdrAhiRyAH SakawaM
+<>tu saH” sU0 . “vfzarASO saptadaSe'MSe yasya grahasya BAgadvayA-
+<>daDiko vikzepo dakziRaH sa graho rohiRyAH SakawaM Saka-
+<>wAkArasanniveSaM BindyAt . tanmaDyagato BavedityarTaH .
+<>tukArAdgrahavikzepo rohiRIvikzepAdalpa iti viSezA-
+<>rTakaH . vikzepasya dakziRasya rohiRIvikzepAdaDikatve
+<>SakawadbahirdakziRaBAge grahasya sTitatvena tadBa dakatvABA-
+<>vAt . atra SakawAgrimanakzatrasya Druva ekarASiH sapta-
+<>daSAMSAH dakziRaH Saro BAgadvayamiti veDasidDA spazwA
+<>yuktiH . aTa grahayogasADanArTaM grahayogasADanarItyatideSa-
+<>mAha” raNga0 . “grahavaddyuniSe BAnAM kuryyAddfkkarma pUrvavat .
+<>grahamelakavacCezaM grahaBuktyA dinAni ca” sU0 . “grahavaddyu-
+<>niSe grahARAM yayA dinarAtrimAne AkzadfkkarmArTaM kfte
+<>taTA dinamAnarAtrimAne BAnAM nakzatraDruvakARAmAkzadfkka-
+<>rmArTaM gaRakaH kuryAt . tadanantaraM pUrvavannakzatranityodayA-
+<>stO sADayitvABIzwakAle dinagataSezAByAM nataM kftvA vizu-
+<>vacCAyayAByastAdityAdinetyarTaH . dfkkarma kuryAt . atra
+<>nakzatraDruvake parvatenAyanadfkkarmApyudAharaRe kftaM tadayuktam .
+<>tasya Druvake svataH sidDatvAt . tadanantaraM SezaM nakzatra-
+<>grahayutisADanaM grahaDruvatulyatArUpaM grahamelakavadgrahayo-
+<>gasADanarItyA grahAntarakalA ityAdinA kAryyam . nanu
+<>tatra grahAntarakalAH svasvaBuktiliptAsamAhatAH . BuktyantareRa
+<>viBajedityukte rnakzatrasya kA gatirgrAhyetyata Aha . grahaBu-
+<>ktyeti . kevalayA grahagatyA grahasya PalaM grahaDruvAntara-
+<>rUpagrahe saMskAryaM Druvasamo graho Bavati . nakzatrasya pUrva-
+<>gatyaBAvAdDruvo yaTAsTita ityarTaH . nanu taTApi grahana-
+<>kzatrayutikAlasADanaM BuktyantarAsamBavAt kaTaM kAryamiti ma-
+<>ndASaNketyataAha . dinAnIti . aBIzwasamayAdvivaramityA-
+<>dinA kevalayA grahagatyA grahanakzatrayutidinAni sADyAni .
+<>caH samuccaye . nakzatrARAM gatyaBAvAt . aTABIzwakAlAdgra-
+<>hanakzatrayutikAlasya gatEzyatvamasamBramArTaM punarAha” raNga0 .
+[Page1404-a+ 38]
+<>“ezyo hIne grahe yogo GruvakAdaDike gataH . viparyya-
+<>yAdvakragate grahe jYeyaH samAgamaH” sU0 . “nakzatraGruvAduktAd-
+<>graha AyanadfkkarmasaMskftagraha AkzadfkkarmasaMskftanakzatra-
+<>GruvakAt dfkkarmadvayasaMskftograha iti vivekArTaH . nyUne
+<>sati yogo nakzatragrahayogaH svABIzwasamayAdBAvI . aDike
+<>sati pUrbaM jAtaH . vakragate gra he viparyayAduktavEparItyAt
+<>samAgamo nakzatragrahayogo jYeyaH . hIne grahe gato'Dike
+<>graha ezyo yogaH . atropapattirnakzatrasya gatyaBAvena sadA
+<>sTiratvAdgrahagamanenEva yogasamBavAditi sugamatarA . a-
+<>TASvinyAdinakzatrasya bahutArAtmakatvAt kasyAstArAyA
+<>ete DruvakA ityasya yogatArAyA DruvakatvamityuttaraM manasi
+<>DftvASvinyAdinakzatrARAM yogatArAM vivakzuH praTamamezAM
+<>nakzatrARAM yogatArAmAha” raNga0 .
+<>“PAlgunyorBAdra padayostaTEvAzAQayordvayoH . viSAKASvini-
+<>sOmyAnAM yogarArottarA smftA” sU0 . “ezAmuktanakzatrARAM
+<>pratyekaM svatArAsu yottaradikasTA tArA sA yogatArA
+<>golatattvajYEruktA . aTAnyayoranayorAha” raNga0 . “paSci-
+<>mottaratArAyA dvitIyA paScime sTitA . hastasya yoga-
+<>tArA sA SravizWAyASca paScimA” sU0 .
+<P>“hastanakzatraM paYcatArAtmakaM hastapaYcANgulisanniveSA-
+<>kAram . tatra nErftyadigASritapaScimAvasTitatArAyA u-
+<>ttaradigavasTitatArAyA dvitIyA pUrvoktAtiriktA paScime
+<>vAyavyASrite yA sTitA sA hastasya yogatArA jYeyA .
+<>uttaratArAsannA paScimASritA tArA hastasya yogatAreti
+<>PalitArTaH . DanizWAyA yogatArAmAha . SravizWAyA
+<>iti . DanizWAyAstArAsu yA paScimadiksTA sA tasyA
+<>yogatArA . caH samuccaye . aTAnya zAmezAmAha” raNga0 .
+<>“jyezWASravaRamEtrARAM vArhaspatyasya maDyamA . BaraRyAgne-
+<>yapitryARAM revatyAScEva dakziRA” sU0 .
+<>“jyezWASravaRAnurADAnAM puzyasya ca pratyekaM tArAtrayAtma-
+<>katvAnmaDyamatArA yogatArA syAt . BaraRIkfttikAmaGA-
+<>nAM revatyAH . caH samuccaye . pratyekaM svatArAsu yA dakziRa-
+<>diksTA sA yogatArA . aTAnyezAmavaSizwAnAM cAha .”
+<>raNga0 “rohiRyAdityamUlAnAM prAcI sArpasya cEva hi .
+<>taTA pratyavaSezARAM sTUlA syAdyogatArakA” sU0 “rohiRI-
+<>punarvasumUlAnAmaSlezAyASca pratyekaM svatArAsu yA pUrvadiksTA
+<>sEva yogatAretyevahyorarTaH . pratyakyevARAmavaSizwanakzatrA-
+<>RAmArdrAcitrAsvAtyaBijicCatatArARAM svatArAsu yAtyantaM
+[Page1404-b+ 38]
+<>sTUla . mahatI sA yogatArA syAt . aTa brahmasa jYakanakza-
+<>trAvasTAnamAha raNga0 . “pUrvasyAM brahmahfdayAdaMSakEH paYcaBiH
+<>sTitaH . prajApatirvfzAnte'sO sOmye'zwatriMSadaMSakEH” sU0
+<>“brahmahfdayasTAnAt pUrvaBAge paYcaBiraMSEH prajApatistArA-
+<>tmako brahmA krAntivftte sTitaH . kutretyata Aha . vfzA-
+<>nta iti . vfzAntanikawe . ekarASiH saptaviMSatyaMSA
+<>brahmaDruvaka ityarTaH . asya vikzepamAha . asAviti .
+<>brahmA uttarasyAmazwatriMSadBAgEH sTitaH . azwatriMSa-
+<>dBAgA asya vikzepa ityarTaH . aTApAMvatsApayostArayorava-
+<>sTAnamAha” ra0 . “apAMvatsastu citrAyAmuttare'MSEstu paYca-
+<>BiH . vfhat kiYcidato BAgErApaH zaqBistaTottare” sU0
+<>“citrAyAH sakASAdapAMvatsasaMjYakastArAtmakaH paYcaBirBAgE-
+<>ruttarasyAM sTitaH . praTamatukAraScitrADruvatulyaDruvakArTakaH .
+<>dvitIyatukAraScitrAvikzepasya dakziRaBAgadvayAtmakatvAdapAM-
+<>vatsavikzeva uttarastriBAga iti sPuwArTakaH . ato'pAMvat-
+<>sAt kiYcidalpAntareRa vfhat sTUlastArAtmaka ApasaMjYakaH
+<>taTA'pAMvatsAt zaqBiraMSEruttarasyAM sTitaScitrADruvaka e-
+<>vApasya Druvako vikzepa uttare navAMSA ityarTaH” raNga0 .
+<P>nakzatrARAmudayAstakAlanirUpaRam udayaSabde 1138
+<>pfzWAdO darSitam .
+<P>FkzaGawitatvAt rASInAM taTAtvam . rASinAma
+<>Bavet nAma BamfkzaM gfhanAma ca” jyo0 . rASayaSca dvAdaSa
+<>“punardvAdaSaDAtmAnaM vyaBajadrASisaMjYakam . nakzatrarU-
+<>piRaM BUyaH saptaviMSAtmakaM vaSI” sU0 si0 ukteH . te ca
+<>mezavfzamiTunakarkawasiMhAH kanyA tulATa vfScikaBam .
+<>DanuraTa makaraH kumBomIna iti ca rASayaH kaTitAH”
+<>jyoti0 uktAH rASiSca “vikalAnAM kalA zazwyA tat-
+<>zazwyA BAga ucyate . tattriMSatA BavedrASirBagaRodvAdaSEva
+<>tu” sU0 si0 uktaH 108000 vikalAtmakaH 1800 kalAtmakaH
+<>triMSatBAgAtmakaH . tErdvAdaSaBiH 360 aMSErBagaRorASi-
+<>cakraM syAt tatra saptaviMSatinakzatrAtmakarASicakre dvAdaSaDA
+<>viBakte sapAdanakzatradvayasyEva pratyekarASiGawakatA tena pratye-
+<>kanakzatrasya 800 kalAtmakatvam . “BaBogo'zwaSatI liptAH”
+<>sU0 si0 ukteH . rASiBede nakzatraBedanirUpaRamuqucakraSabde
+<>1071 pf0 dfSyam .
+<>“mAsarkzAdIna na SoDayet” “janmarkze upatApite” jyo0 .
+<>“dakziRAM diSamfkzezu vArzikezvaTa BAskaraH” raGuH
+;----------------------------------------------------------------------
+;
+;; Case 10: k1=fta, L=10441 in vcp
+fta¦ gatOjupsAyAYca sOtraH saka0 sew sArvaDAtuke IyaN Atma0
+<>ArdDaDAtuke vA IyaN IyaNaBAve para0 . ftIyate ftI-
+<>yIta ftIyatAm ArttIyata . ArttIyizwa ArttIt .
+<>ftIyAm--baBUva Asa cakre Anartta . ftIyitA-
+<>arttitA . ftIyizIzwa ftyAt . ftIyizyate artti-
+<>zyati . ArttIyizyata Arttizyat . ftIyamAnaH BAve a .
+<>ftIyA . “tasmAnnartIyeran sa yohEvaM vidvAn narttI-
+<>yate'priyaM dvizatAM karoti” Sata0 3, 4, 2, 3 . te harttI-
+<>yamAne UcatuH 3, 6, 2, 3 . yadvE senAyAM ca samitO
+<>carttIyante” 8, 6, 1, 16 .
+;----------------------------------------------------------------------
+;
+;; Case 11: k1=fta, L=10442 in vcp
+fta¦ na0 f--kta . “ftamuYCaSila jYeya” mityukte brAhma-
+<>Rasya 1 upajIvyavfttiBede 2 mokze, 3 jale, “tanma ftaM pAtu
+<>SataSAradAya” f0 7, 101, 6 . “ftamudakam” BA0 .
+<>“na gAvo nakzannftaM jaritArasta indra!” f0 7, 23, 4 .
+<>“Ftamudakam” BA0 “ftasya DArAH suduGA duhAnAH” f0
+<>7, 43, 4 “gojA ftajA adrijA ftam” f0 4, 40, 5 .
+<>4 karmaPale “ftaM pivantO sukftasya loke” SrutiH 5 supriye
+<>zAkye 6 mAnasAdisatye ca . 7 dIpte, 8 pUjite ca tri0 .
+<>9 yajYe pu0 “pItAye cArurftAya pItaye” f0 1, 1,
+<>37, 2 . “ftAya yajYAya” BA0 . “cAru ftAya
+<>pItaye 9, 17, 8 . “ftAya yajYAya” BA0 10 sUryye pu0 .
+<>“eza te yonirftAyuByAm” yaju0 7, 10 “ftAyuByAM
+<>mitrAvaruRAByAm . ftaSabdena mitraH AyuSabdena
+<>varuRaH” vedadI0 . “brahma vA ftaM brahma hi mitro brahma-
+<>hfyataM varuRa evAyuH” Sata0 brA0 4, 1, 4, 10 . 11 Aditye
+<>na0 . “ftaM satyamftaM satyam” yaju0 11, 47, “ftamA-
+<>dityaH” vedadI0 . ftamiti mantAvyayamiti tu nyAyyam
+<>“ftaYca satyaYcABIdDAt” aGamarzaRokteH 12 parabrahmaRi .
+<>“ftamakAkzaraM brahma satyaM sTAnamanantakam” smf0 13 satye
+<>ta vAkyAdO . “satIM vAcamftAM karttumarhasi tvamari-
+[Page1429-b+ 38]
+<>ndama!” BA0 ASva0 67 . “tasmAt sAkzyaM vadedftam”
+<>“sAkzyaM pfcCedftaM dvijAn” manuH . “sarvametadftaM manye yanmAM
+<>vadasi keSava!” gItA 14 tadvati ca tri0 . 15 ftadevanA-
+<>make devaBede pu0 . “ftasya hi SuruDaH santi” f0 4, 23, 8
+<>“ftasya ftadevasya” BA0 . “garBamftaspatiH” f0 6,
+<>4 8, 5 . “ftasya yajYasyodakasya vA patiH” BA0 pfzo0
+<>suqAgamaH “ftacidDi satyaH” f0 1, 145, 5 . “ftasya
+<>yajYasya jalasya vA cit cetayitA jYAtA” BA0 . 16 vahne-
+<>rfziBede “ftaSca satyaSca DruvaSca varuRaSca” yaju0 17, 82 .
+;----------------------------------------------------------------------
+;
+;; Case 12: k1=kaja, L=11359 in vcp
+kaja¦ rohe(sOtraH)idit para0 aka0 sew . kaYjati akaYjIt
+<>cakaYja roho'tra janma tenAsyAkarmmakatA . kaYjAraH .
+;----------------------------------------------------------------------
+;
+;; Case 13: k1=kaja, L=11360 in vcp
+kaja¦ na0 ke jale jAyate jana--qa . paNkaje rAjani0 .
+;----------------------------------------------------------------------
+;
+;; Case 14: k1=karjja not in vcp
+?
+;; Case 15: k1=kAsa, L=13558 in vcp
+kAsa¦ kutsita Sabde (rogahetukaSabdaBede) BvA0 Atma0 aka0
+<>sew . kAsate akAsizwa kAsAm--baBUba--Asa--cakre cakA-
+<>se “asItorAvaRaH kAsAYcakre SastrernirAkulaH” BawwiH .
+<>“kAsAYcakre kutsitaSabdamaBihitavAn” jayama0 .
+<>“ataUrdDvaM pravakzyAmi DUmopahatalakzaRam . Svasiti
+<>kzOti cAtyarTamatyADamati kAsate” “sa pUrbbaM kAsate
+<>Suzkam” suSru0 . “kAsamAnaSca tfzRABiBUtaH” suSru0 .
+<>asva kvacit parasmEpaditvamicCanti . “prasaktavegaSca samI-
+<>raRena kAsettu SuzkaM svaraBedayuktaH” suSru0 kAsaSabde udA0 .
+<>kvip kAH . “yattvaM SIto'TorUraH saha kAsA vepayaH”
+<>aTa0 5, 22, 10, BAve GaY . kAsaH kutsitaSabdaH “muYca
+<>SIrpaktyA uta kAsaenam” aTa0 1, 12, 3 .
+;----------------------------------------------------------------------
+;
+;; Case 16: k1=kAsa, L=13559 in vcp
+kAsa¦ tri0 kasa hiMsane karttari Ra . 1 hiMsake . kAsate'nena
+<>kAsa--karaRe GaY . 2 rogaBede pu0 “kuruTA valAsaM
+<>kAsamudyugam” aTa0 5, 22, 11 . tallakzaRanidAnAdi
+<>suSrute uktaM yaTA
+<>“aTAtaH kAsapratizeDamaDyAyaM vyAKyAsyAmaH . uktA
+[Page2042-b+ 38]
+<>ye hetavo nFRAM rogayoH SvAsahikkayoH . kAsasyApi ca
+<>te jYeyAsta evotpattihetavaH . DUmopaGAtAdrajasastaTEva
+<>vyAyAmarUkzAnnanizevaRAcca . vimArgagatvAdapi Bojanasya
+<>vegAvaroDAt kzavaTostaTEva . prARohyudAnAnugataH praduzwaH
+<>saMBinnakAMsyasvanatulyaGozaH . nireti vaktrAtsahasA sadozaH
+<>kAsaH sa vidvadBirudAhftastu . sa vAtapittapraBavaH kaPAcca
+<>kzatAttaTAnyaH kzayajo'paraSca . paYcaprakAraH kaTito
+<>BizagBirvvivardDito yakzavikArakft syAt . Bavizyatastasya
+<>tu kaRWakaRqUrByojyoparoDo galatAlulepaH . svaSabdavEzamya-
+<>marocako'gnisAdaSca liNgAni BavantyamUni . hfcCaNKa-
+<>mUrdDodarapArSvaSUlI kzAmAnanaH kzIRabalasvarOjAH . prasa-
+<>ktavegaSca samIraRena kAsettu SuzkaM svaraBedayuktaH . urI-
+<>vidAhajvaravaktraSozEraByardditastiktamuKastfzArttaH . pittena
+<>pItAni vametkawUni kAsetsa pARquH paridahyamAnaH .
+<>vilipyamAnena muKena sIdan SirorugArttaH kaPapUrRadehaH .
+<>aBaktarug gOravasAdayuktaH kAsedBfSaM sAndrakaPaH kaPena .
+<>vakzo'timAtraM vihataYca yasya vyAyAmaBArADyayanABiDA-
+<>kEH . viSlizwavakzAH sa naraH saraktaM zWIvatyaBIkzRaM kzata-
+<>jaHsa uktaH . ativyavAyaBArADvayuktASvagajavigrahEH .
+<>rahasyoraHkzataM vAyurgfhItvA kAsamAvahet . sa pUrbaM
+<>kAsate SuzkaM tataH zWIvet saSoRitam . kaRWena ruja-
+<>tA'tyarTaM viBinnenEva corasA . sUcIBiriva tIkzRABi-
+<>studyamAnena SUlinA . duHKasparSena SUlena BedapIqABi-
+<>tApinA . parvvaBedajvaraSvAsavfzRAvEsvaryyapIqitaH . pA-
+<>rAvatEvAkUjan kAsavegAt kzatodBavAt . vizamA'sAtmya-
+<>BojyAtivyavAyAdveganigrahAt . vfRinAM SocatAM nFRAM
+<>vyApanne'gnO trayo malAH . kupitAH kzayajaM kAsaM
+<>kuryyurdehakzayapradam . sa gAtraSUlajvarawAhamohAn
+<>prARakzayaYcopalaBeta kAsI . Suzyan vinizWIvati durbba-
+<>lastu prakzIRamAMso ruDiraM sapUyam . taM sarvvaliNgaM
+<>BfSaduScikitsyaM cikitsitajYAH kzayajaM vadanti . vfdDa-
+<>tvamAsAdya BavatyaTO vE yApyantamAhurBizajastu kAsam” .
+<>BAvapra0 etadvivftaM yaTA
+<>paYca kAsAH smftA vAtapittaSlezmakzatakzayEH . kzayAyope-
+<>kzitAH sarve balinaScottarottaram . kzayAya rAjayakzmaRe .
+<>aTa pUrvvarUpamAha . pUrvvarUpaM BavetezAM SUkapUrRagalA-
+<>syatA . kaRWe kaRqUSca BojyAnAmavaroDaSca jAyate .
+<>BojyAnAmavaroDaH kavalagilane kaRWavyaTA . aTa
+[Page2043-a+ 38]
+<>vAtikasya rUpamAha hfcCaNKapArSvodaramUrdDvaSUlI kzAmAna-
+<>naH kzIRavalasvarOjAH . prasaktavegastu samIraRena BinnasvaraH
+<>kAsati Suzkameva . SaNKo lalAwEkadeSaH, SuzkaM SlezmAdi-
+<>rahitam . pEttikasya rUpamAha tanorbidAhajvaravaktra-
+<>SozEraByardditastiktamuKastfpArttaH . pittena pItAni vame-
+<>tkawUni kAset sapARquH paridahAmAnaH . sapARquH,
+<>pARqurogayuktaH . SlEzmikasya rUpamAha pralipyamAnena
+<>muKena sIdet SirorujArttaH kaPapUrRRadehaH . aBaktaruN-
+<>nIravakaRquyuktaH kAsedBfSaM sAndrakaPaH kaPena . pralipya-
+<>mAnena muKena Slezmaliptena muKenopalakzitaH . aBaktaruk na
+<>Bakte ruk ruciryyasyasaH kaRqUH kaRWa eva . kzatakAsasya
+<>nidAnapUrbbikAM samprAptimAha ativyavAyaBArADvayudDA-
+<>SvagajanigrahEH . rahasyoraHkzataM vAyurgfhItvA kAsamA-
+<>vahet . aSvagajayornigraho damanam . lakzaRamAha sa
+<>pUrbbaM kAsate SuzkaM tataH zWIvet saSoRitam . kaRWena
+<>kUjatyatyarTaM viBagneneva corasA . sUcIBiriva
+<>tIkzRABistudyamAnena SUlinA . duHKasparSena SUlena
+<>BedapIqABitApinA . parvaBedajvaraSvAsatfzRAvEsvaryya-
+<>pIqitaH . pArAvata ivAkUjan kAsavegAt kzatodBa-
+<>vAt . kaRWenetyupalakzaRe tftIyA evamuraseti .
+<>kzayakAsasya nidAnapUrbbakAM samprAptimAha vizamA'sAtmya-
+<>BojyAtivyavAyAdveganigrahAt . vfRinAM SocatAM nFRAM
+<>vyApanne'gnO trayo malAH . kupitAH kzayaRaM kAsaM ku-
+<>ryyurdehakzayapradam . GfRinAM vicikitsAyuktAnAm . la-
+<>kzaRamAha sagAtraSUlajvaramohadAhaprARakzayaYcopalaBet-
+<>sa kAsI . SuzkaM vinizWIvati nirbalastu prakzIRamAMso
+<>ruDiraM sapUyam . taM saryaliNgaM BfgaduScikitsyaM ciki-
+<>tsitajYAH kzayajaM vadanti . asADyasADyayApyAnAha
+<>ityeza kzayajaH kAsaH kzIRAnAM dehanASanaH . sADyo
+<>balavatAM vA syAdyApyastvevaM kzatotTitaH . evaM kzato-
+<>tTitaH kzIRAnAmasADyaH . balavatAM sADyo yApyo vA
+<>syAt . na vA kadAcit siDyetAmapi pAdaguRAnvitO
+<>siDyetAM kzatajakzayajO sadvEdyaH sadBezajaH satparicAra-
+<>kaTuktasya sadAturasya jAtO . sTavirARAM jarAkAsaH
+<>sarvo yApyaH prakIrttitaH . sTavirARAM jarAkAsaH vfdDA-
+<>nAM yaH kAso Bavati sa jarAkAsasaMjYaH sa sarvaeva vAta-
+<>jAdirapi yApyaH . trIn pUrvAn sADayet sADyAn paTyE-
+<>ryApyAMstu yApayet . svalpo'pi kAsa upekzaRIyo na Bava-
+[Page2043-b+ 38]
+<>ti . kintu SIGraM pratikuraRIya ityAha jvarArocaka
+<>hfllAsasvaraBedakzayAdayaH . BavantyupekzayA yasmAttasmArtta
+<>tvarayA jayet” .
+<>kAsarogaBedasya hetupApAdi karmmavipAkaSabde 1764,
+<>pf0 uktam kaM jalamasyate'nena asa--kzepaRe karaRe GaY
+<>6 ta0 . 3 SoBAYjanavfkze pu0 Sabdaca0 . tadaYjanasevane
+<>netrAjjalanismAraRAttasya taTAtvam .
+;----------------------------------------------------------------------
+;
+;; Case 17: k1=klIva not in vcp
+?
+;; Case 18: k1=kleSa, L=15711 in vcp
+kleSa¦ pu0 kliSa BAve GaY . upatApe duHKa kliSnanti kliSa-
+<>bADate karttari aca . pAtaYjanoktezu avidyAdizu
+<>paYcazu . “kleSakarmmavipAkASayEraparAmfzwaH puruzaviSeza
+<>ISvaraH” pAta0 sU0 . “avidyAdayaH kleSAH” BA0 .
+<>“klipnanti KalvamI puRyaM sAMsArikaM viviDaduHKaprahA-
+<>reReti” vivaraRam . avidyAdInAM yaTAkleSahetutvAt
+<>tacCabdavAcyatvam tayA tezAM niroDopAyaSca tatreva sADana-
+<>pAde darSito yaTA
+<>“aTa ke klaSAH kiyanoveti” mA0
+<>“avidyA'smitArAgadvezA'BiniveSAH paYca kleSAH” sU0 .
+<HI>“iti paYca viparyyayA ityarTaH . te spandamAnA guRA-
+<>DikAraM dfQayanti pariRAmamavasTApayanti kAryyakAraRa-
+<>srotOnnamayanti parasparAnugrahatantrImUtvA karmmavipAkaM
+<>cABinirharanti” BAzyam .
+<HI>“pfcCati aTeti . avidyeti sUtreRa parihAraH .
+<>avidyAdayaH kleSAH . vyAcazwa paYca viparyyayA iti .
+<>avidyA tAvAdvaparyyaya eva asmitAdayo'pyavidyopAdA-
+<>nAstadavinirBAgavarttina iti vipayyayAH . tataScAvidyA-
+<>samucCede tezAmapi samucCedoyukta iti BAvaH . tezA-
+<>mucCetavyatAhetuM saMsArakAraRatvamAha te spandamAnAH .
+<>samudAcaranto guRAnAmaDikAraM dfQayanti balabantaM kurvvanti
+<>ataeva pariRAmamavasTApayati avyaktamaqadahaNkAraparampa-
+<>rayA hi kAryyakAraRatrota unnamayanti dvadBAvayanti . yadarTaM
+<>sarvvametat kurvanti tadvarSa0 ti paraspareti . karmmaRAM
+<>vipAko jAtyAyurBogalakzaRaH puruzArTa tamamI kleSA
+<>aBinirharanti nippAdapanti . kiM pratyekaM? netyAha
+<>parasparAnugraheti karmmaBiH klarAH kleSESca karmARIti”
+<>vAcaspativivaraRam .
+<HI>“avidyAkzatramuttarezAM prasuptatanuvicCinnodArARAm” sU0
+<>“atrA'vidyA kzetraM prasavaBUmiruttarepAmasmitAdInAM catu-
+<>rviDakalpitAnAM prasuptatanupicCinnodArARAm . tatra kA
+<>pramuptiH? cetasi SaktamAtrapatizWAnAM vIjaBAvopagamaH
+<>tasya praboDa Alambane saMmuKIBAvaH prasaMKyAnavato dagDakle
+<>SavIjasya saMmuKIBUte'pyAlambatenA'sO punarasti dagDavIjasya
+<>kataH prarohf iti . ataH kzIRakleSaH kuSalaScaramadeha
+[Page2348-b+ 38]
+<>ityucyate tatrEva sA dagDavIjaBAvA paYcamI kleSAvasTA
+<>nAnyatreti satAM kleSAnAM tadA vIjasAmarTyaM dagDamiti
+<>vizayasya saMmuKIBAve'pi sati na BavatyezAM praboDa ityuktA
+<>prasuptirdagDavIjAnAm aprarIhaSca . tanutvamuvyate pratipa-
+<>kzaBAvanopahatAH kleSAstanavo Bavanti . taTA vicCidya
+<>vicCidya tena tenAtmanA punaH punaH samudAcarantoti vi-
+<>cCinnAH kaTaM? rAgakAle kroDasyAdarSanAt . na hi rAga-
+<>kAle kroDaH samudAcara ta rAgaSca kvacit dfSyamAno
+<>vizayAntare nAsti, nEkasyAM striyAM cEtrorakta iti anyAsu
+<>strIzu viraktaH, kintu tatra rAgolabDavfttiH, anyatra Bavi-
+<>zyadvfttiriti sa hi tadA prasuptatanurvicCinnoBavati . vi-
+<>zaye yo labDavfttiH sa udAraH . sarvvaevE te kleSavizayatvaM
+<>nAtikrAmatti . kastarhi vicCinnaH prasuptastanurudArovA
+<>kleSaH? iti, ucyate satyamevEtat kintu viSizwAnAmevEtezAM
+<>vicCinnAditvaM yaTEva pratipakzaBAvamAtonivfttaM taTEva sva-
+<>vyaYjakAYjanenABivyaktam iti sarvve evAmI kleSA avi-
+<>dyABedAH kasmAt? sarvvezu avidyEvABiplavate yadavidyayA
+<>vastvAkAryyate tadevAnuSerate kleSAH viparyyAsapratyayakAle
+<>upalaByante kzIyamARAM cAvidyAmanukzIyanta iti” BA0 .
+<HI>“heyAnAM kleSAnAmavidyAmUlatvaM darSayati avidyAkzetra-
+<>mityAdi . tatra kA prasupti rati svocitAmarTakriyAmakuva tAM
+<>kleSAnAM sadBAve na pramARasastItyaBiprAyaH pfcCataH . uttaraM
+<>cetasIti . mA nAmArTakriyAM kArzuH kleSAH videha-
+<>prakftilayAnAM vIjaBAva prAptAstu te SaktimAtraRa
+<>santi kzora iva daDino'vivekaKyAteranyadasti kAraRaM
+<>tadbanDyatAyAm atovidehaprakftilayA vivekaKyAti
+<>virahiRaH prasuptakleSA na yAvadavaDikAlaM prApnuvanti,
+<>tataH prAptO tu punarAvfttAH santaH kleSAstezutezu vizayezu
+<>saMmutrIBavanti . SaktimAtreRa pratizWA yezAM te taTo-
+<>ktAH . tadanenotpattiSaktiruktA vIjaBAbopagama iti ca
+<>kAryyaSaktiriti . nanu vivekaKyAtimato'pi kleSAH
+<>kasmAnna prasuptAH? ityata Aha prasaMKyAnavata iti .
+<>caramadeho na tasya dehAntarasutpatsyate yadapekzayAsya
+<>dehaH pUrva ityarTaH . videhAdizvityarTaH nAnyatra nanu sato
+<>nAtyantavinASa iti kimiti tadIyayogardDibalena
+<>vizayasaMmuKIBAvena kleSAH prabuDyante ityata Aha satA-
+<>miti . santu kleSAH dagDastezAM prasaNKyAnAgninA
+<>vIjaBAva ityarTaH . kleSapratipakzaH kriyAyogastasya
+[Page2349-a+ 38]
+<>BAvanamanuzWAnaM tenopahavAstanavaH ayavA sa yagajYAna-
+<>mavidyAyAH pratipakzaH, BedadarSanamasmimAyA mADyasTya
+<>rAgadvezayoH, anuvanDavudDinivfttiraBiniveSasyeti . vicCi-
+<>ttimAha taTeti . kleSAnAmanyatamena samudAcaratA-
+<>'BiBavAdvA'tyantavizayasevayA vA vicCidyavicCidya tena te-
+<>nAtmanA samudAcaranti AvirBavanti vIjIkaraRAdyu payoge-
+<>na vABiBAvakadOrbalyet veti . vIpasayA ca vicCadamamudA-
+<>cArayoH pInaHpunyaM darSayatA yaTAktAt pratuptAt Beda u-
+<>ktaH . rAgeRa vA samudAcaratA vijAtIyaH kroDI'BiBayate
+<>sajAtIyena vA vizayAntaravarttinA rAgeREva vizayAntara-
+<>varttI rAgo'BiBUyata ityAha rAgeti BavizyadvalestrayI
+<>gatiH yaTAyogaveditavyetyAha . sahIti Bavizyadvf-
+<>ttikleSamAtraparAmarSi sarvanAma . na cEtrarAgaparAmarSi tasya
+<>vicCinnatvAdeveti . udAramAha vizaya iti . nanu
+<>udAra eva puruzAn kliSnAtIti Bavatu kleSo anyetvaki
+<>SnanaH kayaM kleSA? ityata Aha . sarva evEteiti kle-
+<>SavizaDatvaM kleSapadavAcyatvaM nAtikrAmanti udAratAmApa
+<>dyamAnAH ataeva te'pi heyAiti BAvaH . kleSatvenEkatAM
+<>sanyamAnaScodayati kastArha? iti . kleSatvena samAnatve'pi
+<>yaToktAvasTABedAdviSeza iti pariharati ucyate satyamiti
+<>syAdetadavidyato Bavantu kleSAH, taTApyavidyAnivfttO ka-
+<>smAnnivarttante? na KalupawaH kuvindanivfttO nivarttate i-
+<>tyata Aha marvaeveti BedAiva BedAstadavinirBAgavarttina
+<>iti yAvat kasmAt? iti praSnaH . uttaraM sarve zvati tadeva
+<>sPuwayati yaditi AkAryyate samAropyate SezaM sugamam
+<>“prasuptAstattvalInAnAM tanvavasTASca yoginAm . vicCi-
+<>nnodArUpAScakleSAvizayasaNginAmiti” saMgrahaH” viva0 .
+<>“kleSaprahARamiha labDasavIjayogAH” “kleSakarmaPala
+<>Bogavarjjitam” mAGaH . “dASaraTyoH kzaRakleSaH” raGuH
+<>“kleSaH Palena hi punarnavatAM niDate” kumA0
+<>“yanmAtApitarO kleSaM sahete samBave nfRAm” manuH .
+<>“tatyAjananirevAstu jananIkleSakAriRaH” mAGaH 2 kope
+<>3 vyavasAye medi0 . tayorapi tadDetutvAttaTAtvam .
+<>“aTe kleSatamasoH” pA0 hanteHqa . kleSApahaH putra
+;----------------------------------------------------------------------
+;
+;; Case 19: k1=Kada, L=16372 in vcp
+Kada¦ sTEryyE aka0 baDe saka0 BvA0 para0 sew . Kadati aKAdIt-
+[Page2464-a+ 38]
+<>aKadIt caKAda . praniKadati . “taTAKadanniHsaraRa-
+<>vadBavati taTA nisravati” Sata0 brA0 1 . 7 . 4 . 10 alpatara-
+<>tvAdasTiramagAQabalam” BAzyam .
+;----------------------------------------------------------------------
+;
+;; Case 20: k1=Kada, L=16373 in vcp
+Kada¦ pu0 Kada--bA0 BAve ap . 1 sTiratve . tasmE hitAdi
+<>gavAdi0 yat . svadya sTiratvahite tri0 . KadyapatrI .
+;----------------------------------------------------------------------
+;
+;; Case 21: k1=Karvva not in vcp
+?
+;; Case 22: k1=Kava, L=16508 in vcp
+Kava¦ sampattipavitratayoH prAdurBAve, ca kyrA0 para0 aka0 sewa .
+[Page2471-b+ 38]
+<>avnAti aKAvIt aKavIt . caKAva . praniKavnAti .
+;----------------------------------------------------------------------
+;
+;; Case 23: k1=Ku, L=16596 in vcp
+Ku¦ BvA0 Atma0 aka0 aniw . Kavate aKozwa . cuKuve .
+;----------------------------------------------------------------------
+;
+;; Case 24: k1=KUrdda not in vcp
+?
+;; Case 25: k1=gardDa, L=17187 in vcp
+gardDa¦ lipsAyA curA0 uBa0 saka0 sew . gardDayati ta ajaga-
+[Page2548-b+ 38]
+<>rdDat ta . gardDayAm baBUva Asa cakAra cakre . gardDaH
+<>gardDA . gardDanaH .
+;----------------------------------------------------------------------
+;
+;; Case 26: k1=gardDa, L=17188 in vcp
+gardDa¦ pu0 gfDa--GaY ac vA . 1 atiSayaspfhAyAM, hemaca0 . 2 gardDaBARqadra me ca Sabdaca0 .
+;----------------------------------------------------------------------
+;
+;; Case 27: k1=canca not in vcp
+?
+;; Case 28: k1=citra, L=19770 in vcp
+citra¦ kzaRike--leKye adBute ca ada0 cu0 uBa0 saka0 sew .
+<>citrayati te acicitrat ta . citritaH citraH .
+;----------------------------------------------------------------------
+;
+;; Case 29: k1=citra, L=19771 in vcp
+citra¦ na0 citra--BAve ac ci--zwran vA . 1 tilake .
+<>2 AleKye 3 adBute 4 karvUravarRRe 5 tadyukte tri0 medi0 .
+<>6 AkASe 7 kuzWaBede hema0 . 8 yamaBede pu0 “vfkodarAya
+<>citrAya” yamatarpaRamantraH . 9 eraRqaMvfkze 10 aSokavfkze
+<>11 citrakavfkze rAjani0 12 citragupte citraguptaSabde dfSyam
+<>13 SabdAlaNkAraBede na0 alaNkAraSabde 390 pf0 dfSyam .
+<>“citrasaMjYamIritaM pramARikApadadvayam” vf0 ra0 ukte
+<>15 zoqaSAkzarapAdake CandoBede . “nisargacitrojjvala-
+<>sUkzmapakzmaRA” “citraM cakAra padamardDapulAyitena”
+<>“ruciracitratanUruhaSAliBiH” iti ca mAGaH .
+;----------------------------------------------------------------------
+;
+;; Case 30: k1=cudqa not in vcp
+?
+;; Case 31: k1=culla, L=20049 in vcp
+culla¦ BAva kftO BvA0 para0 aka0 sew . cullati acullIt
+<>cuculla .
+;----------------------------------------------------------------------
+;
+;; Case 32: k1=culla, L=20050 in vcp
+culla¦ na0 klinnasya culAdeSaH lacpratyayaH . 1 klinnanetre 2 tadyukte jane tri0 medi0 .
+;----------------------------------------------------------------------
+;
+;; Case 33: k1=jarcCa not in vcp
+?
+;; Case 34: k1=jurvva not in vcp
+?
+;; Case 35: k1=Rakza not in vcp
+?
+;; Case 36: k1=RATa not in vcp
+?
+;; Case 37: k1=RADa not in vcp
+?
+;; Case 38: k1=tuwa, L=22955 in vcp
+tuwa¦ kalaha tuda0 kuwA0 para0 aka0 sew . tuwati atuwIt
+<>tutowa .
+;----------------------------------------------------------------------
+;
+;; Case 39: k1=truPa not in vcp
+?
+;; Case 40: k1=dfmpa not in vcp
+?
+;; Case 41: k1=drE not in vcp
+?
+;; Case 42: k1=dvf not in vcp
+?
+;; Case 43: k1=DUza not in vcp
+?
+;; Case 44: k1=DUsa not in vcp
+?
+;; Case 45: k1=DvAkza not in vcp
+?
+;; Case 46: k1=nakva not in vcp
+?
+;; Case 47: k1=nivAsa, L=29198 in vcp
+nivAsa¦ pu0 ni + vasa--ADAre GaY . 1 gfhe 2 ASraye ca
+<>hemaca0 “jagannivAso vasudevasadmani” mAGaH . BAve
+<>GaY . 3 vAse “kumBakArasya SAlAyAM nivAsaM cakrire
+<>tadA” BA0 A0 185 a0 . tataH DAnyA0 caturarTyAM
+<>ka . nivAsaka tatsannikfzwadeSAdO tri0 .
+;----------------------------------------------------------------------
+;
+;; Case 48: k1=paza not in vcp
+?
+;; Case 49: k1=baka not in vcp
+?
+;; Case 50: k1=bAqa, L=35467 in vcp
+bA(vA)qa¦ a plAvane saka0 snAne aka0 BvA0 A0 sew . bA(vA)qate
+<>abA(vA)qizwa . fdit caNi na hrasvaH avabAqat ta .
+;----------------------------------------------------------------------
+;
+;; Case 51: k1=Banja not in vcp
+?
+;; Case 52: k1=BnASa not in vcp
+?
+;; Case 53: k1=BnAsa not in vcp
+?
+;; Case 54: k1=misra not in vcp
+?
+;; Case 55: k1=munca not in vcp
+?
+;; Case 56: k1=muz not in vcp
+?
+;; Case 57: k1=meqa not in vcp
+?
+;; Case 58: k1=mreqa not in vcp
+?
+;; Case 59: k1=mleqa not in vcp
+?
+;; Case 60: k1=reva not in vcp
+?
+;; Case 61: k1=rOqa not in vcp
+?
+;; Case 62: k1=luYca not in vcp
+?
+;; Case 63: k1=loqa not in vcp
+?
+;; Case 64: k1=valyUla not in vcp
+?
+;; Case 65: k1=vaska not in vcp
+?
+;; Case 66: k1=vIra, L=42117 in vcp
+vIra¦ na0 vIra--ac . 1 SfNgiRi 2 naqe medi0 3 garice 4 padma-
+<>mUle 5 kAYcike 6 uSIre 7 ArUke rAjani0 . 8 SOryyavi-
+<>Sizwe SUre tri0 amaraH . 9 jine 10 nawe pu0 hemaca0 .
+<>11 vizRO pu0 vizRusa0 . tantrokte 12 kulAcArayute tri0
+<>kulAcAraSabde pf0 dfSyam . 13 taRqulIye 14 varAhakande
+<>15 latAkaraYje 16 karavIre 17 arjune pu0 rAjani0
+<>18 yajYAgnO BarataH vIrahA . 19 uttare 20 suBawe ca medi0 .
+<>21 SrezWe tri0 hemaca0 . 22 patyO 23 putre ca “avIrA
+<>nizpati sutA” amaraH . 23 rasaBede “uttamaprakftirvIra
+<>utsAhasTAyiBAvakaH . mahendradEvato hemavarRo'yaM sama-
+<>dAhftaH . AlambanaviBAvAstu vijetavyAdayo matAH .
+<>vijetavyAdicezwAdyAstasyoddIpanarUpiRaH . anuBAvAstu
+<>tatra syuH sahAyAnvezaRAdayaH . saYcAriRastu Dftimati-
+<>garvasmftitarkaromaYcAH . sa ca dAnaDarmayudDErdayaTA ca
+<>samanvitaScaturdDA syAt” . sa ca vIraH . dAnavIro Darma-
+<>vIrA dayAvIro BudDavIraSceti caturviDaH” sA0 da0 3 pa0 .
+;----------------------------------------------------------------------
+;
+;; Case 67: k1=SaMsa not in vcp
+?
+;; Case 68: k1=Sasta, L=43216 in vcp
+Sasta¦ na0 Sansa--kta . 1 kalyARe 2 tadvavi amaraH . 3 lute
+<>4 praSaste ca tri0 medi0 . 5 dehe na0 trikA0 saMjYAyAM kan .
+<>6 aNgulitrARe Sabdaca0!
+;----------------------------------------------------------------------
+;
+;; Case 69: k1=Suwa not in vcp
+?
+;; Case 70: k1=SUya not in vcp
+?
+;; Case 71: k1=Sriza not in vcp
+?
+;; Case 72: k1=zana not in vcp
+?
+;; Case 73: k1=saga not in vcp
+?
+;; Case 74: k1=saGa not in vcp
+?
+;; Case 75: k1=sapa not in vcp
+?
+;; Case 76: k1=sADa not in vcp
+?
+;; Case 77: k1=su, L=46270 in vcp
+su¦ avya0 su--qu . 1 pUjAyAm 2 atiSaye amaraH . 3 kfcCe
+<>4 anumatO 5 mamfdDO medi0 6 anAyAse ca anekArTako0 .
+<>pUjAyAmasya nopasargatvam tena sustutamityAdO na zatvam .
+<>atiSayAdO tu suzwuta ityAdi . gaRaratne'rTaviSezA-
+<>nuktakrameRodAhftam yaTA “su praSaMsAnumatipUjABfSa-
+<>kfcCraSuBezu . surUpaH sukftaM susADuH sutaptaH suduH karaM
+<>suganDaH” .
+;----------------------------------------------------------------------
+;
+;; Case 78: k1=sunBa not in vcp
+?
+;; Case 79: k1=sura, L=46529 in vcp
+sura¦ pu0 suzWu rAti dadAtyaBIzwaM su + rA--ka . 1 deve amaraH . 2 sUryye 3 paRqite ca .
+;----------------------------------------------------------------------
+;
+;; Case 80: k1=sUrkzya not in vcp
+?
+;; Case 81: k1=sUza not in vcp
+?
+;; Case 82: k1=sfPa not in vcp
+?
+;; Case 83: k1=sela not in vcp
+?
+;; Case 84: k1=seva, L=46895 in vcp
+seva¦ na0 seva--karmaRi GaYarTe ka . seviPale (seo) rAjani0
+;----------------------------------------------------------------------
+;
+;; Case 85: k1=sE not in vcp
+?
+;; Case 86: k1=staka not in vcp
+?
+;; Case 87: k1=stamBa, L=47093 in vcp
+stamBa¦ pu0 stamBa--ac . (TAma) 1 sTURAyAm amaraH . BAve
+<>GaY . 2 jaqIBAve pu0 .
+;----------------------------------------------------------------------
+;
+;; Case 88: k1=stunBa, L=47108 in vcp
+stunBa¦ roDanE sO0 kryA0 svA0 kAryyaBAgI para0 saka0 sew
+<>udit ktvAvew . stuBnoti stuBrAti . astumBIt . sOtra .
+<>tvAdazopadeSa ityanye .
+;----------------------------------------------------------------------
+;
+;; Case 89: k1=stfkza not in vcp
+?
+;; Case 90: k1=stfha not in vcp
+?
+;; Case 91: k1=stFha not in vcp
+?
+;; Case 92: k1=sranBa not in vcp
+?
+;; Case 93: k1=hiqaM not in vcp
+?

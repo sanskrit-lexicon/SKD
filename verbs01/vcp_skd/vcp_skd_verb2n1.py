@@ -353,13 +353,13 @@ def test(tranout):
  y = transcoder.transcoder_processString(x,tranin,tranout)
  print('test: %s -> %s' %(x,y))
  exit(1)
-def test1(fileout,vcp_recs,skd_recs):
+def test1(vcp_recs,skd_recs):
  varr = [r for r in vcp_recs if r.matchrecs == None]
  sarr = [r for r in skd_recs if r.matchrecs == None]
  nvarr = len(varr)
  nsarr = len(sarr)
  print(nvarr,nsarr)
- #fileout = 'temp_verb2n_test1.txt'
+ fileout = 'temp_verb2n_test1.txt'
  f = codecs.open(fileout,"w","utf-8")
  for mr in sarr:
   k1 = mr.k
@@ -375,7 +375,6 @@ def test1(fileout,vcp_recs,skd_recs):
  exit(1)
 if __name__=="__main__": 
  tranout = sys.argv[1] # deva or slp1
- # tranout can also be test1
  filein = sys.argv[2] #  vcp_verb1
  filein1 = sys.argv[3] # skd_verb1
  filein2 = sys.argv[4] # vcp_skd_map
@@ -384,8 +383,6 @@ if __name__=="__main__":
  skd_recs = init_verbs(filein1,'skd')
  vcpskd = init_vcp_skd_map(filein2)
  maprecs(vcp_recs,skd_recs,vcpskd)
- if tranout == 'test1':
-  test1(fileout,vcp_recs,skd_recs)
- else:
-  #normal output
-  write_nomatch(fileout,vcp_recs,skd_recs,tranout)
+ #test1(vcp_recs,skd_recs)
+ 
+ write_nomatch(fileout,vcp_recs,skd_recs,tranout)
