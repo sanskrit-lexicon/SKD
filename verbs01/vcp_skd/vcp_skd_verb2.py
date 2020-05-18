@@ -146,6 +146,7 @@ def html_head():
 <!DOCTYPE html>
 <html>
 <head>
+  <meta charset="UTF-8">
 
   <title>VCP-SKD verbs</title>
 
