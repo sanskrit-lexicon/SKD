@@ -25,7 +25,7 @@ STEP 1:
 python vcp_skd_verb2n.py test1 ../../../vcp/verbs01/vcp_verb1.txt  ../../../skd/verbs01/skd_verb1.txt vcp_skd_map.txt vcp_skd_verb1_test1.txt
 
 
-run test1 routing in vcp_skd_verb2n.py
+run test1 routine in vcp_skd_verb2n.py
 Use 'test1' for first parameter option
 Output file is vcp_skd_verb1_test1.txt
 This is just a list of the skd verbs that are NOT matched.

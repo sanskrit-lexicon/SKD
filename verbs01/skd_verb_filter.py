@@ -105,7 +105,39 @@ def mark_entries_verb(entries):
    code = 2
   elif re.search(' iti kavi-',datalines[0]):
    code = 3
-  elif L in ['4015','4016','4017', # k1='i'
+  elif L in [
+   '4015','4016','4017', # k1='i'
+   '1827', # ama
+   '1828', # ama
+   '1917', # amba
+   '2024', # aya
+   '2466', # avaDIra
+   '2726', # aSa
+   '2727', # aSa
+   '2986', # asu
+   '5410', # fSa
+   '5571', # elA
+   '6169', # kadqa
+   '6176', # kana
+   '10116', # Kala
+   '12656', # cihna
+   '12691', # cukka
+   '17624 ', # Danva
+   '20297', # pamba
+   '21784', # pucCa
+   '21843', # putta
+   '23309', # prA
+   '24428', # byuza
+   '27793', # mfga
+   '36475', # SmIla
+   '36553', # SrA
+   '37022', # zAntva
+   '37056', # zeva
+   '37097', # zwepa
+   '37099', # zwyE
+   '40829', # sPaqa
+   '40876', # sPurja
+   '42194', # hvf
             ]:
    code = 4
   if code != None:

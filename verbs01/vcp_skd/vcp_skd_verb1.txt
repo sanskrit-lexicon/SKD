@@ -30,11 +30,11 @@ vcp=anDa, skd=?
 vcp=aba, skd=aba
 vcp=?, skd=aBa
 vcp=aBra, skd=aBra
-vcp=ama, skd=?
-vcp=amba, skd=?
+vcp=ama, skd=ama
+vcp=amba, skd=amba
 vcp=ambara, skd=?
 vcp=amBa, skd=?
-vcp=aya, skd=?
+vcp=aya, skd=aya
 vcp=arka, skd=arka
 vcp=arGa, skd=arGa
 vcp=arca, skd=arcca *
@@ -45,12 +45,12 @@ vcp=ardda, skd=arda *
 vcp=arba, skd=arbba *
 vcp=arha, skd=arha
 vcp=ala, skd=ala
-vcp=avaDIra, skd=?
+vcp=avaDIra, skd=avaDIra
 vcp=avara, skd=?
-vcp=aSa, skd=?
+vcp=aSa, skd=aSa
 vcp=aza, skd=aza
 vcp=asa, skd=asa
-vcp=asu, skd=?
+vcp=asu, skd=asu
 vcp=aha, skd=aha
 vcp=ACa, skd=ACa
 vcp=Andola, skd=Andola
@@ -124,13 +124,13 @@ vcp=fta, skd=fta
 vcp=fDa, skd=fDa
 vcp=fnPa, skd=?
 vcp=fPa, skd=fPa
-vcp=fSa, skd=?
+vcp=fSa, skd=fSa
 vcp=fza, skd=fza
 vcp=F, skd=F
 vcp=eja, skd=eja
 vcp=eWa, skd=eWa
 vcp=eDa, skd=eDa
-vcp=elA, skd=?
+vcp=elA, skd=elA
 vcp=ez, skd=eza *
 vcp=oKa, skd=oKa
 vcp=oja, skd=oja
@@ -154,8 +154,8 @@ vcp=katTa, skd=katTa
 vcp=katra, skd=katra
 vcp=kaTa, skd=kaTa
 vcp=kada, skd=kada
-vcp=kadqa, skd=?
-vcp=kana, skd=?
+vcp=kadqa, skd=kadqa
+vcp=kana, skd=kana
 vcp=kapa, skd=kapa
 vcp=kaba, skd=kaba
 vcp=kama, skd=kama
@@ -316,7 +316,7 @@ vcp=Karja, skd=Karjja *
 vcp=Kardda, skd=Kardda
 vcp=Karba, skd=Karbba *
 vcp=?, skd=Karvva
-vcp=Kala, skd=?
+vcp=Kala, skd=Kala
 vcp=Kava, skd=Kava
 vcp=Kaza, skd=Kaza
 vcp=KAda, skd=KAda
@@ -463,11 +463,11 @@ vcp=citra, skd=citra
 vcp=ciri, skd=ciri
 vcp=cila, skd=cila
 vcp=cilla, skd=cilla
-vcp=cihna, skd=?
+vcp=cihna, skd=cihna
 vcp=cIka, skd=cIka
 vcp=cIBa, skd=cIBa
 vcp=cIva, skd=cIva
-vcp=cukka, skd=?
+vcp=cukka, skd=cukka
 vcp=cucya, skd=cucya
 vcp=cuwa, skd=cuwa
 vcp=cuwwa, skd=cuwwa
@@ -885,7 +885,7 @@ vcp=paTa, skd=paTa
 vcp=pada, skd=pada
 vcp=pana, skd=pana
 vcp=pampas, skd=?
-vcp=pamba, skd=?
+vcp=pamba, skd=pamba
 vcp=paya, skd=paya
 vcp=payasya, skd=?
 vcp=parRa, skd=parRa
@@ -924,12 +924,12 @@ vcp=pIya, skd=pIya
 vcp=pIla, skd=pIla
 vcp=pIva, skd=pIva
 vcp=puMsa, skd=puMsa
-vcp=pucCa, skd=?
+vcp=pucCa, skd=pucCa
 vcp=puwa, skd=puwa
 vcp=puwwa, skd=puwwa
 vcp=puqa, skd=puqa
 vcp=puRa, skd=puRa
-vcp=putta, skd=?
+vcp=putta, skd=putta
 vcp=puTa, skd=puTa
 vcp=pura, skd=pura
 vcp=purARa, skd=?
@@ -969,7 +969,7 @@ vcp=pyE, skd=pyE
 vcp=pracCa, skd=pracCa
 vcp=praTa, skd=praTa
 vcp=prasa, skd=prasa
-vcp=prA, skd=?
+vcp=prA, skd=prA
 vcp=prI, skd=prI
 vcp=pru, skd=pru
 vcp=pruwa, skd=?
@@ -1025,7 +1025,7 @@ vcp=bfha, skd=?
 vcp=bF, skd=bF
 vcp=beha, skd=?
 vcp=byaDa, skd=byaDa
-vcp=byuza, skd=?
+vcp=byuza, skd=byuza
 vcp=braRa, skd=braRa
 vcp=brU, skd=brU
 vcp=Bakza, skd=Bakza
@@ -1166,7 +1166,7 @@ vcp=mUla, skd=mUla
 vcp=mUza, skd=mUza
 vcp=mf, skd=mf
 vcp=mfkza, skd=?
-vcp=mfga, skd=?
+vcp=mfga, skd=mfga
 vcp=mfja, skd=mfja
 vcp=mfqa, skd=mfqa
 vcp=mfRa, skd=mfRa
@@ -1531,7 +1531,7 @@ vcp=SOwa, skd=SOwa
 vcp=SOqa, skd=SOqa
 vcp=Scuta, skd=Scuta
 vcp=Scyuta, skd=Scyuta
-vcp=SmIla, skd=?
+vcp=SmIla, skd=SmIla
 vcp=SyE, skd=SyE
 vcp=Sraka, skd=Sraka
 vcp=Sraga, skd=Sraga
@@ -1540,7 +1540,7 @@ vcp=SraTa, skd=SraTa
 vcp=SranTa, skd=SranTa
 vcp=Srama, skd=Srama
 vcp=SramBa, skd=?
-vcp=SrA, skd=?
+vcp=SrA, skd=SrA
 vcp=SrAma, skd=SrAma
 vcp=Sri, skd=Sri
 vcp=Sriya, skd=?
@@ -1589,7 +1589,7 @@ vcp=zasja, skd=zasja
 vcp=zasta, skd=zasta
 vcp=zaha, skd=zaha
 vcp=zADa, skd=zADa
-vcp=zAntva, skd=?
+vcp=zAntva, skd=zAntva
 vcp=zi, skd=zi
 vcp=zica, skd=zica
 vcp=ziwa, skd=?
@@ -1613,7 +1613,7 @@ vcp=zfnBa, skd=?
 vcp=zfBa, skd=?
 vcp=zeka, skd=zeka
 vcp=zela, skd=zela
-vcp=zeva, skd=?
+vcp=zeva, skd=zeva
 vcp=zE, skd=zE
 vcp=zo, skd=zo
 vcp=zwaka, skd=zwaka
@@ -1632,9 +1632,9 @@ vcp=zwUpa, skd=zwUpa
 vcp=zwfkza, skd=zwfkza
 vcp=zwfha, skd=zwfha
 vcp=zwFha, skd=zwFha
-vcp=zwepa, skd=?
+vcp=zwepa, skd=zwepa
 vcp=zwE, skd=?
-vcp=zwyE, skd=?
+vcp=zwyE, skd=zwyE
 vcp=zWaga, skd=zWaga
 vcp=zWala, skd=zWala
 vcp=zWasa, skd=?
@@ -1733,7 +1733,7 @@ vcp=spf, skd=spf
 vcp=spfSa, skd=spfSa
 vcp=spfha, skd=spfha
 vcp=sPawa, skd=sPawa
-vcp=sPaqa, skd=?
+vcp=sPaqa, skd=sPaqa
 vcp=sPara, skd=sPara
 vcp=sPala, skd=sPala
 vcp=sPAya, skd=sPAya
@@ -1743,7 +1743,7 @@ vcp=sPuwwa, skd=sPuwwa
 vcp=sPuqa, skd=sPuqa
 vcp=sPura, skd=sPura
 vcp=sPurcCa, skd=sPurcCa
-vcp=sPurja, skd=?
+vcp=sPurja, skd=sPurja
 vcp=sPula, skd=sPula
 vcp=smi, skd=smi
 vcp=smiwa, skd=smiwa
@@ -1823,5 +1823,5 @@ vcp=hlapa, skd=hlapa
 vcp=hlasa, skd=hlasa
 vcp=hlAda, skd=hlAda
 vcp=hvala, skd=hvala
-vcp=hvf, skd=?
+vcp=hvf, skd=hvf
 vcp=hve, skd=hve
