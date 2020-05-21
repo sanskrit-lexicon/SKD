@@ -1,0 +1,3 @@
+; equivalence classes set manually for SKD
+udJa,4713;ujJa,4431
+staBa,40439;stamBa,40448
