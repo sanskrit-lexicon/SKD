@@ -114,9 +114,9 @@ def mark_entries_verb(entries):
    '2466', # avaDIra
    '2726', # aSa
    '2727', # aSa
-   '2986', # asu
+   #'2986', # asu
    '5410', # fSa
-   '5571', # elA
+   #'5571', # elA
    '6169', # kadqa
    '6176', # kana
    '10116', # Kala

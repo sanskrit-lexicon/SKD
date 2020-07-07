@@ -168,7 +168,10 @@ def write(fileout,recs):
    n = n + 1
    line = rec.line
    # add two fields
-   out1 = "vcp=%s, mw=%s" %(rec.vcp,rec.mw)
+   mw = rec.mw
+   if mw == None:
+    mw = '?'
+   out1 = "vcp=%s, mw=%s" %(rec.vcp,mw)
    # remove 'code' field
    line1 = re.sub(', code=.*$','',line)
    out = '%s, %s' %(line1,out1)
