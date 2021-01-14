@@ -1,0 +1,2 @@
+; This file for documenting simple spelling errors
+; format of each line is 'L#key1#old#new'
