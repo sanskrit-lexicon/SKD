@@ -128,7 +128,7 @@ if __name__=="__main__":
       # line outside of <L>...<LEND>
       lineout = line
     fout.write(lineout+'\n')
-    if True: # True:
+    if False: # True:
      if iline > 10000:
       print('quit at iline=',iline)
       break

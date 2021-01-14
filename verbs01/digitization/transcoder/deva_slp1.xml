@@ -199,4 +199,11 @@
 <!-- OM -->
 <e> <s>INIT</s> <in>\u0950</in> <out>o~</out></e>
 
+<!-- 
+< Z =  jihvamuliya = h with line below \u1cf5 VEDIC SIGN JIHVAMULIYA
+< V =  upadhmaniya = h with breve below \u1cf6 VEDIC SIGN UPADHMANIYA
+-->
+<e> <s>INIT,SKT</s> <in>\u1cf5</in> <out>Z</out> <next>INIT</next></e>
+<e> <s>INIT,SKT</s> <in>\u1cf6</in> <out>V</out> <next>INIT</next></e>
+
 </fsm>

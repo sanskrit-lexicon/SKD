@@ -138,17 +138,22 @@
 
 <!-- candrabindu, anunasika -->
 <e> <s>INIT,SKT</s> <in>~</in> <out>\u0901</out> <next>INIT</next></e>
-<!-- OM -->
+<e> <s>INIT</s> <in>o~</in> <out>\u0950</out> <next>INIT</next> </e>
+<!-- OM  Remove this for skd.
+
 <e> <s>INIT,SKT</s> <in>o~</in> <out>\u0950</out> <next>INIT</next> </e>
+ -->
 <!-- M~ destroys invertability, so dropped.
 <e> <s>INIT,SKT</s> <in>M~</in> <out>\u0901</out> <next>INIT</next></e>
 -->
 <!-- 
-< Z =  jihvamuliya = h with line below
-< V =  upadhmaniya = h with breve below
+< Z =  jihvamuliya = h with line below \u1cf5 VEDIC SIGN JIHVAMULIYA
+< V =  upadhmaniya = h with breve below \u1cf6 VEDIC SIGN UPADHMANIYA
+
+\u1cf2 = VEDIC SIGN ARDHAVISARGA
 -->
-<e> <s>INIT,SKT</s> <in>Z</in> <out>\u1cf2</out> <next>INIT</next></e>
-<e> <s>INIT,SKT</s> <in>V</in> <out>\u1cf2</out> <next>INIT</next></e>
+<e> <s>INIT,SKT</s> <in>Z</in> <out>\u1cf5</out> <next>INIT</next></e>
+<e> <s>INIT,SKT</s> <in>V</in> <out>\u1cf6</out> <next>INIT</next></e>
 
 <!-- Accents with visarga and anusvara
 Such instances occur in current digitization of PWG.
