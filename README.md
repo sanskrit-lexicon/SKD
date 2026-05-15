@@ -1,16 +1,17 @@
-SKD
-===
+# SKD
 
-Discussion of corrections and other issues pertaining to Sabdakalpadruma dictionary at Cologne Sanskrit-Lexicon
+Sanskrit dictionary digitization and corrections repository in the Sanskrit Lexicon project.
 
-The creation of this repository was prompted by a correction submitted for SKD. The correction seemed an exemplar of
-a larger class of corrections.  It seems useful to discuss how corrections can be done 'en masse', in addition to
-individually.
+## Issues
 
-## 2014
-collect various files created back in 2014.  Probably of little ongoing interest.
+This repository uses the Sanskrit Lexicon unified issue taxonomy with:
+- **9 type labels**: link-target, link-splitting, markup, text-correction, content-enhancement, encoding, scan-quality, bug, question
+- **3 severity levels**: minor, medium, hard
+- **4 milestones**: Dictionary to Book, Digitization Quality, Structured Data, Major Enhancements
 
+## GitHub Issue Conventions
 
-## verbs01
-Work on verbs begun February, 2020.
-See: https://github.com/sanskrit-lexicon/SKD/issues/8.
+All issues follow the unified taxonomy. See [CLAUDE.md](CLAUDE.md) for details.
+
+---
+*Updated by Cologne Issue Runbook*
