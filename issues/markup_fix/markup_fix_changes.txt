@@ -1,0 +1,11 @@
+; markup_fix log for skd.txt
+; nested: 0
+; whitespace: 3
+; changed: 3
+;
+131540 old <F>*) baRmahAMasi 1 . 3 . 2 . 4 . 4 </F><C4>vizAsahiM sahamAnam 17 . 1 . 1
+131540 new <F>*) baRmahAMasi 1 . 3 . 2 . 4 . 4</F><C4>vizAsahiM sahamAnam 17 . 1 . 1
+131542 old <F>†) somaM rAjAnam 1 . 1 . 2 . 5 . 1 </F><C4>SakraDUmaM nakzatrARi 6 . 128 . 1
+131542 new <F>†) somaM rAjAnam 1 . 1 . 2 . 5 . 1</F><C4>SakraDUmaM nakzatrARi 6 . 128 . 1
+131546 old <F>‡)bfhadvayo hi . 1 . 1 . 2 . 4 . 8 </F><C4>bfhaspatirnaH paripAtu 7 . 51 . 1
+131546 new <F>‡)bfhadvayo hi . 1 . 1 . 2 . 4 . 8</F><C4>bfhaspatirnaH paripAtu 7 . 51 . 1
