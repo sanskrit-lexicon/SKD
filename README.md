@@ -1,23 +1,25 @@
 # SKD — *Śabda-kalpadruma* (1822)
 
-Development and correction repository for **Rājā Rādhākānta Deva's *Śabda-kalpadruma***, an indigenous Sanskrit→Sanskrit encyclopedic lexicon, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/skd/skd.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/skd/skd.txt) (40,817 entries); this repository holds the development, correction, and enrichment work.
+_Created: 19-07-2014 · Last updated: 11-07-2026_
+
+Development and correction repository for **Rājā Rādhākānta Deva's *Śabda-kalpadruma***, an indigenous Sanskrit→Sanskrit encyclopedic lexicon, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [csl-orig/v02/skd/skd.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/skd/skd.txt) (40,817 entries); this repository holds the development, correction, and enrichment work.
 
 An indigenous encyclopedic lexicon that cites classical authorities through quotations (`“…”`), abbreviated source sigla and `iti`, rather than Western `<ls>` markup.
 
 ## Documentation
 
-- [CLAUDE.md](CLAUDE.md) — repository guide and data-format reference.
-- [DATA_DICTIONARY.md](DATA_DICTIONARY.md) — markup tag reference.
-- [CONTRIBUTING.md](CONTRIBUTING.md) · [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
+- [CLAUDE.md](https://github.com/sanskrit-lexicon/SKD/blob/main/CLAUDE.md) — repository guide and data-format reference.
+- [DATA_DICTIONARY.md](https://github.com/sanskrit-lexicon/SKD/blob/main/DATA_DICTIONARY.md) — markup tag reference.
+- [CONTRIBUTING.md](https://github.com/sanskrit-lexicon/SKD/blob/main/CONTRIBUTING.md) · [CODE_OF_CONDUCT.md](https://github.com/sanskrit-lexicon/SKD/blob/main/CODE_OF_CONDUCT.md)
 
 ## Contents
 
 | Path | Purpose |
 |---|---|
-| `2014/` | 2014 digitization working files |
-| `corrections/` | Correction working files |
-| `issues/` | Per-issue working files |
-| `verbs01/` | Verb identification: maps verb entries to MW roots, with Devanāgarī renderings |
+| [2014/](https://github.com/sanskrit-lexicon/SKD/tree/main/2014) | 2014 digitization working files |
+| [corrections/](https://github.com/sanskrit-lexicon/SKD/tree/main/corrections) | Correction working files |
+| [issues/](https://github.com/sanskrit-lexicon/SKD/tree/main/issues) | Per-issue working files |
+| [verbs01/](https://github.com/sanskrit-lexicon/SKD/tree/main/verbs01) | Verb identification: maps verb entries to MW roots, with Devanāgarī renderings |
 
 ## Timeline
 
@@ -26,16 +28,19 @@ An indigenous encyclopedic lexicon that cites classical authorities through quot
 | 2014 | Repository activity begins (first tracked issues) |
 | 2017–2025 | Ongoing corrections, markup, and comparison work |
 | 2026-05 | Issue taxonomy, citation metadata, documentation |
+| 2026-07 | GitHub Pages landing page ([index.html](https://github.com/sanskrit-lexicon/SKD/blob/main/index.html)) |
 
 ## Projects & Milestones
+
+Live counts (as of 11-07-2026):
 
 | Milestone | Open | Closed | Total |
 |---|---|---|---|
 | Dictionary to Book | 0 | 0 | 0 |
-| Digitization Quality | 5 | 4 | 9 |
+| Digitization Quality | 4 | 5 | 9 |
 | Structured Data | 3 | 3 | 6 |
 | Major Enhancements | 5 | 0 | 5 |
-| **Total** | **13** | **7** | **20** |
+| **Total** | **12** | **8** | **20** |
 
 ```mermaid
 pie showData
@@ -64,8 +69,7 @@ pie showData
 | # | Title | Type | Severity | Milestone |
 |---|---|---|---|---|
 | 1 | Correction 'dbika' to 'dvika' | text-correction | minor | Digitization Quality |
-| 2 | alphabetizing errors in skd headwords | text-correction | minor | Digitization Quality |
-| 3 | Removed another headword normalization from skd | text-correction | minor | Digitization Quality |
+| 2 | alphabetizing errors in skd headwords | text-correction | hard | Digitization Quality |
 | 6 | Wikisource शब्दकल्पद्रुमः Edition | question | minor | Structured Data |
 | 8 | All Dhatu Entries (SKD) | content-enhancement | medium | Major Enhancements |
 | 9 | vcp-skd comparison | content-enhancement | medium | Major Enhancements |
@@ -81,7 +85,8 @@ pie showData
 
 | # | Title | Type | Severity | Milestone |
 |---|---|---|---|---|
-| 4 | ड्२अ > ड़ | encoding | minor | Digitization Quality |
+| 3 | Removed another headword normalization from skd | text-correction | minor | Digitization Quality |
+| 4 | ड्२अ > ड़ | encoding | minor | Digitization Quality |
 | 5 | Year 1822 -> 1886 or 1886-1891 | question | minor | Structured Data |
 | 7 | Correction in purANa | bug | minor | Digitization Quality |
 | 14 | High-resolution scans used by Thomas Malten for digitizat… | bug | minor | Digitization Quality |
@@ -118,8 +123,9 @@ pie showData
 | Contributor | Commits |
 |---|---|
 | funderburkjim | 48 |
-| gasyoun (Mārcis Gasūns) | 8 |
+| Mārcis Gasūns (gasyoun) | 24 |
 | AnnaRybakovaT | 1 |
+| Shalu411 | 1 |
 
 ## Source
 
@@ -130,7 +136,7 @@ pie showData
 - **Language pair**: Sanskrit → Sanskrit
 - **Size (CDSL headword index)**: 40,817 entries
 - **License (digital edition)**: CC BY-SA 4.0
-- See [CITATION.cff](CITATION.cff) for machine-readable citation.
+- See [CITATION.cff](https://github.com/sanskrit-lexicon/SKD/blob/main/CITATION.cff) for machine-readable citation.
 
 ## Encoding
 
@@ -150,5 +156,9 @@ flowchart LR
   X --> A["csl-app web display"]
 ```
 
+Corrections are never made directly to the source file — they are expressed as change files applied by scripts. The full 8-stage correction workflow is documented canonically in [csl-corrections/docs/correction-workflow.md](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md).
+
 ---
 *Issue taxonomy and documentation per the [Cologne issue runbook](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-issue-runbook.md).*
+
+_Dr. Mārcis Gasūns_
