@@ -8,7 +8,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 **SKD** is the development and correction repository for **Rājā Rādhākānta Deva's *Śabda-kalpadruma***, an indigenous Sanskrit→Sanskrit encyclopedic lexicon, within the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL).
 
-- **Canonical source text**: [`csl-orig/v02/skd/skd.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/skd/skd.txt) (40,817 entries) — corrections are applied to that file, not stored here.
+- **Canonical source text**: [`csl-orig/v02/skd/skd.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/skd/skd.txt) (40,817 entries) — corrections are applied to that file, not stored here.
 - This repository holds **development artifacts**: corrections, markup, comparison, and per-issue working files.
 - An indigenous encyclopedic lexicon that cites classical authorities through quotations (`“…”`), abbreviated source sigla and `iti`, rather than Western `<ls>` markup.
 
